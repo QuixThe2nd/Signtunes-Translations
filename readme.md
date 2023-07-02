@@ -1,1 +1,0 @@
-# Signtunes Translation Files
