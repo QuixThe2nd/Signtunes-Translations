@@ -1,7 +1,7 @@
 {
     "home": "Startpagina",
     "signer": "Signer",
-    "device_status": "Status van apparaat",
+    "device_status": "Status van Apparaat",
     "help": "Hulp",
     "get_started": "Beginnen",
     "search": "Zoeken",
@@ -125,9 +125,9 @@
     "custom_version": "Aangepaste versie",
     "default_bundle_id": "Gebruik standaard Bundle ID",
     "remove_mobileprovision": "Mobiele voorziening verwijderen",
-    "bypass_iap": "Omzeil met app-aankopen",
+    "bypass_iap": "Omzeil In-App Aankopen",
     "bypass_aa_drm": "Omzeil Apple Arcade DRM",
     "cheat_engine": "Cheat Engine inschakelen",
     "translate": "Vertalen",
-    "help_translate": "Help Signalen Vertalen"
+    "help_translate": "Help met het vertalen van Signtunes"
 }
