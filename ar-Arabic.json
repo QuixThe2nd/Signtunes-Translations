@@ -182,7 +182,7 @@
     "how_many_apps_can_install": "كم عدد التطبيقات التي يمكنني تثبيتها؟",
     "how_many_apps_can_install_details": "يمكنك تثبيت أكبر عدد من التطبيقات كما تريد! ليس لدينا حد لعدد التطبيقات التي يمكنك تثبيتها.",
     "service_duration": "كم من الوقت سأكون قادراً على استخدام الخدمة؟",
-    "service_duration_details": "بالنسبة فقط [price]، يمكنك استخدام التوقيعات لسنة واحدة!",
+    "service_duration_details_2": "You can use Signtunes for a year!",
     "notifications_vpn_support": "هل التوقيعات تدعم الإشعارات و VPN؟",
     "notifications_vpn_support_details": "نعم! التوقيعات توفر لك الاستحقاقات بما في ذلك الإشعارات والشبكات الافتراضية والمزيد!",
     "purchase_thank_you_message": "شكرا لك على الشراء الخاص بك!",
