@@ -264,5 +264,6 @@
     "plan_expires_in": "Suunnitelma päättyy",
     "account_id": "Tilin Tunnus",
     "hours": "Tuntia",
-    "days": "Päivää"
+    "days": "Päivää",
+    "blog": "Blog"
 }
