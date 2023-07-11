@@ -264,5 +264,6 @@
     "plan_expires_in": "プランの有効期限",
     "account_id": "アカウントID",
     "hours": "時間",
-    "days": "日数"
+    "days": "日数",
+    "blog": "Blog"
 }
