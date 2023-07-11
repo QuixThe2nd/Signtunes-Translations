@@ -264,5 +264,6 @@
     "plan_expires_in": "Plan Expires in",
     "account_id": "Account ID",
     "hours": "Hours",
-    "days": "Days"
+    "days": "Days",
+    "blog": "Blog"
 }
