@@ -264,5 +264,6 @@
     "plan_expires_in": "План истекает через",
     "account_id": "ID клиента",
     "hours": "Часы",
-    "days": "Дней"
+    "days": "Дней",
+    "blog": "Blog"
 }
