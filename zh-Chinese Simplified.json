@@ -16,10 +16,10 @@
     "privacy_policy": "隐私",
     "billing": "计费",
     "slogan": "Signtunes 是 iPhone、iPad、Mac和苹果电视的 #1 签名服务",
-    "welcome": "欢迎来到所有新的 Signtunes！",
-    "co2_notice": "信号贡献了每次购买的一部分，从大气层中去除CO2",
+    "welcome": "欢迎来到全新的 Signtunes！",
+    "co2_notice": "Signtunes 捐献一部分收益用于去除大气中的二氧化碳",
     "ipa_finder_description": "使用我们的快捷键直接从官方应用商店安装应用！",
-    "appletv_mac_support_title": "现在在苹果电视和麦克风上！",
+    "appletv_mac_support_title": "可在Apple TV 和 Mac上面使用！",
     "appletv_mac_support": "Signtunes 现在支持 tvOS & macOS! 使用 Signtuns 在您的 Mac 或 TV 上安装自定义 iOS 应用程序。",
     "popular": "热门的",
     "recommended": "推荐的",
@@ -264,5 +264,6 @@
     "plan_expires_in": "计划到期于",
     "account_id": "帐户 ID",
     "hours": "小时数",
-    "days": "天"
+    "days": "天",
+    "blog": "Blog"
 }
