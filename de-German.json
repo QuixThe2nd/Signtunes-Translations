@@ -264,5 +264,6 @@
     "plan_expires_in": "Plan läuft ab in",
     "account_id": "Konto-ID",
     "hours": "Stunden",
-    "days": "Tage"
+    "days": "Tage",
+    "blog": "Blog"
 }
