@@ -265,5 +265,11 @@
     "account_id": "crwdns1311:0crwdne1311:0",
     "hours": "crwdns1313:0crwdne1313:0",
     "days": "crwdns1315:0crwdne1315:0",
+    "link_iphone_ipad": "crwdns1327:0crwdne1327:0",
+    "email": "crwdns1329:0crwdne1329:0",
+    "link_iphone_or_ipad_instructions": "crwdns1331:0crwdne1331:0",
+    "device_successfully_linked": "crwdns1333:0crwdne1333:0",
+    "import_signtunes_certificate": "crwdns1335:0crwdne1335:0",
+    "device_successfully_linked_details": "crwdns1337:0crwdne1337:0",
     "blog": "crwdns1325:0crwdne1325:0"
 }
