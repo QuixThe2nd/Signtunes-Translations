@@ -265,5 +265,11 @@
     "account_id": "Konto-ID",
     "hours": "Stunden",
     "days": "Tage",
+    "link_iphone_ipad": "Link iPhone or iPad",
+    "email": "Email",
+    "link_iphone_or_ipad_instructions": "Once you install this profile on your iOS device, refresh this page and resubmit your email",
+    "device_successfully_linked": "Device Successfully Linked",
+    "import_signtunes_certificate": "Import Signtunes certificate into AppDB.",
+    "device_successfully_linked_details": "Your device has been successfully linked to AppDB. You can install apps via the \"AppDB\" button on Signtunes & Starfiles or through the AppDB UI.",
     "blog": "Blog"
 }
