@@ -181,6 +181,9 @@
     "release_date": "crwdns1321:0crwdne1321:0",
     "version_release_date": "crwdns1323:0crwdne1323:0",
     "starfiles_minimum_ios": "crwdns1141:0crwdne1141:0",
+    "whats_new": "crwdns1339:0crwdne1339:0",
+    "screenshots": "crwdns1341:0crwdne1341:0",
+    "app_info": "crwdns1343:0crwdne1343:0",
     "what_apps_can_install": "crwdns1143:0crwdne1143:0",
     "apps_install_instructions": "crwdns1145:0crwdne1145:0",
     "how_many_apps_can_install": "crwdns1147:0crwdne1147:0",
@@ -271,5 +274,10 @@
     "device_successfully_linked": "crwdns1333:0crwdne1333:0",
     "import_signtunes_certificate": "crwdns1335:0crwdne1335:0",
     "device_successfully_linked_details": "crwdns1337:0crwdne1337:0",
-    "blog": "crwdns1325:0crwdne1325:0"
+    "blog": "crwdns1325:0crwdne1325:0",
+    "appdb_finish": "crwdns1345:0crwdne1345:0",
+    "link_udid": "crwdns1347:0crwdne1347:0",
+    "install_profile": "crwdns1349:0crwdne1349:0",
+    "import": "crwdns1351:0crwdne1351:0",
+    "mac_purchase": "crwdns1353:0crwdne1353:0"
 }
