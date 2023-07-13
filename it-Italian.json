@@ -181,6 +181,9 @@
     "release_date": "Data di Rilascio",
     "version_release_date": "Data di Rilascio della Versione",
     "starfiles_minimum_ios": "Starfiles Minimo iOS",
+    "whats_new": "What's New?",
+    "screenshots": "Screenshots",
+    "app_info": "App Info",
     "what_apps_can_install": "Quali app posso installare?",
     "apps_install_instructions": "Puoi installare qualsiasi app che ti piace con Signtunes! Puoi caricare un IPA o utilizzare la nostra libreria di app.",
     "how_many_apps_can_install": "Quante applicazioni posso installare?",
@@ -271,5 +274,10 @@
     "device_successfully_linked": "Dispositivo Collegato Correttamente",
     "import_signtunes_certificate": "Importa il certificato di Signtunes su AppDB.",
     "device_successfully_linked_details": "Il tuo dispositivo è stato collegato correttamente ad AppDB. Puoi installare le app tramite il pulsante \"AppDB\" su Signtunes e Starfiles o tramite l'UI di AppDB.",
-    "blog": "Blog"
+    "blog": "Blog",
+    "appdb_finish": "Finally, <a href=\"/purchase\" class=\"text-blue-400 font-bold\">purchase Signtunes</a>. Once Signtunes is purchased, enter your Apple TV's UDID below to import the certificate to AppDB.",
+    "link_udid": "Link UDID",
+    "install_profile": "Install Profile",
+    "import": "Import",
+    "mac_purchase": "Finally,<a href=\"/purchase\" class=\"text-blue-400 font-bold\"> Purchase Signtunes</a>. Your Mac's UDID is"
 }
