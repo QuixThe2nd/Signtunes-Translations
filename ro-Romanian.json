@@ -181,6 +181,9 @@
     "release_date": "Data lansării",
     "version_release_date": "Data lansării versiunii",
     "starfiles_minimum_ios": "Număr minim iOS",
+    "whats_new": "What's New?",
+    "screenshots": "Screenshots",
+    "app_info": "App Info",
     "what_apps_can_install": "Ce aplicații pot instala?",
     "apps_install_instructions": "Poți instala orice aplicație care îți place cu Signtuns! Poți încărca un IPA sau să folosești biblioteca noastră de aplicații.",
     "how_many_apps_can_install": "Câte aplicații pot instala?",
@@ -271,5 +274,10 @@
     "device_successfully_linked": "Device Successfully Linked",
     "import_signtunes_certificate": "Import Signtunes certificate into AppDB.",
     "device_successfully_linked_details": "Your device has been successfully linked to AppDB. You can install apps via the \"AppDB\" button on Signtunes & Starfiles or through the AppDB UI.",
-    "blog": "Blog"
+    "blog": "Blog",
+    "appdb_finish": "Finally, <a href=\"/purchase\" class=\"text-blue-400 font-bold\">purchase Signtunes</a>. Once Signtunes is purchased, enter your Apple TV's UDID below to import the certificate to AppDB.",
+    "link_udid": "Link UDID",
+    "install_profile": "Install Profile",
+    "import": "Import",
+    "mac_purchase": "Finally,<a href=\"/purchase\" class=\"text-blue-400 font-bold\"> Purchase Signtunes</a>. Your Mac's UDID is"
 }
