@@ -227,7 +227,7 @@
     "sign_unlimited_apps_appdb": "¡Firma aplicaciones ilimitadas en AppDB!",
     "appdb_plus_details": "AppDB PLUS le permite usar AppDB sin las 10 aplicaciones por mes limitadas que tiene AppDB.",
     "appdb_what_apps_can_install": "¿Qué aplicaciones puedo instalar?",
-    "appdb_apps_install_instructions": "¡Puedes instalar cualquier aplicación que te guste con AppDB!",
+    "appdb_apps_install_instructions": "You can install <strong>any</strong> app you like with AppDB!",
     "appdb_how_many_apps_install": "¿Cuántas aplicaciones puedo instalar?",
     "appdb_unlimited_app_installation": "¡Con AppDB PLUS, puedes instalar aplicaciones ilimitadas con AppDB!",
     "get_appdb_plus": "Get AppDB PLUS",
