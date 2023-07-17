@@ -279,6 +279,6 @@
     "link_udid": "Verbinde UDID",
     "install_profile": "Installiere Profil",
     "import": "Importiere",
-    "mac_purchase": "Letztendlich,<a href=\"/purchase\" class=\"text-blue-400 font-bold\">Kaufe Signtunes</a>. Deine UDID vom Mac ist",
+    "mac_purchase": "Finally, <a href=\"/purchase\" class=\"text-blue-400 font-bold\"> Purchase Signtunes</a>. Your Mac's UDID is",
     "loading": "Laden..."
 }
