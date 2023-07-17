@@ -279,6 +279,6 @@
     "link_udid": "Σύνδεση UDID",
     "install_profile": "Εγκατάσταση Profile",
     "import": "Εισαγωγή",
-    "mac_purchase": "Finally,<a href=\"/purchase\" class=\"text-blue-400 font-bold\"> Purchase Signtunes</a>. Your Mac's UDID is",
+    "mac_purchase": "Finally, <a href=\"/purchase\" class=\"text-blue-400 font-bold\"> Purchase Signtunes</a>. Your Mac's UDID is",
     "loading": "Φόρτωση..."
 }
