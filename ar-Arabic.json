@@ -278,8 +278,8 @@
     "blog": "العنوان",
     "appdb_finish": "أخيرا، <a href=\"/purchase\" class=\"text-blue-400 font-bold\">اشتري علامة</a>. بمجرد شراء التوقيعات، أدخل معرف UDID لتلفزيون Apple الخاص بك أدناه لاستيراد الشهادة إلى AppDB.",
     "link_udid": "Link UDID",
-    "install_profile": "Install Profile",
-    "import": "Import",
-    "mac_purchase": "Finally, <a href=\"/purchase\" class=\"text-blue-400 font-bold\"> Purchase Signtunes</a>. Your Mac's UDID is",
-    "loading": "Loading..."
+    "install_profile": "تثبيت الملف الشخصي",
+    "import": "استيراد",
+    "mac_purchase": "أخيراً، <a href=\"/purchase\" class=\"text-blue-400 font-bold\"> اشتري إشارات</a>. UDID الخاص بك هو",
+    "loading": "تحميل..."
 }
