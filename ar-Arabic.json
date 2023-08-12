@@ -281,5 +281,16 @@
     "install_profile": "تثبيت الملف الشخصي",
     "import": "استيراد",
     "mac_purchase": "أخيراً، <a href=\"/purchase\" class=\"text-blue-400 font-bold\"> اشتري إشارات</a>. UDID الخاص بك هو",
-    "loading": "تحميل..."
+    "loading": "تحميل...",
+    "bookmarks": "Bookmarks",
+    "history": "History",
+    "device": "Device",
+    "appearance": "Appearance",
+    "clear_cache": "Clear Cache",
+    "about": "About",
+    "discover": "Discover",
+    "settings_advanced": "Advanced Settings",
+    "settings": "Settings",
+    "copy_bundleid": "Copy Bundle ID",
+    "select": "Select"
 }
