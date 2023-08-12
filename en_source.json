@@ -302,5 +302,10 @@
     "Frequent/Intense Realistic Violence": "Frequent/Intense Realistic Violence",
     "Frequent/Intense Simulated Gambling": "Frequent/Intense Simulated Gambling",
     "Frequent/Intense Cartoon or Fantasy Violence": "Frequent/Intense Cartoon or Fantasy Violence"
-    "description": "Description"
+    "description": "Description",
+    "genres": "Genres",
+    "view_more": "View More",
+    "view_less": "View Less",
+    "GET": "GET",
+    "Download": "Download"
 }
