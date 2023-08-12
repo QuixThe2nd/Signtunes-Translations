@@ -281,5 +281,16 @@
     "install_profile": "Εγκατάσταση Profile",
     "import": "Εισαγωγή",
     "mac_purchase": "Τέλος, <a href=\"/purchase\" class=\"text-blue-400 font-bold\"> Αγορά Signtunes</a>. Το UDID του Mac σας είναι",
-    "loading": "Φόρτωση..."
+    "loading": "Φόρτωση...",
+    "bookmarks": "Bookmarks",
+    "history": "History",
+    "device": "Device",
+    "appearance": "Appearance",
+    "clear_cache": "Clear Cache",
+    "about": "About",
+    "discover": "Discover",
+    "settings_advanced": "Advanced Settings",
+    "settings": "Settings",
+    "copy_bundleid": "Copy Bundle ID",
+    "select": "Select"
 }
