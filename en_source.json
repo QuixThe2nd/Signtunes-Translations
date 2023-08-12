@@ -293,5 +293,10 @@
     "settings": "Settings",
     "copy_bundleid": "Copy Bundle ID",
     "select": "Select",
-    "versions": "Versions"
+    "versions": "Versions",
+    "Infrequent/Mild Mature/Suggestive Themes": "Infrequent/Mild Mature/Suggestive Themes"
+    "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References": "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
+    "Infrequent/Mild Sexual Content and Nudity": "Infrequent/Mild Sexual Content and Nudity",
+    "Infrequent/Mild Profanity or Crude Humor": "Infrequent/Mild Profanity or Crude Humor",
+    "description": "Description"
 }
