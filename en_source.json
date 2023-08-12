@@ -298,5 +298,9 @@
     "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References": "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
     "Infrequent/Mild Sexual Content and Nudity": "Infrequent/Mild Sexual Content and Nudity",
     "Infrequent/Mild Profanity or Crude Humor": "Infrequent/Mild Profanity or Crude Humor",
+    "Infrequent/Mild Cartoon or Fantasy Violence": "Infrequent/Mild Cartoon or Fantasy Violence",
+    "Frequent/Intense Realistic Violence": "Frequent/Intense Realistic Violence",
+    "Frequent/Intense Simulated Gambling": "Frequent/Intense Simulated Gambling",
+    "Frequent/Intense Cartoon or Fantasy Violence": "Frequent/Intense Cartoon or Fantasy Violence"
     "description": "Description"
 }
