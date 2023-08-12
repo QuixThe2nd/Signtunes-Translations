@@ -281,5 +281,16 @@
     "install_profile": "Installera profil",
     "import": "Importera",
     "mac_purchase": "Slutligen, <a href=\"/purchase\" class=\"text-blue-400 font-bold\"> Köp skyltar</a>. Din Mac's UDID är",
-    "loading": "Laddar..."
+    "loading": "Laddar...",
+    "bookmarks": "Bookmarks",
+    "history": "History",
+    "device": "Device",
+    "appearance": "Appearance",
+    "clear_cache": "Clear Cache",
+    "about": "About",
+    "discover": "Discover",
+    "settings_advanced": "Advanced Settings",
+    "settings": "Settings",
+    "copy_bundleid": "Copy Bundle ID",
+    "select": "Select"
 }
