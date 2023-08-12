@@ -281,5 +281,16 @@
     "install_profile": "Installeer profiel",
     "import": "Importeren",
     "mac_purchase": "Tot slot <a href=\"/purchase\" class=\"text-blue-400 font-bold\"> Koop Signtunes</a>. Uw Mac's UDID is",
-    "loading": "Laden..."
+    "loading": "Laden...",
+    "bookmarks": "Bookmarks",
+    "history": "History",
+    "device": "Device",
+    "appearance": "Appearance",
+    "clear_cache": "Clear Cache",
+    "about": "About",
+    "discover": "Discover",
+    "settings_advanced": "Advanced Settings",
+    "settings": "Settings",
+    "copy_bundleid": "Copy Bundle ID",
+    "select": "Select"
 }
