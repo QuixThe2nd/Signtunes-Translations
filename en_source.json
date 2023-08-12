@@ -281,5 +281,14 @@
     "install_profile": "Install Profile",
     "import": "Import",
     "mac_purchase": "Finally, <a href=\"/purchase\" class=\"text-blue-400 font-bold\"> Purchase Signtunes</a>. Your Mac's UDID is",
-    "loading": "Loading..."
+    "loading": "Loading...",
+    "bookmarks" "Bookmarks",
+    "history" "History",
+    "device" "Device",
+    "appearance" "Appearance",
+    "clear_cache" "Clear Cache",
+    "about" "About",
+    "discover" "Discover",
+    "settings_advanced": "Advanced Settings",
+    "settings": "Settings"
 }
