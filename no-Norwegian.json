@@ -281,5 +281,16 @@
     "install_profile": "Installer profil",
     "import": "Importer",
     "mac_purchase": "Til slutt, <a href=\"/purchase\" class=\"text-blue-400 font-bold\"> Kjøps Signtunes</a>. Din Mac-UDID er",
-    "loading": "Laster..."
+    "loading": "Laster...",
+    "bookmarks": "Bookmarks",
+    "history": "History",
+    "device": "Device",
+    "appearance": "Appearance",
+    "clear_cache": "Clear Cache",
+    "about": "About",
+    "discover": "Discover",
+    "settings_advanced": "Advanced Settings",
+    "settings": "Settings",
+    "copy_bundleid": "Copy Bundle ID",
+    "select": "Select"
 }
