@@ -281,5 +281,16 @@
     "install_profile": "インストールプロファイル",
     "import": "インポート",
     "mac_purchase": "最後に、 <a href=\"/purchase\" class=\"text-blue-400 font-bold\"> 購入署名</a>。お使いの Mac の UDID は",
-    "loading": "読み込み中..."
+    "loading": "読み込み中...",
+    "bookmarks": "Bookmarks",
+    "history": "History",
+    "device": "Device",
+    "appearance": "Appearance",
+    "clear_cache": "Clear Cache",
+    "about": "About",
+    "discover": "Discover",
+    "settings_advanced": "Advanced Settings",
+    "settings": "Settings",
+    "copy_bundleid": "Copy Bundle ID",
+    "select": "Select"
 }
