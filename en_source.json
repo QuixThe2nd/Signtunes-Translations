@@ -316,5 +316,7 @@
     "month_ago": "Month Ago",
     "months_ago": "Months Ago"
     "year_ago": "Year Ago",
-    "years_ago": "Years Ago"
+    "years_ago": "Years Ago",
+    "update_available": "Update Available",
+    "update_available_text": "A new version of Signtunes is available",
 }
