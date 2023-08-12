@@ -291,5 +291,6 @@
     "discover" "Discover",
     "settings_advanced": "Advanced Settings",
     "settings": "Settings",
-    "copy_bundleid": "Copy Bundle ID"
+    "copy_bundleid": "Copy Bundle ID",
+    "select": "Select"
 }
