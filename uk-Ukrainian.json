@@ -281,5 +281,16 @@
     "install_profile": "Встановити профіль",
     "import": "Імпорт",
     "mac_purchase": "Нарешті, <a href=\"/purchase\" class=\"text-blue-400 font-bold\"> Купити підписи</a>. UDID вашого Mac",
-    "loading": "Завантажується..."
+    "loading": "Завантажується...",
+    "bookmarks": "Bookmarks",
+    "history": "History",
+    "device": "Device",
+    "appearance": "Appearance",
+    "clear_cache": "Clear Cache",
+    "about": "About",
+    "discover": "Discover",
+    "settings_advanced": "Advanced Settings",
+    "settings": "Settings",
+    "copy_bundleid": "Copy Bundle ID",
+    "select": "Select"
 }
