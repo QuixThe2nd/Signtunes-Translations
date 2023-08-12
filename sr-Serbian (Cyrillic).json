@@ -25,7 +25,7 @@
     "recommended": "Recommended",
     "new": "New",
     "All": "All",
-    "Jailbreak Apps": "Jailbreak Apps",
+    "Jailbreak": "Jailbreak",
     "Entertainment": "Entertainment",
     "Photo & Video": "Photo & Video",
     "Games": "Games",
@@ -292,5 +292,6 @@
     "settings_advanced": "Advanced Settings",
     "settings": "Settings",
     "copy_bundleid": "Copy Bundle ID",
-    "select": "Select"
+    "select": "Select",
+    "versions": "Versions"
 }
