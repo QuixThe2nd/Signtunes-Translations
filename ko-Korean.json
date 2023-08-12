@@ -25,7 +25,7 @@
     "recommended": "추천",
     "new": "신규",
     "All": "All",
-    "Jailbreak Apps": "Jailbreak 앱",
+    "Jailbreak": "Jailbreak",
     "Entertainment": "엔터테인먼트",
     "Photo & Video": "사진 & 동영상",
     "Games": "게임",
@@ -292,5 +292,6 @@
     "settings_advanced": "Advanced Settings",
     "settings": "Settings",
     "copy_bundleid": "Copy Bundle ID",
-    "select": "Select"
+    "select": "Select",
+    "versions": "Versions"
 }
