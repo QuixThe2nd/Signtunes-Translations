@@ -309,4 +309,12 @@
     "GET": "GET",
     "download": "Download",
     "free": "Free",
+    "day_ago": "Day Ago",
+    "days_ago": "Days Ago",
+    "week_ago": "Week Ago",
+    "weeks_ago": "Weeks Ago"
+    "month_ago": "Month Ago",
+    "months_ago": "Months Ago"
+    "year_ago": "Year Ago",
+    "years_ago": "Years Ago"
 }
