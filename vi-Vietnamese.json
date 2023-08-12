@@ -25,7 +25,7 @@
     "recommended": "Khuyến nghị",
     "new": "Mới",
     "All": "Tất cả",
-    "Jailbreak Apps": "Ứng dụng Jailbreak",
+    "Jailbreak": "Jailbreak",
     "Entertainment": "Giải trí",
     "Photo & Video": "Ảnh / Video",
     "Games": "Trò chơi",
@@ -292,5 +292,6 @@
     "settings_advanced": "Advanced Settings",
     "settings": "Settings",
     "copy_bundleid": "Copy Bundle ID",
-    "select": "Select"
+    "select": "Select",
+    "versions": "Versions"
 }
