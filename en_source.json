@@ -307,5 +307,6 @@
     "view_more": "View More",
     "view_less": "View Less",
     "GET": "GET",
-    "Download": "Download"
+    "download": "Download",
+    "free": "Free",
 }
