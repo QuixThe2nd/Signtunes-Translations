@@ -281,5 +281,16 @@
     "install_profile": "Instalar Perfil",
     "import": "Importação",
     "mac_purchase": "Finalmente, <a href=\"/purchase\" class=\"text-blue-400 font-bold\"> Purchase Signtunes</a>. UDID do seu Mac, é",
-    "loading": "Carregandochar@@0"
+    "loading": "Carregandochar@@0",
+    "bookmarks": "Bookmarks",
+    "history": "History",
+    "device": "Device",
+    "appearance": "Appearance",
+    "clear_cache": "Clear Cache",
+    "about": "About",
+    "discover": "Discover",
+    "settings_advanced": "Advanced Settings",
+    "settings": "Settings",
+    "copy_bundleid": "Copy Bundle ID",
+    "select": "Select"
 }
