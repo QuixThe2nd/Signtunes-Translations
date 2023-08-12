@@ -281,5 +281,16 @@
     "install_profile": "安装配置文件",
     "import": "导入",
     "mac_purchase": "最后， <a href=\"/purchase\" class=\"text-blue-400 font-bold\"> 购买标志</a>。您的 Mac 的 UDID 是",
-    "loading": "加载中..."
+    "loading": "加载中...",
+    "bookmarks": "Bookmarks",
+    "history": "History",
+    "device": "Device",
+    "appearance": "Appearance",
+    "clear_cache": "Clear Cache",
+    "about": "About",
+    "discover": "Discover",
+    "settings_advanced": "Advanced Settings",
+    "settings": "Settings",
+    "copy_bundleid": "Copy Bundle ID",
+    "select": "Select"
 }
