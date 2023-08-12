@@ -25,7 +25,7 @@
     "recommended": "מומלץ",
     "new": "חדש",
     "All": "הכל",
-    "Jailbreak Apps": "אפליקציות Jailbreak",
+    "Jailbreak": "Jailbreak",
     "Entertainment": "בידור",
     "Photo & Video": "תמונות ווידאו",
     "Games": "משחקים",
@@ -292,5 +292,6 @@
     "settings_advanced": "Advanced Settings",
     "settings": "Settings",
     "copy_bundleid": "Copy Bundle ID",
-    "select": "Select"
+    "select": "Select",
+    "versions": "Versions"
 }
