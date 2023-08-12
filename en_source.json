@@ -290,5 +290,6 @@
     "about" "About",
     "discover" "Discover",
     "settings_advanced": "Advanced Settings",
-    "settings": "Settings"
+    "settings": "Settings",
+    "copy_bundleid": "Copy Bundle ID"
 }
