@@ -25,7 +25,7 @@
     "recommended": "Odporúčané",
     "new": "Nové",
     "All": "Všetky",
-    "Jailbreak Apps": "Jailbreak-nuté aplikácie",
+    "Jailbreak": "Jailbreak",
     "Entertainment": "Zábava",
     "Photo & Video": "Foto a Video",
     "Games": "Hry",
@@ -292,5 +292,6 @@
     "settings_advanced": "Advanced Settings",
     "settings": "Settings",
     "copy_bundleid": "Copy Bundle ID",
-    "select": "Select"
+    "select": "Select",
+    "versions": "Versions"
 }
