@@ -25,7 +25,7 @@
     "recommended": "Anbefalt",
     "new": "Ny",
     "All": "Alle",
-    "Jailbreak": "Jailbreak",
+    "Jailbreak": "Fengselsbryter",
     "Entertainment": "Underholdning",
     "Photo & Video": "Bilde & Video",
     "Games": "Spill",
@@ -293,5 +293,5 @@
     "settings": "Innstillinger",
     "copy_bundleid": "Kopier pakke-ID",
     "select": "Velg",
-    "versions": "Versions"
+    "versions": "Versjoner"
 }
