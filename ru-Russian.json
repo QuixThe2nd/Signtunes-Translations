@@ -25,7 +25,7 @@
     "recommended": "Рекомендовано",
     "new": "Новый",
     "All": "Все",
-    "Jailbreak": "Jailbreak",
+    "Jailbreak": "Тюрьма",
     "Entertainment": "Развлечения",
     "Photo & Video": "Фото и видео",
     "Games": "Игры",
@@ -293,5 +293,5 @@
     "settings": "Настройки",
     "copy_bundleid": "Копировать ID пакета",
     "select": "Выбрать",
-    "versions": "Versions"
+    "versions": "Версии"
 }
