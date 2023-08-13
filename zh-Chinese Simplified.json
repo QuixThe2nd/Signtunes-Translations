@@ -25,7 +25,7 @@
     "recommended": "推荐的",
     "new": "新的",
     "All": "所有的",
-    "Jailbreak": "Jailbreak",
+    "Jailbreak": "守卫区",
     "Entertainment": "娱乐活动",
     "Photo & Video": "照片和视频",
     "Games": "游戏",
@@ -293,5 +293,5 @@
     "settings": "设置",
     "copy_bundleid": "复制 Bundle ID",
     "select": "选择",
-    "versions": "Versions"
+    "versions": "版本"
 }
