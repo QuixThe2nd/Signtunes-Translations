@@ -25,7 +25,7 @@
     "recommended": "المقترح",
     "new": "الجديد",
     "All": "الكل",
-    "Jailbreak": "Jailbreak",
+    "Jailbreak": "سكر",
     "Entertainment": "الترفيه",
     "Photo & Video": "الصور و الفيديو",
     "Games": "ألالعاب",
@@ -293,5 +293,5 @@
     "settings": "الإعدادات",
     "copy_bundleid": "نسخ معرف الحزمة",
     "select": "حدد",
-    "versions": "Versions"
+    "versions": "الإصدارات"
 }
