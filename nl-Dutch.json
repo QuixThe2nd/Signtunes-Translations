@@ -25,7 +25,7 @@
     "recommended": "Aanbevolen",
     "new": "Nieuw",
     "All": "Alle",
-    "Jailbreak": "Jailbreak",
+    "Jailbreak": "Gevangenis",
     "Entertainment": "Entertainment",
     "Photo & Video": "Foto & Video",
     "Games": "Spellen",
@@ -293,5 +293,5 @@
     "settings": "Instellingen",
     "copy_bundleid": "Kopieer Bundel ID",
     "select": "Selecteren",
-    "versions": "Versions"
+    "versions": "versies"
 }
