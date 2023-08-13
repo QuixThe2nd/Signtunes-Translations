@@ -25,7 +25,7 @@
     "recommended": "Recomendados",
     "new": "Novidades",
     "All": "TODOS",
-    "Jailbreak": "Jailbreak",
+    "Jailbreak": "Quebra",
     "Entertainment": "Entretenimento",
     "Photo & Video": "Foto e Vídeo",
     "Games": "Partidas",
@@ -293,5 +293,5 @@
     "settings": "Confirgurações",
     "copy_bundleid": "Copiar ID do pacote",
     "select": "Selecionar",
-    "versions": "Versions"
+    "versions": "Versões"
 }
