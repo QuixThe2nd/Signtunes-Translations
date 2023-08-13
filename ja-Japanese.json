@@ -25,7 +25,7 @@
     "recommended": "Recommended",
     "new": "新規作成",
     "All": "すべて",
-    "Jailbreak": "Jailbreak",
+    "Jailbreak": "脱獄format@@0",
     "Entertainment": "エンターテイメント",
     "Photo & Video": "写真とビデオ",
     "Games": "ゲーム",
@@ -293,5 +293,5 @@
     "settings": "設定",
     "copy_bundleid": "バンドル ID をコピー",
     "select": "選択",
-    "versions": "Versions"
+    "versions": "バージョン"
 }
