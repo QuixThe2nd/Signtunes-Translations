@@ -25,7 +25,7 @@
     "recommended": "Рекомендовані",
     "new": "Новий",
     "All": "Всі",
-    "Jailbreak Apps": "Додатки Jailbreak",
+    "Jailbreak": "Jailbreak",
     "Entertainment": "Розваги",
     "Photo & Video": "Фото і відео",
     "Games": "Ігри",
@@ -281,5 +281,17 @@
     "install_profile": "Встановити профіль",
     "import": "Імпорт",
     "mac_purchase": "Нарешті, <a href=\"/purchase\" class=\"text-blue-400 font-bold\"> Купити підписи</a>. UDID вашого Mac",
-    "loading": "Завантажується..."
+    "loading": "Завантажується...",
+    "bookmarks": "Закладки",
+    "history": "Історія",
+    "device": "Пристрій",
+    "appearance": "Зовнішній вигляд",
+    "clear_cache": "Очистити кеш",
+    "about": "Про програму",
+    "discover": "Відкрийте для себе",
+    "settings_advanced": "Додаткові параметри",
+    "settings": "Налаштування",
+    "copy_bundleid": "Копіювати ідентифікатор набору",
+    "select": "Вибрати",
+    "versions": "Версії"
 }
