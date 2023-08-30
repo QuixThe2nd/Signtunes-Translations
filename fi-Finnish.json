@@ -25,7 +25,7 @@
     "recommended": "Suositellut",
     "new": "Uusi",
     "All": "Kaikki",
-    "Jailbreak Apps": "Jailbreak sovellukset",
+    "Jailbreak": "Jailbreak",
     "Entertainment": "Viihde",
     "Photo & Video": "Kuva & video",
     "Games": "Pelit",
@@ -281,5 +281,17 @@
     "install_profile": "Asenna Profiili",
     "import": "Tuo",
     "mac_purchase": "Lopuksi, <a href=\"/purchase\" class=\"text-blue-400 font-bold\"> ostomerkit</a>. Macin UDID on",
-    "loading": "Ladataan..."
+    "loading": "Ladataan...",
+    "bookmarks": "Kirjanmerkit",
+    "history": "Historia",
+    "device": "Laite",
+    "appearance": "Ulkoasu",
+    "clear_cache": "Tyhjennä Välimuisti",
+    "about": "Tietoja",
+    "discover": "Löydä",
+    "settings_advanced": "Edistyneet Asetukset",
+    "settings": "Asetukset",
+    "copy_bundleid": "Kopioi Paketti ID",
+    "select": "Valitse",
+    "versions": "Versiot"
 }
