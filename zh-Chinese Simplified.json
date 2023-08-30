@@ -25,7 +25,7 @@
     "recommended": "推荐的",
     "new": "新的",
     "All": "所有的",
-    "Jailbreak Apps": "校车应用",
+    "Jailbreak": "守卫区",
     "Entertainment": "娱乐活动",
     "Photo & Video": "照片和视频",
     "Games": "游戏",
@@ -281,5 +281,17 @@
     "install_profile": "安装配置文件",
     "import": "导入",
     "mac_purchase": "最后， <a href=\"/purchase\" class=\"text-blue-400 font-bold\"> 购买标志</a>。您的 Mac 的 UDID 是",
-    "loading": "加载中..."
+    "loading": "加载中...",
+    "bookmarks": "书签",
+    "history": "历史记录",
+    "device": "设备",
+    "appearance": "外观",
+    "clear_cache": "清除缓存",
+    "about": "关于",
+    "discover": "发现",
+    "settings_advanced": "高级设置",
+    "settings": "设置",
+    "copy_bundleid": "复制 Bundle ID",
+    "select": "选择",
+    "versions": "版本"
 }
