@@ -25,7 +25,7 @@
     "recommended": "Rekommenderad",
     "new": "Ny",
     "All": "Alla",
-    "Jailbreak Apps": "Jailbreak appar",
+    "Jailbreak": "Jailbreak",
     "Entertainment": "Underhållning",
     "Photo & Video": "Foto & Video",
     "Games": "Spel",
@@ -281,5 +281,17 @@
     "install_profile": "Installera profil",
     "import": "Importera",
     "mac_purchase": "Slutligen, <a href=\"/purchase\" class=\"text-blue-400 font-bold\"> Köp skyltar</a>. Din Mac's UDID är",
-    "loading": "Laddar..."
+    "loading": "Laddar...",
+    "bookmarks": "Bokmärken",
+    "history": "Historik",
+    "device": "Enhet",
+    "appearance": "Utseende",
+    "clear_cache": "Rensa cache",
+    "about": "Om",
+    "discover": "Upptäck",
+    "settings_advanced": "Avancerade inställningar",
+    "settings": "Inställningar",
+    "copy_bundleid": "Kopiera paket-ID",
+    "select": "Välj",
+    "versions": "Versioner"
 }
