@@ -25,7 +25,7 @@
     "recommended": "Aanbevolen",
     "new": "Nieuw",
     "All": "Alle",
-    "Jailbreak Apps": "Jailbreak Apps",
+    "Jailbreak": "Gevangenis",
     "Entertainment": "Entertainment",
     "Photo & Video": "Foto & Video",
     "Games": "Spellen",
@@ -281,5 +281,17 @@
     "install_profile": "Installeer profiel",
     "import": "Importeren",
     "mac_purchase": "Tot slot <a href=\"/purchase\" class=\"text-blue-400 font-bold\"> Koop Signtunes</a>. Uw Mac's UDID is",
-    "loading": "Laden..."
+    "loading": "Laden...",
+    "bookmarks": "Bladwijzers",
+    "history": "Geschiedenis",
+    "device": "Apparaat",
+    "appearance": "Uiterlijk",
+    "clear_cache": "Cache legen",
+    "about": "Informatie",
+    "discover": "Ontdek",
+    "settings_advanced": "Geavanceerde instellingen",
+    "settings": "Instellingen",
+    "copy_bundleid": "Kopieer Bundel ID",
+    "select": "Selecteren",
+    "versions": "versies"
 }
