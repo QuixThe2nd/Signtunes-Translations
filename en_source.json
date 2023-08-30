@@ -294,16 +294,15 @@
     "copy_bundleid": "Copy Bundle ID",
     "select": "Select",
     "versions": "Versions",
-    "Infrequent/Mild Mature/Suggestive Themes": "Infrequent/Mild Mature/Suggestive Themes"
+    "Infrequent/Mild Mature/Suggestive Themes": "Infrequent/Mild Mature/Suggestive Themes",
     "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References": "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
     "Infrequent/Mild Sexual Content and Nudity": "Infrequent/Mild Sexual Content and Nudity",
     "Infrequent/Mild Profanity or Crude Humor": "Infrequent/Mild Profanity or Crude Humor",
     "Infrequent/Mild Cartoon or Fantasy Violence": "Infrequent/Mild Cartoon or Fantasy Violence",
     "Frequent/Intense Realistic Violence": "Frequent/Intense Realistic Violence",
     "Frequent/Intense Simulated Gambling": "Frequent/Intense Simulated Gambling",
-    "Frequent/Intense Cartoon or Fantasy Violence": "Frequent/Intense Cartoon or Fantasy Violence"
+    "Frequent/Intense Cartoon or Fantasy Violence": "Frequent/Intense Cartoon or Fantasy Violence",
     "description": "Description",
-    "genres": "Genres",
     "view_more": "View More",
     "view_less": "View Less",
     "GET": "GET",
@@ -312,9 +311,9 @@
     "day_ago": "Day Ago",
     "days_ago": "Days Ago",
     "week_ago": "Week Ago",
-    "weeks_ago": "Weeks Ago"
+    "weeks_ago": "Weeks Ago",
     "month_ago": "Month Ago",
-    "months_ago": "Months Ago"
+    "months_ago": "Months Ago",
     "year_ago": "Year Ago",
     "years_ago": "Years Ago",
     "update_available": "Update Available",
