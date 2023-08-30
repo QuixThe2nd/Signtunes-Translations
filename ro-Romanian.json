@@ -25,7 +25,7 @@
     "recommended": "Recomandat",
     "new": "Nou",
     "All": "Toate",
-    "Jailbreak Apps": "Aplicații Jailbreak",
+    "Jailbreak": "Jailbreak",
     "Entertainment": "Divertisment",
     "Photo & Video": "Fotografie & Video",
     "Games": "Jocuri",
@@ -281,5 +281,17 @@
     "install_profile": "Instalare profil",
     "import": "Importă",
     "mac_purchase": "<a href=\"/purchase\" class=\"text-blue-400 font-bold\"> Cumpără semnări</a>. UDID-ul Mac-ului tău este",
-    "loading": "Încărcare..."
+    "loading": "Încărcare...",
+    "bookmarks": "Marcaje",
+    "history": "Istoric",
+    "device": "Dispozitiv",
+    "appearance": "Aspectul",
+    "clear_cache": "Curăță Cache",
+    "about": "Despre",
+    "discover": "Descoperă",
+    "settings_advanced": "Setări avansate",
+    "settings": "Setări",
+    "copy_bundleid": "Copiază ID-ul Bundle",
+    "select": "Selectare",
+    "versions": "Versiuni"
 }
