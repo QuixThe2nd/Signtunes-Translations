@@ -25,7 +25,7 @@
     "recommended": "المقترح",
     "new": "الجديد",
     "All": "الكل",
-    "Jailbreak Apps": "تطبيقات الجيل بريك",
+    "Jailbreak": "سكر",
     "Entertainment": "الترفيه",
     "Photo & Video": "الصور و الفيديو",
     "Games": "ألالعاب",
@@ -281,5 +281,17 @@
     "install_profile": "تثبيت الملف الشخصي",
     "import": "استيراد",
     "mac_purchase": "أخيراً، <a href=\"/purchase\" class=\"text-blue-400 font-bold\"> اشتري إشارات</a>. UDID الخاص بك هو",
-    "loading": "تحميل..."
+    "loading": "تحميل...",
+    "bookmarks": "المفضلة",
+    "history": "التاريخ",
+    "device": "الجهاز",
+    "appearance": "المظهر",
+    "clear_cache": "مسح ذاكرة التخزين المؤقت",
+    "about": "حول",
+    "discover": "اكتشف",
+    "settings_advanced": "الإعدادات المتقدمة",
+    "settings": "الإعدادات",
+    "copy_bundleid": "نسخ معرف الحزمة",
+    "select": "حدد",
+    "versions": "الإصدارات"
 }
