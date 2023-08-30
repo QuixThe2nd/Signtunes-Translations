@@ -25,7 +25,7 @@
     "recommended": "Rekomendowane",
     "new": "Nowy",
     "All": "Wszystkie",
-    "Jailbreak Apps": "Aplikacje przerwy",
+    "Jailbreak": "Przełamanie jaila",
     "Entertainment": "Rozrywka",
     "Photo & Video": "Zdjęcie i wideo",
     "Games": "Gry",
@@ -281,5 +281,17 @@
     "install_profile": "Zainstaluj profil",
     "import": "Importuj",
     "mac_purchase": "Na koniec, <a href=\"/purchase\" class=\"text-blue-400 font-bold\"> Zakup Signtunes</a>. UDID Twojego Maca to",
-    "loading": "Ładowanie..."
+    "loading": "Ładowanie...",
+    "bookmarks": "Zakładki",
+    "history": "Historia",
+    "device": "Urządzenie",
+    "appearance": "Wygląd",
+    "clear_cache": "Usuń pamięć podręczną",
+    "about": "O programie",
+    "discover": "Odkryj",
+    "settings_advanced": "Ustawienia zaawansowane",
+    "settings": "Ustawienia",
+    "copy_bundleid": "Kopiuj identyfikator pakietu",
+    "select": "Wybierz",
+    "versions": "Wersje"
 }
