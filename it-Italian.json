@@ -25,7 +25,7 @@
     "recommended": "Consigliato",
     "new": "Nuovo",
     "All": "Tutti",
-    "Jailbreak Apps": "Jailbreak Apps",
+    "Jailbreak": "Jailbreak",
     "Entertainment": "Intrattenimento",
     "Photo & Video": "Foto E Video",
     "Games": "Giochi",
@@ -281,5 +281,17 @@
     "install_profile": "Installa Profilo",
     "import": "Importa",
     "mac_purchase": "Infine, <a href=\"/purchase\" class=\"text-blue-400 font-bold\"> acquista Signtunes</a>. L'UDID del tuo Mac è",
-    "loading": "Caricamento..."
+    "loading": "Caricamento...",
+    "bookmarks": "Segnalibri",
+    "history": "Storico",
+    "device": "Dispositivo",
+    "appearance": "Aspetto",
+    "clear_cache": "Cancella Cache",
+    "about": "Informazioni",
+    "discover": "Scopri",
+    "settings_advanced": "Impostazioni Avanzate",
+    "settings": "Impostazioni",
+    "copy_bundleid": "Copia Bundle ID",
+    "select": "Seleziona",
+    "versions": "Versioni"
 }
