@@ -25,7 +25,7 @@
     "recommended": "Anbefalt",
     "new": "Ny",
     "All": "Alle",
-    "Jailbreak Apps": "Jailbreak apper",
+    "Jailbreak": "Fengselsbryter",
     "Entertainment": "Underholdning",
     "Photo & Video": "Bilde & Video",
     "Games": "Spill",
@@ -281,5 +281,17 @@
     "install_profile": "Installer profil",
     "import": "Importer",
     "mac_purchase": "Til slutt, <a href=\"/purchase\" class=\"text-blue-400 font-bold\"> Kjøps Signtunes</a>. Din Mac-UDID er",
-    "loading": "Laster..."
+    "loading": "Laster...",
+    "bookmarks": "Bokmerker",
+    "history": "Historikk",
+    "device": "Enhet",
+    "appearance": "Utseende",
+    "clear_cache": "Tøm hurtiglager",
+    "about": "Om",
+    "discover": "Oppdag",
+    "settings_advanced": "Avanserte innstillinger",
+    "settings": "Innstillinger",
+    "copy_bundleid": "Kopier pakke-ID",
+    "select": "Velg",
+    "versions": "Versjoner"
 }
