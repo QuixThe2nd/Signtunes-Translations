@@ -323,5 +323,10 @@
     "add": "Adăugare",
     "languages": "Limbi",
     "delete": "Ștergere",
-    "copy": "Copiază"
+    "copy": "Copiază",
+    "repos": "Repos",
+    "repo": "Repo",
+    "cache_cleared": "Cache Cleared",
+    "error": "Error",
+    "something_went_wrong": "Something went wrong"
 }
