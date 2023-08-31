@@ -323,5 +323,10 @@
     "add": "追加",
     "languages": "言語",
     "delete": "削除",
-    "copy": "コピー"
+    "copy": "コピー",
+    "repos": "Repos",
+    "repo": "Repo",
+    "cache_cleared": "Cache Cleared",
+    "error": "Error",
+    "something_went_wrong": "Something went wrong"
 }
