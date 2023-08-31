@@ -295,6 +295,7 @@
     "copy_bundleid": "Kopioi Paketti ID",
     "select": "Valitse",
     "versions": "Versiot",
+    "version": "Version",
     "Infrequent/Mild Mature/Suggestive Themes": "Harvinainen/Lievä Kypsä / Ehdottavat Teemat",
     "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References": "Harvinainen/lievä alkoholi, tupakka tai huumeiden käyttö tai viittaukset",
     "Infrequent/Mild Sexual Content and Nudity": "Harvinaiset/lievä seksuaalinen sisältö ja uteliaisuus",
@@ -303,6 +304,10 @@
     "Frequent/Intense Realistic Violence": "Usein Esiintyvä Realistinen Väkivalta",
     "Frequent/Intense Simulated Gambling": "Yleinen/intensiivinen Simuloitu Uhkapeli",
     "Frequent/Intense Cartoon or Fantasy Violence": "Yleinen/voimakas sarjakuva tai fantasia väkivalta",
+    "Infrequent/Mild Realistic Violence": "Infrequent/Mild Realistic Violence",
+    "Infrequent/Mild Horror/Fear Themes": "Infrequent/Mild Horror/Fear Themes",
+    "Infrequent/Mild Medical/Treatment Information": "Infrequent/Mild Medical/Treatment Information",
+    "Infrequent/Mild Simulated Gambling": "Infrequent/Mild Simulated Gambling",
     "description": "Kuvaus",
     "view_more": "Näytä Lisää",
     "view_less": "Näytä Vähemmän",
@@ -328,5 +333,6 @@
     "repo": "Repo",
     "cache_cleared": "Cache Cleared",
     "error": "Error",
-    "something_went_wrong": "Something went wrong"
+    "something_went_wrong": "Something went wrong",
+    "customisation": "Customisation"
 }
