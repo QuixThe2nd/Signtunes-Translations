@@ -292,7 +292,7 @@
     "discover": "Discover",
     "settings_advanced": "Advanced Settings",
     "settings": "Settings",
-    "copy_bundleid": "Copy Bundle ID",
+    "copied_bundleid": "Bundle ID Copied",
     "select": "Select",
     "versions": "Versions",
     "version": "Version",
