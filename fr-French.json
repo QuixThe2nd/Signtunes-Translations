@@ -295,6 +295,7 @@
     "copy_bundleid": "Copier l'ID du lot",
     "select": "Sélectionner",
     "versions": "Versions",
+    "version": "Version",
     "Infrequent/Mild Mature/Suggestive Themes": "Thèmes infréquents/modérés / modérés",
     "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References": "Consommation ou références de drogues ou d'alcool peu fréquentes ou légères, de tabac ou de drogues",
     "Infrequent/Mild Sexual Content and Nudity": "Contenu et nudité infréquent et modéré",
@@ -303,6 +304,10 @@
     "Frequent/Intense Realistic Violence": "Violence réaliste fréquente/intense",
     "Frequent/Intense Simulated Gambling": "Jeu simulé fréquent/intensif",
     "Frequent/Intense Cartoon or Fantasy Violence": "Cartoon fréquent/intense ou violence fantastique",
+    "Infrequent/Mild Realistic Violence": "Infrequent/Mild Realistic Violence",
+    "Infrequent/Mild Horror/Fear Themes": "Infrequent/Mild Horror/Fear Themes",
+    "Infrequent/Mild Medical/Treatment Information": "Infrequent/Mild Medical/Treatment Information",
+    "Infrequent/Mild Simulated Gambling": "Infrequent/Mild Simulated Gambling",
     "description": "Libellé",
     "view_more": "Voir plus",
     "view_less": "Voir moins",
@@ -328,5 +333,6 @@
     "repo": "Repo",
     "cache_cleared": "Cache Cleared",
     "error": "Error",
-    "something_went_wrong": "Something went wrong"
+    "something_went_wrong": "Something went wrong",
+    "customisation": "Customisation"
 }
