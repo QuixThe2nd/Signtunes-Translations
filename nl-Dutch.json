@@ -323,5 +323,10 @@
     "add": "Toevoegen",
     "languages": "Leren",
     "delete": "Verwijderen",
-    "copy": "Kopiëren"
+    "copy": "Kopiëren",
+    "repos": "Repos",
+    "repo": "Repo",
+    "cache_cleared": "Cache Cleared",
+    "error": "Error",
+    "something_went_wrong": "Something went wrong"
 }
