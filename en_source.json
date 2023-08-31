@@ -323,5 +323,6 @@
     "add": "Add",
     "languages": "Languages",
     "delete": "Delete",
-    "copy": "Copy"
+    "copy": "Copy",
+    "repos": "Repos",
 }
