@@ -317,5 +317,10 @@
     "year_ago": "Year Ago",
     "years_ago": "Years Ago",
     "update_available": "Update Available",
-    "update_available_text": "A new version of Signtunes is available"
+    "update_available_text": "A new version of Signtunes is available",
+    "downloading": "Downloading",
+    "add": "Add",
+    "languages": "Languages",
+    "delete": "Delete",
+    "copy": "Copy"
 }
