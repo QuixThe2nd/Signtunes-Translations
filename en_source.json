@@ -326,4 +326,7 @@
     "copy": "Copy",
     "repos": "Repos",
     "repo": "Repo",
+    "cache_cleared": "Cache Cleared",
+    "error": "Error",
+    "something_went_wrong": "Something went wrong"
 }
