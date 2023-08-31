@@ -323,5 +323,10 @@
     "add": "添加",
     "languages": "语文",
     "delete": "删除",
-    "copy": "复制"
+    "copy": "复制",
+    "repos": "Repos",
+    "repo": "Repo",
+    "cache_cleared": "Cache Cleared",
+    "error": "Error",
+    "something_went_wrong": "Something went wrong"
 }
