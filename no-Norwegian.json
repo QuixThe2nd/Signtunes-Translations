@@ -295,6 +295,7 @@
     "copy_bundleid": "Kopier pakke-ID",
     "select": "Velg",
     "versions": "Versjoner",
+    "version": "Version",
     "Infrequent/Mild Mature/Suggestive Themes": "Inhyppighet/Mild Mature/Forslag temaer",
     "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References": "Uhyppig/Lett Alkohol, Tobakk eller legemiddelbruk eller -referanse",
     "Infrequent/Mild Sexual Content and Nudity": "Uhyppig/Mild Sexual Innhold og Nudity",
@@ -303,6 +304,10 @@
     "Frequent/Intense Realistic Violence": "Hyppig/økt realistisk vold",
     "Frequent/Intense Simulated Gambling": "Hyppig/tenke-simulert gambling",
     "Frequent/Intense Cartoon or Fantasy Violence": "Hyppig/utholdenhet kartoon eller Fantasy vold",
+    "Infrequent/Mild Realistic Violence": "Infrequent/Mild Realistic Violence",
+    "Infrequent/Mild Horror/Fear Themes": "Infrequent/Mild Horror/Fear Themes",
+    "Infrequent/Mild Medical/Treatment Information": "Infrequent/Mild Medical/Treatment Information",
+    "Infrequent/Mild Simulated Gambling": "Infrequent/Mild Simulated Gambling",
     "description": "Beskrivelse",
     "view_more": "Vis mer",
     "view_less": "Vis mindre",
@@ -328,5 +333,6 @@
     "repo": "Repo",
     "cache_cleared": "Cache Cleared",
     "error": "Error",
-    "something_went_wrong": "Something went wrong"
+    "something_went_wrong": "Something went wrong",
+    "customisation": "Customisation"
 }
