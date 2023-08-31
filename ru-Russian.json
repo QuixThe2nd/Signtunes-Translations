@@ -295,6 +295,7 @@
     "copy_bundleid": "Копировать ID пакета",
     "select": "Выбрать",
     "versions": "Версии",
+    "version": "Version",
     "Infrequent/Mild Mature/Suggestive Themes": "Нечастое/Дикая взросление/Предложенные темы",
     "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References": "Частое употребление алкоголя, табака или наркотических средств",
     "Infrequent/Mild Sexual Content and Nudity": "Частый/Дикий контент и Насыщенность",
@@ -303,6 +304,10 @@
     "Frequent/Intense Realistic Violence": "Частое/интенсивное Реалистическое насилие",
     "Frequent/Intense Simulated Gambling": "Частое/интенсивное симулирование азартных игр",
     "Frequent/Intense Cartoon or Fantasy Violence": "Частое/интенсивное мультфильм или фанатическое насилие",
+    "Infrequent/Mild Realistic Violence": "Infrequent/Mild Realistic Violence",
+    "Infrequent/Mild Horror/Fear Themes": "Infrequent/Mild Horror/Fear Themes",
+    "Infrequent/Mild Medical/Treatment Information": "Infrequent/Mild Medical/Treatment Information",
+    "Infrequent/Mild Simulated Gambling": "Infrequent/Mild Simulated Gambling",
     "description": "Описание",
     "view_more": "Подробнее",
     "view_less": "Меньше",
@@ -328,5 +333,6 @@
     "repo": "Repo",
     "cache_cleared": "Cache Cleared",
     "error": "Error",
-    "something_went_wrong": "Something went wrong"
+    "something_went_wrong": "Something went wrong",
+    "customisation": "Customisation"
 }
