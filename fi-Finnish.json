@@ -323,5 +323,10 @@
     "add": "Lisää",
     "languages": "Kielet",
     "delete": "Poista",
-    "copy": "Kopioi"
+    "copy": "Kopioi",
+    "repos": "Repos",
+    "repo": "Repo",
+    "cache_cleared": "Cache Cleared",
+    "error": "Error",
+    "something_went_wrong": "Something went wrong"
 }
