@@ -295,6 +295,7 @@
     "copy_bundleid": "バンドル ID をコピー",
     "select": "選択",
     "versions": "バージョン",
+    "version": "Version",
     "Infrequent/Mild Mature/Suggestive Themes": "頻繁/穏やかな成熟/提案テーマ",
     "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References": "頻度/穏やかなアルコール、タバコ、または薬物使用または参照",
     "Infrequent/Mild Sexual Content and Nudity": "頻繁/穏やかな性的内容とヌード性",
@@ -303,6 +304,10 @@
     "Frequent/Intense Realistic Violence": "頻繁/激しい現実的暴力format@@0",
     "Frequent/Intense Simulated Gambling": "よく使う/激しいギャンブルをシミュレートする",
     "Frequent/Intense Cartoon or Fantasy Violence": "頻繁/激しい漫画またはファンタジー暴力format@@0",
+    "Infrequent/Mild Realistic Violence": "Infrequent/Mild Realistic Violence",
+    "Infrequent/Mild Horror/Fear Themes": "Infrequent/Mild Horror/Fear Themes",
+    "Infrequent/Mild Medical/Treatment Information": "Infrequent/Mild Medical/Treatment Information",
+    "Infrequent/Mild Simulated Gambling": "Infrequent/Mild Simulated Gambling",
     "description": "説明",
     "view_more": "もっと見る",
     "view_less": "少なく表示する",
@@ -328,5 +333,6 @@
     "repo": "Repo",
     "cache_cleared": "Cache Cleared",
     "error": "Error",
-    "something_went_wrong": "Something went wrong"
+    "something_went_wrong": "Something went wrong",
+    "customisation": "Customisation"
 }
