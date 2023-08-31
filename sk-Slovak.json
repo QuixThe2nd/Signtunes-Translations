@@ -295,6 +295,7 @@
     "copy_bundleid": "Skopírovať Bundle ID",
     "select": "Vybrať",
     "versions": "Verzie",
+    "version": "Version",
     "Infrequent/Mild Mature/Suggestive Themes": "Infrequent/Mild Mature/Suggestive Themes",
     "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References": "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
     "Infrequent/Mild Sexual Content and Nudity": "Infrequent/Mild Sexual Content and Nudity",
@@ -303,6 +304,10 @@
     "Frequent/Intense Realistic Violence": "Frequent/Intense Realistic Violence",
     "Frequent/Intense Simulated Gambling": "Frequent/Intense Simulated Gambling",
     "Frequent/Intense Cartoon or Fantasy Violence": "Frequent/Intense Cartoon or Fantasy Violence",
+    "Infrequent/Mild Realistic Violence": "Infrequent/Mild Realistic Violence",
+    "Infrequent/Mild Horror/Fear Themes": "Infrequent/Mild Horror/Fear Themes",
+    "Infrequent/Mild Medical/Treatment Information": "Infrequent/Mild Medical/Treatment Information",
+    "Infrequent/Mild Simulated Gambling": "Infrequent/Mild Simulated Gambling",
     "description": "Description",
     "view_more": "View More",
     "view_less": "View Less",
@@ -328,5 +333,6 @@
     "repo": "Repo",
     "cache_cleared": "Cache Cleared",
     "error": "Error",
-    "something_went_wrong": "Something went wrong"
+    "something_went_wrong": "Something went wrong",
+    "customisation": "Customisation"
 }
