@@ -295,6 +295,7 @@
     "copy_bundleid": "Копіювати ідентифікатор набору",
     "select": "Вибрати",
     "versions": "Версії",
+    "version": "Version",
     "Infrequent/Mild Mature/Suggestive Themes": "Заразити теми/підказки",
     "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References": "Infrequent/Mild Alcohol, Tobacco, або наркотики, які використовуються або посилання",
     "Infrequent/Mild Sexual Content and Nudity": "Infrequent/Mild Sexual вміст і нагота",
@@ -303,6 +304,10 @@
     "Frequent/Intense Realistic Violence": "Частота/внутрішньореалістичне насильство",
     "Frequent/Intense Simulated Gambling": "Найчастіші/вбудований азартний режим",
     "Frequent/Intense Cartoon or Fantasy Violence": "Найчастіше/Внутрішні Віруси або фантазії",
+    "Infrequent/Mild Realistic Violence": "Infrequent/Mild Realistic Violence",
+    "Infrequent/Mild Horror/Fear Themes": "Infrequent/Mild Horror/Fear Themes",
+    "Infrequent/Mild Medical/Treatment Information": "Infrequent/Mild Medical/Treatment Information",
+    "Infrequent/Mild Simulated Gambling": "Infrequent/Mild Simulated Gambling",
     "description": "Опис",
     "view_more": "Подивитися більше",
     "view_less": "Показати менше",
@@ -328,5 +333,6 @@
     "repo": "Repo",
     "cache_cleared": "Cache Cleared",
     "error": "Error",
-    "something_went_wrong": "Something went wrong"
+    "something_went_wrong": "Something went wrong",
+    "customisation": "Customisation"
 }
