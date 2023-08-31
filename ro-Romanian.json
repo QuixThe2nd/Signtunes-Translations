@@ -295,6 +295,7 @@
     "copy_bundleid": "Copiază ID-ul Bundle",
     "select": "Selectare",
     "versions": "Versiuni",
+    "version": "Version",
     "Infrequent/Mild Mature/Suggestive Themes": "Teme pentru materiale frecvente/ușoare/sugestii",
     "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References": "Alcool frecvent/ușor, tutun sau consum de droguri sau referințe",
     "Infrequent/Mild Sexual Content and Nudity": "Conținut sexual și nuditate infrecventă/ușoară",
@@ -303,6 +304,10 @@
     "Frequent/Intense Realistic Violence": "Violență realistă frecventă/intensă",
     "Frequent/Intense Simulated Gambling": "Jocuri simulate frecvente/intensive",
     "Frequent/Intense Cartoon or Fantasy Violence": "Desene frecvente/intense sau violențe provocate de fantezie",
+    "Infrequent/Mild Realistic Violence": "Infrequent/Mild Realistic Violence",
+    "Infrequent/Mild Horror/Fear Themes": "Infrequent/Mild Horror/Fear Themes",
+    "Infrequent/Mild Medical/Treatment Information": "Infrequent/Mild Medical/Treatment Information",
+    "Infrequent/Mild Simulated Gambling": "Infrequent/Mild Simulated Gambling",
     "description": "Descriere",
     "view_more": "Vezi mai multe",
     "view_less": "Vezi mai puțin",
@@ -328,5 +333,6 @@
     "repo": "Repo",
     "cache_cleared": "Cache Cleared",
     "error": "Error",
-    "something_went_wrong": "Something went wrong"
+    "something_went_wrong": "Something went wrong",
+    "customisation": "Customisation"
 }
