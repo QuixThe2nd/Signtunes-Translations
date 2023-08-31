@@ -323,5 +323,10 @@
     "add": "Tilføj",
     "languages": "Sprog",
     "delete": "Slet",
-    "copy": "Kopiér"
+    "copy": "Kopiér",
+    "repos": "Repos",
+    "repo": "Repo",
+    "cache_cleared": "Cache Cleared",
+    "error": "Error",
+    "something_went_wrong": "Something went wrong"
 }
