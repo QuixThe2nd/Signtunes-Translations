@@ -295,6 +295,7 @@
     "copy_bundleid": "نسخ معرف الحزمة",
     "select": "حدد",
     "versions": "الإصدارات",
+    "version": "Version",
     "Infrequent/Mild Mature/Suggestive Themes": "تكرار/موضوعات مادة/مقترحة",
     "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References": "الكحول أو التبغ أو تعاطي المخدرات أو المراجع المتكررة",
     "Infrequent/Mild Sexual Content and Nudity": "المحتوى الجنسي والعقيدة المتكررة/البسيطة",
@@ -303,6 +304,10 @@
     "Frequent/Intense Realistic Violence": "العنف الواقعي المتكرر/المكثف",
     "Frequent/Intense Simulated Gambling": "ألعاب محاكاة متكررة/كثيفة",
     "Frequent/Intense Cartoon or Fantasy Violence": "العنف المتكرر/الكارتون المكثف أو الخيال",
+    "Infrequent/Mild Realistic Violence": "Infrequent/Mild Realistic Violence",
+    "Infrequent/Mild Horror/Fear Themes": "Infrequent/Mild Horror/Fear Themes",
+    "Infrequent/Mild Medical/Treatment Information": "Infrequent/Mild Medical/Treatment Information",
+    "Infrequent/Mild Simulated Gambling": "Infrequent/Mild Simulated Gambling",
     "description": "الوصف",
     "view_more": "عرض المزيد",
     "view_less": "عرض أقل",
@@ -328,5 +333,6 @@
     "repo": "Repo",
     "cache_cleared": "Cache Cleared",
     "error": "Error",
-    "something_went_wrong": "Something went wrong"
+    "something_went_wrong": "Something went wrong",
+    "customisation": "Customisation"
 }
