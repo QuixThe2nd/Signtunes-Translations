@@ -295,6 +295,7 @@
     "copy_bundleid": "复制 Bundle ID",
     "select": "选择",
     "versions": "版本",
+    "version": "Version",
     "Infrequent/Mild Mature/Suggestive Themes": "频率/公会配对/行李主题",
     "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References": "频率/公会酒精、烟草或药物使用或参考",
     "Infrequent/Mild Sexual Content and Nudity": "频率/公会性内容和衰弱度",
@@ -303,6 +304,10 @@
     "Frequent/Intense Realistic Violence": "频繁/强烈的现实暴力",
     "Frequent/Intense Simulated Gambling": "频率/强度模拟赌博模式",
     "Frequent/Intense Cartoon or Fantasy Violence": "频繁/强烈的漫画或幻想暴力",
+    "Infrequent/Mild Realistic Violence": "Infrequent/Mild Realistic Violence",
+    "Infrequent/Mild Horror/Fear Themes": "Infrequent/Mild Horror/Fear Themes",
+    "Infrequent/Mild Medical/Treatment Information": "Infrequent/Mild Medical/Treatment Information",
+    "Infrequent/Mild Simulated Gambling": "Infrequent/Mild Simulated Gambling",
     "description": "描述",
     "view_more": "查看更多",
     "view_less": "查看更少的",
@@ -328,5 +333,6 @@
     "repo": "Repo",
     "cache_cleared": "Cache Cleared",
     "error": "Error",
-    "something_went_wrong": "Something went wrong"
+    "something_went_wrong": "Something went wrong",
+    "customisation": "Customisation"
 }
