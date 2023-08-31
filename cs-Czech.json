@@ -323,5 +323,10 @@
     "add": "Přidat",
     "languages": "Jazyky",
     "delete": "Vymazat",
-    "copy": "Kopírovat"
+    "copy": "Kopírovat",
+    "repos": "Repos",
+    "repo": "Repo",
+    "cache_cleared": "Cache Cleared",
+    "error": "Error",
+    "something_went_wrong": "Something went wrong"
 }
