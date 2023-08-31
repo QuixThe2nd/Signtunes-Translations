@@ -295,6 +295,7 @@
     "copy_bundleid": "Kopírovat Bundle ID",
     "select": "Vybrat",
     "versions": "Verze",
+    "version": "Version",
     "Infrequent/Mild Mature/Suggestive Themes": "Nečastá/mírná zralá/navrhovaná témata",
     "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References": "Nečasté/mírný Alcohol, tabák nebo odkazy na užívání léků",
     "Infrequent/Mild Sexual Content and Nudity": "Nečastý/mírný Sexuální obsah a nahota",
@@ -303,6 +304,10 @@
     "Frequent/Intense Realistic Violence": "Četné/intenzivní realalistické násilí",
     "Frequent/Intense Simulated Gambling": "Četné/Intenzivní simulované hazardní hry",
     "Frequent/Intense Cartoon or Fantasy Violence": "Četné/Intenzivní kartoon nebo Fantasy násilí",
+    "Infrequent/Mild Realistic Violence": "Infrequent/Mild Realistic Violence",
+    "Infrequent/Mild Horror/Fear Themes": "Infrequent/Mild Horror/Fear Themes",
+    "Infrequent/Mild Medical/Treatment Information": "Infrequent/Mild Medical/Treatment Information",
+    "Infrequent/Mild Simulated Gambling": "Infrequent/Mild Simulated Gambling",
     "description": "L 343, 22.12.2009, s. 1).",
     "view_more": "Zobrazit více",
     "view_less": "Zobrazit méně",
@@ -328,5 +333,6 @@
     "repo": "Repo",
     "cache_cleared": "Cache Cleared",
     "error": "Error",
-    "something_went_wrong": "Something went wrong"
+    "something_went_wrong": "Something went wrong",
+    "customisation": "Customisation"
 }
