@@ -295,6 +295,7 @@
     "copy_bundleid": "Bundle-ID kopieren",
     "select": "Auswählen",
     "versions": "Versionen",
+    "version": "Version",
     "Infrequent/Mild Mature/Suggestive Themes": "Infrequent/Milde Reife/Anregungen Themen",
     "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References": "Infrequent/Milde Alkohol, Tabak oder Drogenkonsum oder Referenzen",
     "Infrequent/Mild Sexual Content and Nudity": "Infrequent/Milde Sexueller Inhalt und Nacktheit",
@@ -303,6 +304,10 @@
     "Frequent/Intense Realistic Violence": "Häufiger/Intensität realistischer Gewalt",
     "Frequent/Intense Simulated Gambling": "Häufigkeit/Intensität simuliertes Glücksspiel",
     "Frequent/Intense Cartoon or Fantasy Violence": "Häufigkeit/Intensive Cartoon oder Fantasy-Gewalt",
+    "Infrequent/Mild Realistic Violence": "Infrequent/Mild Realistic Violence",
+    "Infrequent/Mild Horror/Fear Themes": "Infrequent/Mild Horror/Fear Themes",
+    "Infrequent/Mild Medical/Treatment Information": "Infrequent/Mild Medical/Treatment Information",
+    "Infrequent/Mild Simulated Gambling": "Infrequent/Mild Simulated Gambling",
     "description": "Beschreibung",
     "view_more": "Mehr anzeigen",
     "view_less": "Weniger anzeigen",
@@ -328,5 +333,6 @@
     "repo": "Repo",
     "cache_cleared": "Cache Cleared",
     "error": "Error",
-    "something_went_wrong": "Something went wrong"
+    "something_went_wrong": "Something went wrong",
+    "customisation": "Customisation"
 }
