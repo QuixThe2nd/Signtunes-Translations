@@ -323,5 +323,10 @@
     "add": "Legg til",
     "languages": "Språk",
     "delete": "Slett",
-    "copy": "Kopier"
+    "copy": "Kopier",
+    "repos": "Repos",
+    "repo": "Repo",
+    "cache_cleared": "Cache Cleared",
+    "error": "Error",
+    "something_went_wrong": "Something went wrong"
 }
