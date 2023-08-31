@@ -323,5 +323,10 @@
     "add": "Додати",
     "languages": "Мови",
     "delete": "Видалити",
-    "copy": "Копія"
+    "copy": "Копія",
+    "repos": "Repos",
+    "repo": "Repo",
+    "cache_cleared": "Cache Cleared",
+    "error": "Error",
+    "something_went_wrong": "Something went wrong"
 }
