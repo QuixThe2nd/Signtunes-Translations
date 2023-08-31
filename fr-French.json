@@ -323,5 +323,10 @@
     "add": "Ajouter",
     "languages": "Langues",
     "delete": "Supprimez",
-    "copy": "Copie"
+    "copy": "Copie",
+    "repos": "Repos",
+    "repo": "Repo",
+    "cache_cleared": "Cache Cleared",
+    "error": "Error",
+    "something_went_wrong": "Something went wrong"
 }
