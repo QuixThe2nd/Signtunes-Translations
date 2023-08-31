@@ -323,5 +323,10 @@
     "add": "Προσθήκη",
     "languages": "Γλώσσες",
     "delete": "Διαγραφή",
-    "copy": "Αντιγραφή"
+    "copy": "Αντιγραφή",
+    "repos": "Repos",
+    "repo": "Repo",
+    "cache_cleared": "Cache Cleared",
+    "error": "Error",
+    "something_went_wrong": "Something went wrong"
 }
