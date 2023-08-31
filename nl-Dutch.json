@@ -295,6 +295,7 @@
     "copy_bundleid": "Kopieer Bundel ID",
     "select": "Selecteren",
     "versions": "versies",
+    "version": "Version",
     "Infrequent/Mild Mature/Suggestive Themes": "Infrequent/Milde Mature/Suggestief Thema's",
     "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References": "Infrequent/Mild Alcohol, Tobacco, of Drug Use of Referenties",
     "Infrequent/Mild Sexual Content and Nudity": "Infrequente/Milde Seksuele inhoud en Nuditeit",
@@ -303,6 +304,10 @@
     "Frequent/Intense Realistic Violence": "Frequente/Intense Realistische Geweld",
     "Frequent/Intense Simulated Gambling": "Frequent/Intense gesimuleerd gokken",
     "Frequent/Intense Cartoon or Fantasy Violence": "Frequent/Intense Cartoon of Fantasy Geweld",
+    "Infrequent/Mild Realistic Violence": "Infrequent/Mild Realistic Violence",
+    "Infrequent/Mild Horror/Fear Themes": "Infrequent/Mild Horror/Fear Themes",
+    "Infrequent/Mild Medical/Treatment Information": "Infrequent/Mild Medical/Treatment Information",
+    "Infrequent/Mild Simulated Gambling": "Infrequent/Mild Simulated Gambling",
     "description": "Beschrijving",
     "view_more": "Bekijk meer",
     "view_less": "Bekijk minder",
@@ -328,5 +333,6 @@
     "repo": "Repo",
     "cache_cleared": "Cache Cleared",
     "error": "Error",
-    "something_went_wrong": "Something went wrong"
+    "something_went_wrong": "Something went wrong",
+    "customisation": "Customisation"
 }
