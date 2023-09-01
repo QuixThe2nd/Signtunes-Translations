@@ -335,5 +335,6 @@
     "error": "Error",
     "something_went_wrong": "Something went wrong",
     "customisation": "Customisation",
-    "latest_version": "You are on the latest version"
+    "latest_version": "You are on the latest version",
+    "force_update": "Force Update"
 }
