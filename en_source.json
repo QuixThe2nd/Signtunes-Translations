@@ -334,5 +334,6 @@
     "cache_cleared": "Cache Cleared",
     "error": "Error",
     "something_went_wrong": "Something went wrong",
-    "customisation": "Customisation"
+    "customisation": "Customisation",
+    "latest_version": "You are on the latest version"
 }
