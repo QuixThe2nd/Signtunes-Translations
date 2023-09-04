@@ -113,7 +113,7 @@
     "configure": "Configure",
     "search_results": "Search Results",
     "upload": "Upload",
-    "upload_not_complete": "Your upload is not complete",
+    "uploading": "Uploading",
     "or": "or",
     "distr_cert": "Distribution Certificate",
     "dev_cert": "Development Certificate",
