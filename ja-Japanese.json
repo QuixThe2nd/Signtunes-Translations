@@ -113,7 +113,7 @@
     "configure": "設定",
     "search_results": "検索結果",
     "upload": "アップロード",
-    "upload_not_complete": "アップロードが完了していません",
+    "uploading": "Uploading",
     "or": "または",
     "distr_cert": "配布証明書",
     "dev_cert": "開発証明書",
@@ -337,5 +337,9 @@
     "error": "Error",
     "something_went_wrong": "Something went wrong",
     "customisation": "Customisation",
-    "force_update": "Force Update"
+    "force_update": "Force Update",
+    "nothing_to_see_here": "Nothing to see here",
+    "system_default": "System Default",
+    "light_mode": "Light Mode",
+    "dark_mode": "Dark Mode"
 }
