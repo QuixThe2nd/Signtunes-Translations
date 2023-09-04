@@ -342,5 +342,6 @@
     "nothing_to_see_here": "Nothing to see here",
     "system_default": "System Default",
     "light_mode": "Light Mode",
-    "dark_mode": "Dark Mode"
+    "dark_mode": "Dark Mode",
+    "biometrics": "Biometrics"
 }
