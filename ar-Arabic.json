@@ -113,7 +113,7 @@
     "configure": "تكوين",
     "search_results": "نتائج البحث",
     "upload": "Upload",
-    "upload_not_complete": "الرفع الخاص بك غير مكتمل",
+    "uploading": "Uploading",
     "or": "أو",
     "distr_cert": "شهادة التوزيع",
     "dev_cert": "شهادة مطور",
@@ -337,5 +337,9 @@
     "error": "Error",
     "something_went_wrong": "Something went wrong",
     "customisation": "Customisation",
-    "force_update": "Force Update"
+    "force_update": "Force Update",
+    "nothing_to_see_here": "Nothing to see here",
+    "system_default": "System Default",
+    "light_mode": "Light Mode",
+    "dark_mode": "Dark Mode"
 }
