@@ -113,7 +113,7 @@
     "configure": "Konfigurovať",
     "search_results": "Výsledky Vyhľadávania",
     "upload": "Upload",
-    "upload_not_complete": "Vaše nahrávanie nie je dokončené",
+    "uploading": "Uploading",
     "or": "alebo",
     "distr_cert": "Distribučný Certifikát",
     "dev_cert": "Vývojársky Certifikát",
@@ -337,5 +337,9 @@
     "error": "Error",
     "something_went_wrong": "Something went wrong",
     "customisation": "Customisation",
-    "force_update": "Force Update"
+    "force_update": "Force Update",
+    "nothing_to_see_here": "Nothing to see here",
+    "system_default": "System Default",
+    "light_mode": "Light Mode",
+    "dark_mode": "Dark Mode"
 }
