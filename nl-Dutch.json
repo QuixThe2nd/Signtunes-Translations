@@ -113,7 +113,7 @@
     "configure": "Configureren",
     "search_results": "Zoekresultaten",
     "upload": "Uploaden",
-    "upload_not_complete": "Jouw upload is niet voltooid",
+    "uploading": "Uploading",
     "or": "of",
     "distr_cert": "Distributie Certificaat",
     "dev_cert": "Ontwikkeling Certificaat",
@@ -337,5 +337,9 @@
     "error": "Error",
     "something_went_wrong": "Something went wrong",
     "customisation": "Customisation",
-    "force_update": "Force Update"
+    "force_update": "Force Update",
+    "nothing_to_see_here": "Nothing to see here",
+    "system_default": "System Default",
+    "light_mode": "Light Mode",
+    "dark_mode": "Dark Mode"
 }
