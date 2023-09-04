@@ -113,7 +113,7 @@
     "configure": "Configura",
     "search_results": "Risultati Della Ricerca",
     "upload": "Carica",
-    "upload_not_complete": "Il tuo caricamento non è completato",
+    "uploading": "Uploading",
     "or": "o",
     "distr_cert": "Certificato Di Distribuzione",
     "dev_cert": "Certificato Di Sviluppo",
@@ -337,5 +337,9 @@
     "error": "Error",
     "something_went_wrong": "Something went wrong",
     "customisation": "Customisation",
-    "force_update": "Force Update"
+    "force_update": "Force Update",
+    "nothing_to_see_here": "Nothing to see here",
+    "system_default": "System Default",
+    "light_mode": "Light Mode",
+    "dark_mode": "Dark Mode"
 }
