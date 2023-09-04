@@ -338,5 +338,9 @@
     "something_went_wrong": "Something went wrong",
     "customisation": "Customisation",
     "latest_version": "You are on the latest version",
-    "force_update": "Force Update"
+    "force_update": "Force Update",
+    "nothing_to_see_here": "Nothing to see here",
+    "system_default": "System Default",
+    "light_mode": "Light Mode",
+    "dark_mode": "Dark Mode"
 }
