@@ -113,7 +113,7 @@
     "configure": "Cấu hình",
     "search_results": "Kết quả tìm kiếm",
     "upload": "Tải lên",
-    "upload_not_complete": "Tải lên không thành công",
+    "uploading": "Uploading",
     "or": "hoặc",
     "distr_cert": "Chứng chỉ phân phối",
     "dev_cert": "Chứng chỉ phát triển",
@@ -337,5 +337,9 @@
     "error": "Lỗi",
     "something_went_wrong": "Đã xảy ra sự cố",
     "customisation": "Tuỳ biến",
-    "force_update": "Cập nhật ngay"
+    "force_update": "Cập nhật ngay",
+    "nothing_to_see_here": "Nothing to see here",
+    "system_default": "System Default",
+    "light_mode": "Light Mode",
+    "dark_mode": "Dark Mode"
 }
