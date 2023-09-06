@@ -316,6 +316,8 @@
     "GET": "GET",
     "download": "Tải xuống",
     "free": "Miễn phí",
+    "hour_ago": "Hour Ago",
+    "hours_ago": "Hours Ago",
     "day_ago": "Ngày trước",
     "days_ago": "Ngày trước",
     "week_ago": "Tuần trước",
