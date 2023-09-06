@@ -316,6 +316,8 @@
     "GET": "OTTA",
     "download": "Scarica",
     "free": "Gratis",
+    "hour_ago": "Hour Ago",
+    "hours_ago": "Hours Ago",
     "day_ago": "Giorno Fa",
     "days_ago": "Giorni Fa",
     "week_ago": "Settimana Fa",
