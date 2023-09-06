@@ -316,6 +316,8 @@
     "GET": "获取",
     "download": "下载",
     "free": "免费的",
+    "hour_ago": "Hour Ago",
+    "hours_ago": "Hours Ago",
     "day_ago": "天前",
     "days_ago": "天前",
     "week_ago": "一周前",
