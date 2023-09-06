@@ -316,6 +316,8 @@
     "GET": "POBIERZ",
     "download": "Pobierz",
     "free": "Darmowe",
+    "hour_ago": "Hour Ago",
+    "hours_ago": "Hours Ago",
     "day_ago": "Dzień temu",
     "days_ago": "Dni temu",
     "week_ago": "Tydzień temu",
