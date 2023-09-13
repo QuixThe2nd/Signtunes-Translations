@@ -315,8 +315,8 @@
     "view_less": "Ver menos",
     "download": "Descargar",
     "free": "Gratis",
-    "hour_ago": "Hour Ago",
-    "hours_ago": "Hours Ago",
+    "hour_ago": "Hace hora",
+    "hours_ago": "Horas atrás",
     "day_ago": "Hace el día",
     "days_ago": "Días atrás",
     "week_ago": "Hace una semana",
@@ -344,7 +344,7 @@
     "light_mode": "Modo luz",
     "dark_mode": "Modo Oscuro",
     "biometrics": "Biometría",
-    "favourites": "Favourites",
-    "import_certificate": "Import Certificate",
-    "your_certificates": "Your Certificates"
+    "favourites": "Favoritos",
+    "import_certificate": "Importar Certificado",
+    "your_certificates": "Tus certificados"
 }
