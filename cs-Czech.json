@@ -343,5 +343,8 @@
     "system_default": "Výchozí nastavení systému",
     "light_mode": "Světelný režim",
     "dark_mode": "Tmavý režim",
-    "biometrics": "Biometrie"
+    "biometrics": "Biometrie",
+    "favourites": "Favourites",
+    "import_certificate": "Import Certificate",
+    "your_certificates": "Your Certificates"
 }
