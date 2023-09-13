@@ -315,8 +315,8 @@
     "view_less": "Näytä Vähemmän",
     "download": "Lataa",
     "free": "Ilmainen",
-    "hour_ago": "Hour Ago",
-    "hours_ago": "Hours Ago",
+    "hour_ago": "Tunti Ago",
+    "hours_ago": "Tuntia Ago",
     "day_ago": "Päivä Sitten",
     "days_ago": "Päivää Ago",
     "week_ago": "Viikko Ago",
@@ -344,7 +344,7 @@
     "light_mode": "Vaalea Tila",
     "dark_mode": "Tumma Tila",
     "biometrics": "Biometriikka",
-    "favourites": "Favourites",
-    "import_certificate": "Import Certificate",
-    "your_certificates": "Your Certificates"
+    "favourites": "Suosikit",
+    "import_certificate": "Tuo Varmenne",
+    "your_certificates": "Omat Varmenteet"
 }
