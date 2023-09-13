@@ -315,8 +315,8 @@
     "view_less": "Visa mindre",
     "download": "Hämta",
     "free": "Gratis",
-    "hour_ago": "Hour Ago",
-    "hours_ago": "Hours Ago",
+    "hour_ago": "Timme sedan",
+    "hours_ago": "Timmar sedan",
     "day_ago": "Dag sen",
     "days_ago": "Dagar sedan",
     "week_ago": "Vecka sedan",
@@ -344,7 +344,7 @@
     "light_mode": "Ljust läge",
     "dark_mode": "Mörkt läge",
     "biometrics": "Biometri",
-    "favourites": "Favourites",
-    "import_certificate": "Import Certificate",
-    "your_certificates": "Your Certificates"
+    "favourites": "Favoriter",
+    "import_certificate": "Importera certifikat",
+    "your_certificates": "Dina certifikat"
 }
