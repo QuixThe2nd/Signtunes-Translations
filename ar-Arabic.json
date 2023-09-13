@@ -315,8 +315,8 @@
     "view_less": "عرض أقل",
     "download": "تنزيل",
     "free": "مجاني",
-    "hour_ago": "Hour Ago",
-    "hours_ago": "Hours Ago",
+    "hour_ago": "منذ ساعة",
+    "hours_ago": "منذ ساعات",
     "day_ago": "منذ يوم",
     "days_ago": "منذ أيام",
     "week_ago": "منذ أسبوع",
@@ -344,7 +344,7 @@
     "light_mode": "وضع الضوء",
     "dark_mode": "الوضع المظلم",
     "biometrics": "القياسات الحيوية",
-    "favourites": "Favourites",
-    "import_certificate": "Import Certificate",
-    "your_certificates": "Your Certificates"
+    "favourites": "المفضلة",
+    "import_certificate": "استيراد الشهادة",
+    "your_certificates": "شهاداتك"
 }
