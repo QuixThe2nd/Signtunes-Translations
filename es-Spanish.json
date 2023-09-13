@@ -343,5 +343,8 @@
     "system_default": "Sistema por defecto",
     "light_mode": "Modo luz",
     "dark_mode": "Modo Oscuro",
-    "biometrics": "Biometría"
+    "biometrics": "Biometría",
+    "favourites": "Favourites",
+    "import_certificate": "Import Certificate",
+    "your_certificates": "Your Certificates"
 }
