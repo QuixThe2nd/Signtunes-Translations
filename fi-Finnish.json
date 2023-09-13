@@ -343,5 +343,8 @@
     "system_default": "Järjestelmän Oletus",
     "light_mode": "Vaalea Tila",
     "dark_mode": "Tumma Tila",
-    "biometrics": "Biometriikka"
+    "biometrics": "Biometriikka",
+    "favourites": "Favourites",
+    "import_certificate": "Import Certificate",
+    "your_certificates": "Your Certificates"
 }
