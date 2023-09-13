@@ -343,5 +343,8 @@
     "system_default": "系统默认",
     "light_mode": "亮色模式",
     "dark_mode": "暗色模式",
-    "biometrics": "生物计"
+    "biometrics": "生物计",
+    "favourites": "Favourites",
+    "import_certificate": "Import Certificate",
+    "your_certificates": "Your Certificates"
 }
