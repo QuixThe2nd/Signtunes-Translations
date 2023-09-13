@@ -343,5 +343,8 @@
     "system_default": "Domyślne systemowe",
     "light_mode": "Tryb oświetlenia",
     "dark_mode": "Tryb ciemny",
-    "biometrics": "Biometria"
+    "biometrics": "Biometria",
+    "favourites": "Favourites",
+    "import_certificate": "Import Certificate",
+    "your_certificates": "Your Certificates"
 }
