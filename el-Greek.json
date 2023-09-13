@@ -315,8 +315,8 @@
     "view_less": "Δείτε Λιγότερα",
     "download": "Λήψη",
     "free": "Δωρεάν",
-    "hour_ago": "Hour Ago",
-    "hours_ago": "Hours Ago",
+    "hour_ago": "Ώρα Πριν",
+    "hours_ago": "Πριν Ώρες",
     "day_ago": "Μέρα Πριν",
     "days_ago": "Πριν Από Ημέρες",
     "week_ago": "Εβδομάδα Πριν",
@@ -344,7 +344,7 @@
     "light_mode": "Λειτουργία Φωτός",
     "dark_mode": "Σκοτεινή Λειτουργία",
     "biometrics": "Βιομετρικά",
-    "favourites": "Favourites",
-    "import_certificate": "Import Certificate",
-    "your_certificates": "Your Certificates"
+    "favourites": "Αγαπημένα",
+    "import_certificate": "Εισαγωγή Πιστοποιητικού",
+    "your_certificates": "Τα Πιστοποιητικά Σας"
 }
