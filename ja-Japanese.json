@@ -343,5 +343,8 @@
     "system_default": "システムのデフォルト",
     "light_mode": "ライトモード",
     "dark_mode": "ダークモード",
-    "biometrics": "生体認証"
+    "biometrics": "生体認証",
+    "favourites": "Favourites",
+    "import_certificate": "Import Certificate",
+    "your_certificates": "Your Certificates"
 }
