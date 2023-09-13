@@ -315,8 +315,8 @@
     "view_less": "Zobrazit méně",
     "download": "Stáhnout",
     "free": "Zdarma",
-    "hour_ago": "Hour Ago",
-    "hours_ago": "Hours Ago",
+    "hour_ago": "Před hodinou",
+    "hours_ago": "Před hodinami",
     "day_ago": "Před dnem",
     "days_ago": "Dny před",
     "week_ago": "Před týdnem",
@@ -344,7 +344,7 @@
     "light_mode": "Světelný režim",
     "dark_mode": "Tmavý režim",
     "biometrics": "Biometrie",
-    "favourites": "Favourites",
-    "import_certificate": "Import Certificate",
-    "your_certificates": "Your Certificates"
+    "favourites": "Oblíbené",
+    "import_certificate": "Importovat certifikát",
+    "your_certificates": "Vaše certifikáty"
 }
