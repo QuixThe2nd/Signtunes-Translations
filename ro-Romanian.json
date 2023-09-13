@@ -343,5 +343,8 @@
     "system_default": "Implicit sistem",
     "light_mode": "Mod luminos",
     "dark_mode": "Mod întunecat",
-    "biometrics": "Biometrică"
+    "biometrics": "Biometrică",
+    "favourites": "Favourites",
+    "import_certificate": "Import Certificate",
+    "your_certificates": "Your Certificates"
 }
