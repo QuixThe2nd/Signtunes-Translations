@@ -343,5 +343,8 @@
     "system_default": "النظام الافتراضي",
     "light_mode": "وضع الضوء",
     "dark_mode": "الوضع المظلم",
-    "biometrics": "القياسات الحيوية"
+    "biometrics": "القياسات الحيوية",
+    "favourites": "Favourites",
+    "import_certificate": "Import Certificate",
+    "your_certificates": "Your Certificates"
 }
