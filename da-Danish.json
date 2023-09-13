@@ -315,8 +315,8 @@
     "view_less": "Se Mindre",
     "download": "Hent",
     "free": "Gratis",
-    "hour_ago": "Hour Ago",
-    "hours_ago": "Hours Ago",
+    "hour_ago": "Time Siden",
+    "hours_ago": "Timer Siden",
     "day_ago": "Dag Siden",
     "days_ago": "Dage Siden",
     "week_ago": "Uge Siden",
@@ -344,7 +344,7 @@
     "light_mode": "Lys Tilstand",
     "dark_mode": "Mørk Tilstand",
     "biometrics": "Biometri",
-    "favourites": "Favourites",
-    "import_certificate": "Import Certificate",
-    "your_certificates": "Your Certificates"
+    "favourites": "Favoritter",
+    "import_certificate": "Importér Certifikat",
+    "your_certificates": "Dine Certifikater"
 }
