@@ -344,5 +344,8 @@
     "system_default": "System Default",
     "light_mode": "Light Mode",
     "dark_mode": "Dark Mode",
-    "biometrics": "Biometrics"
+    "biometrics": "Biometrics",
+    "favourites": "Favourites",
+    "import_certificate": "Import Certificate",
+    "your_certificates": "Your Certificates"
 }
