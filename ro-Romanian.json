@@ -315,8 +315,8 @@
     "view_less": "Vezi mai puțin",
     "download": "Descărcare",
     "free": "Gratuit",
-    "hour_ago": "Hour Ago",
-    "hours_ago": "Hours Ago",
+    "hour_ago": "Oră Ago",
+    "hours_ago": "Ore Ago",
     "day_ago": "Zi Ago",
     "days_ago": "Zile Ago",
     "week_ago": "Săptămâna Ago",
@@ -344,7 +344,7 @@
     "light_mode": "Mod luminos",
     "dark_mode": "Mod întunecat",
     "biometrics": "Biometrică",
-    "favourites": "Favourites",
-    "import_certificate": "Import Certificate",
-    "your_certificates": "Your Certificates"
+    "favourites": "Favorite",
+    "import_certificate": "Importă certificatul",
+    "your_certificates": "Certificatele dvs."
 }
