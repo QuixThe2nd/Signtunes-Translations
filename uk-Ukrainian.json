@@ -343,5 +343,8 @@
     "system_default": "Системна по замовчуванню",
     "light_mode": "Легкий режим",
     "dark_mode": "Темний режим",
-    "biometrics": "Біометрія"
+    "biometrics": "Біометрія",
+    "favourites": "Favourites",
+    "import_certificate": "Import Certificate",
+    "your_certificates": "Your Certificates"
 }
