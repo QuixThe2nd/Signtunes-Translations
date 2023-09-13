@@ -315,8 +315,8 @@
     "view_less": "少なく表示する",
     "download": "ダウンロード",
     "free": "無料",
-    "hour_ago": "Hour Ago",
-    "hours_ago": "Hours Ago",
+    "hour_ago": "1時間前",
+    "hours_ago": "時間 前",
     "day_ago": "日前",
     "days_ago": "日前",
     "week_ago": "週前",
@@ -344,7 +344,7 @@
     "light_mode": "ライトモード",
     "dark_mode": "ダークモード",
     "biometrics": "生体認証",
-    "favourites": "Favourites",
-    "import_certificate": "Import Certificate",
-    "your_certificates": "Your Certificates"
+    "favourites": "お気に入り",
+    "import_certificate": "証明書のインポート",
+    "your_certificates": "あなたの証明書"
 }
