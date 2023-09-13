@@ -343,5 +343,8 @@
     "system_default": "Standaard systeeminstelling",
     "light_mode": "Lichte modus",
     "dark_mode": "Donkere modus",
-    "biometrics": "Biometrie"
+    "biometrics": "Biometrie",
+    "favourites": "Favourites",
+    "import_certificate": "Import Certificate",
+    "your_certificates": "Your Certificates"
 }
