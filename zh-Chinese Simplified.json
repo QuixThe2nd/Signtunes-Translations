@@ -315,8 +315,8 @@
     "view_less": "查看更少的",
     "download": "下载",
     "free": "免费的",
-    "hour_ago": "Hour Ago",
-    "hours_ago": "Hours Ago",
+    "hour_ago": "小时前",
+    "hours_ago": "小时前",
     "day_ago": "天前",
     "days_ago": "天前",
     "week_ago": "一周前",
@@ -344,7 +344,7 @@
     "light_mode": "亮色模式",
     "dark_mode": "暗色模式",
     "biometrics": "生物计",
-    "favourites": "Favourites",
-    "import_certificate": "Import Certificate",
-    "your_certificates": "Your Certificates"
+    "favourites": "收藏夹",
+    "import_certificate": "导入证书",
+    "your_certificates": "您的证书"
 }
