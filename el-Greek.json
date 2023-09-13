@@ -343,5 +343,8 @@
     "system_default": "Προεπιλογή Συστήματος",
     "light_mode": "Λειτουργία Φωτός",
     "dark_mode": "Σκοτεινή Λειτουργία",
-    "biometrics": "Βιομετρικά"
+    "biometrics": "Βιομετρικά",
+    "favourites": "Favourites",
+    "import_certificate": "Import Certificate",
+    "your_certificates": "Your Certificates"
 }
