@@ -343,5 +343,8 @@
     "system_default": "System Standard",
     "light_mode": "Lys Tilstand",
     "dark_mode": "Mørk Tilstand",
-    "biometrics": "Biometri"
+    "biometrics": "Biometri",
+    "favourites": "Favourites",
+    "import_certificate": "Import Certificate",
+    "your_certificates": "Your Certificates"
 }
