@@ -315,8 +315,8 @@
     "view_less": "Bekijk minder",
     "download": "downloaden",
     "free": "Vrij",
-    "hour_ago": "Hour Ago",
-    "hours_ago": "Hours Ago",
+    "hour_ago": "Uur geleden",
+    "hours_ago": "Uren geleden",
     "day_ago": "Dag geleden",
     "days_ago": "Dagen geleden",
     "week_ago": "Week geleden",
@@ -344,7 +344,7 @@
     "light_mode": "Lichte modus",
     "dark_mode": "Donkere modus",
     "biometrics": "Biometrie",
-    "favourites": "Favourites",
-    "import_certificate": "Import Certificate",
-    "your_certificates": "Your Certificates"
+    "favourites": "Favorieten",
+    "import_certificate": "Certificaat importeren",
+    "your_certificates": "Uw certificaten"
 }
