@@ -315,8 +315,8 @@
     "view_less": "Vis mindre",
     "download": "Nedlasting",
     "free": "Gratis",
-    "hour_ago": "Hour Ago",
-    "hours_ago": "Hours Ago",
+    "hour_ago": "Time siden",
+    "hours_ago": "Timer siden",
     "day_ago": "Dag siden",
     "days_ago": "Dager siden",
     "week_ago": "Uke siden",
@@ -344,7 +344,7 @@
     "light_mode": "Lett modus",
     "dark_mode": "Mørk Modus",
     "biometrics": "Biometri",
-    "favourites": "Favourites",
-    "import_certificate": "Import Certificate",
-    "your_certificates": "Your Certificates"
+    "favourites": "Favoritter",
+    "import_certificate": "Importer sertifikat",
+    "your_certificates": "Sertifikater dine"
 }
