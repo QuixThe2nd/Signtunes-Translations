@@ -65,6 +65,9 @@
     "Casino": "Sòng bạc",
     "Trivia": "Giải đố",
     "Magazines & Newspapers": "Báo chí",
+    "Kids & Family": "Kids & Family",
+    "Emoji & Expressions": "Emoji & Expressions",
+    "Stickers": "Stickers",
     "why_us": "Vì sao nên chọn chúng tôi?",
     "unlimited_installs": "Cài vô hạn ứng dụng bất cứ lúc nào",
     "unlimited_installs_description": "Với Signtunes, bạn có thể cài vô hạn ứng dụng mọi lúc. Không giới hạn số lượng ứng dụng mà bạn có thể cài.",
@@ -332,5 +335,8 @@
     "biometrics": "Biometrics",
     "favourites": "Favourites",
     "import_certificate": "Import Certificate",
-    "your_certificates": "Your Certificates"
+    "your_certificates": "Your Certificates",
+    "no_internet": "No Internet Connection",
+    "request": "Request",
+    "request update": "Request Update"
 }
