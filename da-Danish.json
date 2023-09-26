@@ -65,6 +65,9 @@
     "Casino": "Kasino",
     "Trivia": "Trivia",
     "Magazines & Newspapers": "Magasiner Og Aviser",
+    "Kids & Family": "Kids & Family",
+    "Emoji & Expressions": "Emoji & Expressions",
+    "Stickers": "Stickers",
     "why_us": "Hvorfor Vælge Os?",
     "unlimited_installs": "Installer Ubegrænsede Apps Anytime",
     "unlimited_installs_description": "Med Signtunes kan du til enhver tid installere ubegrænsede apps. Vi har ingen grænse for, hvor mange apps, du kan installere.",
@@ -332,5 +335,8 @@
     "biometrics": "Biometri",
     "favourites": "Favoritter",
     "import_certificate": "Importér Certifikat",
-    "your_certificates": "Dine Certifikater"
+    "your_certificates": "Dine Certifikater",
+    "no_internet": "No Internet Connection",
+    "request": "Request",
+    "request update": "Request Update"
 }
