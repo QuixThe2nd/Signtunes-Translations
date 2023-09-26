@@ -65,6 +65,9 @@
     "Casino": "Казино",
     "Trivia": "Тривія",
     "Magazines & Newspapers": "Журнали та Газети",
+    "Kids & Family": "Kids & Family",
+    "Emoji & Expressions": "Emoji & Expressions",
+    "Stickers": "Stickers",
     "why_us": "Чому ми обираємо нас?",
     "unlimited_installs": "Встановити необмежені додатки в будь-який час",
     "unlimited_installs_description": "За допомогою підпису ви зможете встановити необмежену кількість додатків у будь-який час. У нас немає обмежень, скільки програм ви можете встановити.",
@@ -332,5 +335,8 @@
     "biometrics": "Біометрія",
     "favourites": "Закладки",
     "import_certificate": "Імпортувати сертифікат",
-    "your_certificates": "Ваші сертифікати"
+    "your_certificates": "Ваші сертифікати",
+    "no_internet": "No Internet Connection",
+    "request": "Request",
+    "request update": "Request Update"
 }
