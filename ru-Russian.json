@@ -65,6 +65,9 @@
     "Casino": "Казино",
     "Trivia": "Тривия",
     "Magazines & Newspapers": "Журналы и газеты",
+    "Kids & Family": "Kids & Family",
+    "Emoji & Expressions": "Emoji & Expressions",
+    "Stickers": "Stickers",
     "why_us": "Почему мы?",
     "unlimited_installs": "Установить Unlimited приложения в любое время",
     "unlimited_installs_description": "С помощью подписи вы сможете устанавливать неограниченное количество приложений. Мы не ограничиваем, сколько приложений вы можете установить.",
@@ -332,5 +335,8 @@
     "biometrics": "Биометрические данные",
     "favourites": "Избранное",
     "import_certificate": "Импортировать сертификат",
-    "your_certificates": "Ваши сертификаты"
+    "your_certificates": "Ваши сертификаты",
+    "no_internet": "No Internet Connection",
+    "request": "Request",
+    "request update": "Request Update"
 }
