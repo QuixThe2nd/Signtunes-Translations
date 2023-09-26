@@ -65,6 +65,9 @@
     "Casino": "Kasíno",
     "Trivia": "Vedomostné",
     "Magazines & Newspapers": "Časopisy a Noviny",
+    "Kids & Family": "Kids & Family",
+    "Emoji & Expressions": "Emoji & Expressions",
+    "Stickers": "Stickers",
     "why_us": "Prečo Práve My?",
     "unlimited_installs": "Kedykoľvek Inštalujte Neobmedzený Počet Appiek",
     "unlimited_installs_description": "So Signtunes si môžete kedykoľvek nainštalovať neobmedzené množstvo aplikácií. Nemáme žiadne obmedzenie, koľko aplikácií si môžete nainštalovať.",
@@ -332,5 +335,8 @@
     "biometrics": "Biometrics",
     "favourites": "Favourites",
     "import_certificate": "Import Certificate",
-    "your_certificates": "Your Certificates"
+    "your_certificates": "Your Certificates",
+    "no_internet": "No Internet Connection",
+    "request": "Request",
+    "request update": "Request Update"
 }
