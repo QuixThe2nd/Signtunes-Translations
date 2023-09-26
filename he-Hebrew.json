@@ -65,6 +65,9 @@
     "Casino": "קזינו",
     "Trivia": "טריוויה",
     "Magazines & Newspapers": "כתבות ועיתונים",
+    "Kids & Family": "Kids & Family",
+    "Emoji & Expressions": "Emoji & Expressions",
+    "Stickers": "Stickers",
     "why_us": "למה לבחור בנו?",
     "unlimited_installs": "התקנת אפליקציות בלתי מוגבלת בכל עת",
     "unlimited_installs_description": "עם Signtunes, ניתן להתקין אפליקציות בלתי מוגבלות בכל עת. אין לנו הגבלה על מספר האפליקציות שניתן להתקין.",
@@ -332,5 +335,8 @@
     "biometrics": "Biometrics",
     "favourites": "Favourites",
     "import_certificate": "Import Certificate",
-    "your_certificates": "Your Certificates"
+    "your_certificates": "Your Certificates",
+    "no_internet": "No Internet Connection",
+    "request": "Request",
+    "request update": "Request Update"
 }
