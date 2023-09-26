@@ -65,6 +65,9 @@
     "Casino": "カジノ",
     "Trivia": "トリビア",
     "Magazines & Newspapers": "雑誌＆新聞",
+    "Kids & Family": "Kids & Family",
+    "Emoji & Expressions": "Emoji & Expressions",
+    "Stickers": "Stickers",
     "why_us": "Why Choose Us?",
     "unlimited_installs": "無制限のアプリをいつでもインストール",
     "unlimited_installs_description": "Signtunesを使用すると、いつでも無制限のアプリをインストールできます。インストールできるアプリの数に制限はありません。",
@@ -332,5 +335,8 @@
     "biometrics": "生体認証",
     "favourites": "お気に入り",
     "import_certificate": "証明書のインポート",
-    "your_certificates": "あなたの証明書"
+    "your_certificates": "あなたの証明書",
+    "no_internet": "No Internet Connection",
+    "request": "Request",
+    "request update": "Request Update"
 }
