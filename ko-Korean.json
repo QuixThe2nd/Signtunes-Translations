@@ -65,6 +65,9 @@
     "Casino": "카지노",
     "Trivia": "트리비아",
     "Magazines & Newspapers": "신문 & 매거진",
+    "Kids & Family": "Kids & Family",
+    "Emoji & Expressions": "Emoji & Expressions",
+    "Stickers": "Stickers",
     "why_us": "무엇이 Signtunes 서비스를 선택하게 하셨나요?",
     "unlimited_installs": "언제든, 무제한으로 원하는 앱을 설치하세요",
     "unlimited_installs_description": "저희 signtunes에서는 원하는 앱을 언제든 마음껏 이용하실 수 있습니다!",
@@ -332,5 +335,8 @@
     "biometrics": "Biometrics",
     "favourites": "Favourites",
     "import_certificate": "Import Certificate",
-    "your_certificates": "Your Certificates"
+    "your_certificates": "Your Certificates",
+    "no_internet": "No Internet Connection",
+    "request": "Request",
+    "request update": "Request Update"
 }
