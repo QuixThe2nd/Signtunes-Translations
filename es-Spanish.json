@@ -65,6 +65,9 @@
     "Casino": "Casino",
     "Trivia": "Trivia",
     "Magazines & Newspapers": "Magazinas & Magazinas",
+    "Kids & Family": "Kids & Family",
+    "Emoji & Expressions": "Emoji & Expressions",
+    "Stickers": "Stickers",
     "why_us": "¿Por qué elegirnos?",
     "unlimited_installs": "Instalar aplicaciones ilimitadas en cualquier momento",
     "unlimited_installs_description": "Con Signtunes, puedes instalar aplicaciones ilimitadas en cualquier momento. No tenemos límite en cuántas aplicaciones puedes instalar.",
@@ -332,5 +335,8 @@
     "biometrics": "Biometría",
     "favourites": "Favoritos",
     "import_certificate": "Importar Certificado",
-    "your_certificates": "Tus certificados"
+    "your_certificates": "Tus certificados",
+    "no_internet": "No Internet Connection",
+    "request": "Request",
+    "request update": "Request Update"
 }
