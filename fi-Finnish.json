@@ -65,6 +65,9 @@
     "Casino": "Kasino",
     "Trivia": "Trivia",
     "Magazines & Newspapers": "Aikakausi- ja sanomalehdet",
+    "Kids & Family": "Kids & Family",
+    "Emoji & Expressions": "Emoji & Expressions",
+    "Stickers": "Stickers",
     "why_us": "Miksi valita meidät?",
     "unlimited_installs": "Asenna rajoittamattomasti sovelluksia milloin vaan",
     "unlimited_installs_description": "Signtunesin avulla voit asentaa rajoittamattomia sovelluksia milloin tahansa. Meillä ei ole rajaa, kuinka monta sovellusta voit asentaa.",
@@ -332,5 +335,8 @@
     "biometrics": "Biometriikka",
     "favourites": "Suosikit",
     "import_certificate": "Tuo Varmenne",
-    "your_certificates": "Omat Varmenteet"
+    "your_certificates": "Omat Varmenteet",
+    "no_internet": "No Internet Connection",
+    "request": "Request",
+    "request update": "Request Update"
 }
