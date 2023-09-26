@@ -65,6 +65,9 @@
     "Casino": "Kasino",
     "Trivia": "Trivie",
     "Magazines & Newspapers": "Časopisy a noviny",
+    "Kids & Family": "Kids & Family",
+    "Emoji & Expressions": "Emoji & Expressions",
+    "Stickers": "Stickers",
     "why_us": "Proč nás vybrat?",
     "unlimited_installs": "Nainstalujte kdykoliv neomezené aplikace",
     "unlimited_installs_description": "S podpisy můžete kdykoliv nainstalovat neomezený počet aplikací. Nemáme žádný limit pro kolik aplikací můžete instalovat.",
@@ -332,5 +335,8 @@
     "biometrics": "Biometrie",
     "favourites": "Oblíbené",
     "import_certificate": "Importovat certifikát",
-    "your_certificates": "Vaše certifikáty"
+    "your_certificates": "Vaše certifikáty",
+    "no_internet": "No Internet Connection",
+    "request": "Request",
+    "request update": "Request Update"
 }
