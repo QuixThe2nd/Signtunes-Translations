@@ -65,6 +65,9 @@
     "Casino": "Cazinou",
     "Trivia": "Trib",
     "Magazines & Newspapers": "Reviste & Ziare",
+    "Kids & Family": "Kids & Family",
+    "Emoji & Expressions": "Emoji & Expressions",
+    "Stickers": "Stickers",
     "why_us": "De ce să ne alegem?",
     "unlimited_installs": "Instalează aplicații nelimitate oricând",
     "unlimited_installs_description": "Cu semnale, puteţi instala aplicaţii nelimitate oricând. Nu avem nicio limită pentru câte aplicaţii puteţi instala.",
@@ -332,5 +335,8 @@
     "biometrics": "Biometrică",
     "favourites": "Favorite",
     "import_certificate": "Importă certificatul",
-    "your_certificates": "Certificatele dvs."
+    "your_certificates": "Certificatele dvs.",
+    "no_internet": "No Internet Connection",
+    "request": "Request",
+    "request update": "Request Update"
 }
