@@ -65,6 +65,9 @@
     "Casino": "赌场",
     "Trivia": "Trivia",
     "Magazines & Newspapers": "杂志和新闻稿",
+    "Kids & Family": "Kids & Family",
+    "Emoji & Expressions": "Emoji & Expressions",
+    "Stickers": "Stickers",
     "why_us": "为什么选择我们？",
     "unlimited_installs": "随时安装无限应用",
     "unlimited_installs_description": "有了符号，您可以随时安装无限制的应用。我们对您可以安装的应用数量没有限制。",
@@ -332,5 +335,8 @@
     "biometrics": "生物计",
     "favourites": "收藏夹",
     "import_certificate": "导入证书",
-    "your_certificates": "您的证书"
+    "your_certificates": "您的证书",
+    "no_internet": "No Internet Connection",
+    "request": "Request",
+    "request update": "Request Update"
 }
