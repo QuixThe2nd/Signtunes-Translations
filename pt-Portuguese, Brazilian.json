@@ -65,6 +65,9 @@
     "Casino": "Cassino",
     "Trivia": "Trívia",
     "Magazines & Newspapers": "Revistas e Jornadas",
+    "Kids & Family": "Kids & Family",
+    "Emoji & Expressions": "Emoji & Expressions",
+    "Stickers": "Stickers",
     "why_us": "Por que nos escolher?",
     "unlimited_installs": "Instale aplicativos ilimitados sempre que quiser",
     "unlimited_installs_description": "Com Assinaturas, você é capaz de instalar apps ilimitados a qualquer momento. Não temos limite de quantos apps você pode instalar.",
@@ -332,5 +335,8 @@
     "biometrics": "Biometria",
     "favourites": "Favoritas",
     "import_certificate": "Importar Certificado",
-    "your_certificates": "Seus certificados"
+    "your_certificates": "Seus certificados",
+    "no_internet": "No Internet Connection",
+    "request": "Request",
+    "request update": "Request Update"
 }
