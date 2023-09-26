@@ -65,6 +65,9 @@
     "Casino": "الكازينو",
     "Trivia": "تريفيا",
     "Magazines & Newspapers": "المجلات و الصحف",
+    "Kids & Family": "Kids & Family",
+    "Emoji & Expressions": "Emoji & Expressions",
+    "Stickers": "Stickers",
     "why_us": "ما الذي يميزنا؟",
     "unlimited_installs": "ثبت تطبيقات غير محدودة في أي وقت",
     "unlimited_installs_description": "مع ساين تونز، يمكنك تثبيت تطبيقات غير محدودة في أي وقت. ليس لدينا حد لعدد التطبيقات التي يمكنك تثبيتها.",
@@ -332,5 +335,8 @@
     "biometrics": "القياسات الحيوية",
     "favourites": "المفضلة",
     "import_certificate": "استيراد الشهادة",
-    "your_certificates": "شهاداتك"
+    "your_certificates": "شهاداتك",
+    "no_internet": "No Internet Connection",
+    "request": "Request",
+    "request update": "Request Update"
 }
