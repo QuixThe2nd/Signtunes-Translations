@@ -65,6 +65,9 @@
     "Casino": "Καζίνο",
     "Trivia": "Trivia",
     "Magazines & Newspapers": "Περιοδικά & Εφημερίδες",
+    "Kids & Family": "Kids & Family",
+    "Emoji & Expressions": "Emoji & Expressions",
+    "Stickers": "Stickers",
     "why_us": "Γιατί Να Μας Επιλέξτε?",
     "unlimited_installs": "Εγκαταστήστε Απεριόριστες Εφαρμογές Οποτεδήποτε",
     "unlimited_installs_description": "Με το Signtunes, είστε σε θέση να εγκαταστήσετε απεριόριστες εφαρμογές οποιαδήποτε στιγμή. Δεν έχουμε κανένα όριο για το πόσες εφαρμογές μπορείτε να εγκαταστήσετε.",
@@ -332,5 +335,8 @@
     "biometrics": "Βιομετρικά",
     "favourites": "Αγαπημένα",
     "import_certificate": "Εισαγωγή Πιστοποιητικού",
-    "your_certificates": "Τα Πιστοποιητικά Σας"
+    "your_certificates": "Τα Πιστοποιητικά Σας",
+    "no_internet": "No Internet Connection",
+    "request": "Request",
+    "request update": "Request Update"
 }
