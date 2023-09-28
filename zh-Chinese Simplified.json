@@ -171,6 +171,7 @@
     "size": "大小",
     "features": "功能",
     "views": "视图",
+    "view": "View",
     "bundle_id": "捆包ID",
     "starfiles_maximum_ios": "星级文件最大 iOS",
     "age_rating": "年龄评分",
@@ -342,5 +343,6 @@
     "your_certificates": "您的证书",
     "no_internet": "No Internet Connection",
     "request": "Request",
-    "request update": "Request Update"
+    "request update": "Request Update",
+    "more_by": "More by"
 }
