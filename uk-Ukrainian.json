@@ -171,6 +171,7 @@
     "size": "Розмір",
     "features": "Особливості",
     "views": "Перегляди",
+    "view": "View",
     "bundle_id": "Ідентифікатор набору",
     "starfiles_maximum_ios": "Максимальна кількість iOS для Starfiles",
     "age_rating": "Віковий рейтинг",
@@ -342,5 +343,6 @@
     "your_certificates": "Ваші сертифікати",
     "no_internet": "No Internet Connection",
     "request": "Request",
-    "request update": "Request Update"
+    "request update": "Request Update",
+    "more_by": "More by"
 }
