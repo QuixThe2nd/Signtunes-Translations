@@ -171,6 +171,7 @@
     "size": "Rozmiar",
     "features": "Funkcje",
     "views": "Widoki",
+    "view": "View",
     "bundle_id": "Identyfikator pakietu",
     "starfiles_maximum_ios": "Maksymalna ilość plików gwiazdkowych iOS",
     "age_rating": "Ocena wieku",
@@ -342,5 +343,6 @@
     "your_certificates": "Twoje certyfikaty",
     "no_internet": "No Internet Connection",
     "request": "Request",
-    "request update": "Request Update"
+    "request update": "Request Update",
+    "more_by": "More by"
 }
