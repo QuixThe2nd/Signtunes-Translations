@@ -171,6 +171,7 @@
     "size": "Koko",
     "features": "Ominaisuudet",
     "views": "Näkymät",
+    "view": "View",
     "bundle_id": "Paketti Tunnus",
     "starfiles_maximum_ios": "Starfile-tiedostojen maksimi iOS",
     "age_rating": "Ikäluokitus",
@@ -342,5 +343,6 @@
     "your_certificates": "Omat Varmenteet",
     "no_internet": "No Internet Connection",
     "request": "Request",
-    "request update": "Request Update"
+    "request update": "Request Update",
+    "more_by": "More by"
 }
