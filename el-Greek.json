@@ -171,6 +171,7 @@
     "size": "Μέγεθος",
     "features": "Χαρακτηριστικά",
     "views": "Προβολές",
+    "view": "View",
     "bundle_id": "ID Εφαρμογής",
     "starfiles_maximum_ios": "Starfiles Μέγιστο iOS",
     "age_rating": "Βαθμολογία Ηλικίας",
@@ -342,5 +343,6 @@
     "your_certificates": "Τα Πιστοποιητικά Σας",
     "no_internet": "No Internet Connection",
     "request": "Request",
-    "request update": "Request Update"
+    "request update": "Request Update",
+    "more_by": "More by"
 }
