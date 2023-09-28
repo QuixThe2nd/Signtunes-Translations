@@ -171,6 +171,7 @@
     "size": "Size",
     "features": "Features",
     "views": "Views",
+    "view": "View",
     "bundle_id": "Bundle ID",
     "starfiles_maximum_ios": "Starfiles Maximum iOS",
     "age_rating": "Age Rating",
