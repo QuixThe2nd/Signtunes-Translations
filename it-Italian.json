@@ -171,6 +171,7 @@
     "size": "Dimensione",
     "features": "Caratteristiche",
     "views": "Viste",
+    "view": "View",
     "bundle_id": "Id Pacchetto",
     "starfiles_maximum_ios": "Starfiles Massimo iOS",
     "age_rating": "Valutazione Dell'Età",
@@ -342,5 +343,6 @@
     "your_certificates": "I Tuoi Certificati",
     "no_internet": "No Internet Connection",
     "request": "Request",
-    "request update": "Request Update"
+    "request update": "Request Update",
+    "more_by": "More by"
 }
