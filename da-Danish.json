@@ -171,6 +171,7 @@
     "size": "Størrelse",
     "features": "Funktioner",
     "views": "Visninger",
+    "view": "View",
     "bundle_id": "Bundt ID",
     "starfiles_maximum_ios": "Stjernefiler Maksimal iOS",
     "age_rating": "Alder Vurdering",
@@ -342,5 +343,6 @@
     "your_certificates": "Dine Certifikater",
     "no_internet": "No Internet Connection",
     "request": "Request",
-    "request update": "Request Update"
+    "request update": "Request Update",
+    "more_by": "More by"
 }
