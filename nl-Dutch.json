@@ -171,6 +171,7 @@
     "size": "Grootte",
     "features": "Eigenschappen",
     "views": "Weergaven",
+    "view": "View",
     "bundle_id": "Bundel ID",
     "starfiles_maximum_ios": "Starfiles Maximum iOS",
     "age_rating": "Leeftijd beoordeling",
@@ -342,5 +343,6 @@
     "your_certificates": "Uw certificaten",
     "no_internet": "No Internet Connection",
     "request": "Request",
-    "request update": "Request Update"
+    "request update": "Request Update",
+    "more_by": "More by"
 }
