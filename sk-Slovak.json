@@ -171,6 +171,7 @@
     "size": "Veľkosť",
     "features": "Funkcie",
     "views": "Pozretia",
+    "view": "View",
     "bundle_id": "Bundle ID",
     "starfiles_maximum_ios": "Starfiles Maximálny iOS",
     "age_rating": "Vekové Hodnotenie",
@@ -342,5 +343,6 @@
     "your_certificates": "Your Certificates",
     "no_internet": "No Internet Connection",
     "request": "Request",
-    "request update": "Request Update"
+    "request update": "Request Update",
+    "more_by": "More by"
 }
