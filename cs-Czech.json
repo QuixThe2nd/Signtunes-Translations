@@ -171,6 +171,7 @@
     "size": "Velikost",
     "features": "Vlastnosti",
     "views": "Zobrazení",
+    "view": "View",
     "bundle_id": "ID balíčku",
     "starfiles_maximum_ios": "Maximální iOS souborů",
     "age_rating": "Věkové hodnocení",
@@ -342,5 +343,6 @@
     "your_certificates": "Vaše certifikáty",
     "no_internet": "No Internet Connection",
     "request": "Request",
-    "request update": "Request Update"
+    "request update": "Request Update",
+    "more_by": "More by"
 }
