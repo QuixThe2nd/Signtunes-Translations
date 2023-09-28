@@ -171,6 +171,7 @@
     "size": "サイズ",
     "features": "特徴",
     "views": "ビュー",
+    "view": "View",
     "bundle_id": "バンドル ID",
     "starfiles_maximum_ios": "スターファイルの最大iOS",
     "age_rating": "年齢の評価",
@@ -342,5 +343,6 @@
     "your_certificates": "あなたの証明書",
     "no_internet": "No Internet Connection",
     "request": "Request",
-    "request update": "Request Update"
+    "request update": "Request Update",
+    "more_by": "More by"
 }
