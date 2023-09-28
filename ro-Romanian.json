@@ -171,6 +171,7 @@
     "size": "Dimensiune",
     "features": "Caracteristici",
     "views": "Vizualizări",
+    "view": "View",
     "bundle_id": "ID pachet",
     "starfiles_maximum_ios": "Număr maxim de fișiere iOS",
     "age_rating": "Rating de vârstă",
@@ -342,5 +343,6 @@
     "your_certificates": "Certificatele dvs.",
     "no_internet": "No Internet Connection",
     "request": "Request",
-    "request update": "Request Update"
+    "request update": "Request Update",
+    "more_by": "More by"
 }
