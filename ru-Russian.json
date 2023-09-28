@@ -171,6 +171,7 @@
     "size": "Размер",
     "features": "Возможности",
     "views": "Просмотров",
+    "view": "View",
     "bundle_id": "ID пакета",
     "starfiles_maximum_ios": "Максимальное количество файлов для iOS",
     "age_rating": "Возраст рейтинга",
@@ -342,5 +343,6 @@
     "your_certificates": "Ваши сертификаты",
     "no_internet": "No Internet Connection",
     "request": "Request",
-    "request update": "Request Update"
+    "request update": "Request Update",
+    "more_by": "More by"
 }
