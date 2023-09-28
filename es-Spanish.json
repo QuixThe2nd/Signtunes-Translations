@@ -171,6 +171,7 @@
     "size": "Tamaño",
     "features": "Características",
     "views": "Vistas",
+    "view": "View",
     "bundle_id": "ID del paquete",
     "starfiles_maximum_ios": "Archivos estelar máximo iOS",
     "age_rating": "Calificación de edad",
@@ -342,5 +343,6 @@
     "your_certificates": "Tus certificados",
     "no_internet": "No Internet Connection",
     "request": "Request",
-    "request update": "Request Update"
+    "request update": "Request Update",
+    "more_by": "More by"
 }
