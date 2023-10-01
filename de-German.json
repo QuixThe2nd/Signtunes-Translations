@@ -118,10 +118,10 @@
     "upload": "Hochladen",
     "uploading": "Hochladen",
     "or": "oder",
-    "distr_cert": "Distributionszertifikat",
-    "dev_cert": "Entwicklungszertifikat",
-    "expl_profile": "Explizites Profil",
-    "wild_profile": "Wildcard-Profil",
+    "distribution": "Distribution",
+    "development": "Development",
+    "explicit": "Explicit",
+    "wildcard": "Wildcard",
     "sign": "Signieren",
     "custom_bundle_id": "Eigene Bundle-ID",
     "custom_name": "Eigener Name",
@@ -339,7 +339,7 @@
     "dark_mode": "Dunkler Modus",
     "biometrics": "Biometrien",
     "favourites": "Favoriten",
-    "import_certificate": "Zertifikat importieren",
+    "export": "Export",
     "your_certificates": "Ihre Zertifikate",
     "no_internet": "No Internet Connection",
     "request": "Request",
@@ -351,5 +351,6 @@
     "continue": "Continue",
     "backup": "Backup",
     "certificate": "Certificate",
-    "mobileprovision": "Mobileprovision"
+    "mobileprovision": "Mobileprovision",
+    "reset": "Reset"
 }
