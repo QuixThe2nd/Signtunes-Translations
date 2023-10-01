@@ -118,10 +118,10 @@
     "upload": "Upload",
     "uploading": "Uploading",
     "or": "alebo",
-    "distr_cert": "Distribučný Certifikát",
-    "dev_cert": "Vývojársky Certifikát",
-    "expl_profile": "Explicitný Profil",
-    "wild_profile": "Zástupný Profil",
+    "distribution": "Distribution",
+    "development": "Development",
+    "explicit": "Explicit",
+    "wildcard": "Wildcard",
     "sign": "Inštalovať",
     "custom_bundle_id": "Vlastné Bundle ID",
     "custom_name": "Vlastný Názov",
@@ -339,7 +339,7 @@
     "dark_mode": "Dark Mode",
     "biometrics": "Biometrics",
     "favourites": "Favourites",
-    "import_certificate": "Import Certificate",
+    "export": "Export",
     "your_certificates": "Your Certificates",
     "no_internet": "No Internet Connection",
     "request": "Request",
@@ -351,5 +351,6 @@
     "continue": "Continue",
     "backup": "Backup",
     "certificate": "Certificate",
-    "mobileprovision": "Mobileprovision"
+    "mobileprovision": "Mobileprovision",
+    "reset": "Reset"
 }
