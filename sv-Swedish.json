@@ -118,10 +118,10 @@
     "upload": "Ladda upp",
     "uploading": "Uppladdning",
     "or": "eller",
-    "distr_cert": "Distributions-certifikat",
-    "dev_cert": "Utvecklingscertifikat",
-    "expl_profile": "Explicit profil",
-    "wild_profile": "Wildcard profil",
+    "distribution": "Distribution",
+    "development": "Development",
+    "explicit": "Explicit",
+    "wildcard": "Wildcard",
     "sign": "Signera",
     "custom_bundle_id": "Anpassat paket-ID",
     "custom_name": "Anpassat namn",
@@ -339,7 +339,7 @@
     "dark_mode": "Mörkt läge",
     "biometrics": "Biometri",
     "favourites": "Favoriter",
-    "import_certificate": "Importera certifikat",
+    "export": "Export",
     "your_certificates": "Dina certifikat",
     "no_internet": "No Internet Connection",
     "request": "Request",
@@ -351,5 +351,6 @@
     "continue": "Continue",
     "backup": "Backup",
     "certificate": "Certificate",
-    "mobileprovision": "Mobileprovision"
+    "mobileprovision": "Mobileprovision",
+    "reset": "Reset"
 }
