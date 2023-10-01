@@ -118,10 +118,10 @@
     "upload": "Incarca",
     "uploading": "Încărcare",
     "or": "sau",
-    "distr_cert": "Certificat de distribuţie",
-    "dev_cert": "Certificat de dezvoltare",
-    "expl_profile": "Profil explicit",
-    "wild_profile": "Profil Wildcard",
+    "distribution": "Distribution",
+    "development": "Development",
+    "explicit": "Explicit",
+    "wildcard": "Wildcard",
     "sign": "Semnare",
     "custom_bundle_id": "ID pachet personalizat",
     "custom_name": "Nume personalizat",
@@ -339,7 +339,7 @@
     "dark_mode": "Mod întunecat",
     "biometrics": "Biometrică",
     "favourites": "Favorite",
-    "import_certificate": "Importă certificatul",
+    "export": "Export",
     "your_certificates": "Certificatele dvs.",
     "no_internet": "No Internet Connection",
     "request": "Request",
@@ -351,5 +351,6 @@
     "continue": "Continue",
     "backup": "Backup",
     "certificate": "Certificate",
-    "mobileprovision": "Mobileprovision"
+    "mobileprovision": "Mobileprovision",
+    "reset": "Reset"
 }
