@@ -118,10 +118,10 @@
     "upload": "Transferir",
     "uploading": "Carregando...",
     "or": "ou",
-    "distr_cert": "Certificado de Distribuição",
-    "dev_cert": "Certificado de desenvolvimento",
-    "expl_profile": "Perfil explícito",
-    "wild_profile": "Perfil curinga",
+    "distribution": "Distribution",
+    "development": "Development",
+    "explicit": "Explicit",
+    "wildcard": "Wildcard",
     "sign": "Assinar",
     "custom_bundle_id": "ID do pacote personalizado",
     "custom_name": "Nome personalizado",
@@ -339,7 +339,7 @@
     "dark_mode": "Modo Escuro",
     "biometrics": "Biometria",
     "favourites": "Favoritas",
-    "import_certificate": "Importar Certificado",
+    "export": "Export",
     "your_certificates": "Seus certificados",
     "no_internet": "No Internet Connection",
     "request": "Request",
@@ -351,5 +351,6 @@
     "continue": "Continue",
     "backup": "Backup",
     "certificate": "Certificate",
-    "mobileprovision": "Mobileprovision"
+    "mobileprovision": "Mobileprovision",
+    "reset": "Reset"
 }
