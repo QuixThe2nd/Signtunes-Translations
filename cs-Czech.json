@@ -118,10 +118,10 @@
     "upload": "Nahrát",
     "uploading": "Nahrávání",
     "or": "nebo",
-    "distr_cert": "Distribuční osvědčení",
-    "dev_cert": "Certifikát pro vývoj",
-    "expl_profile": "Explicitní profil",
-    "wild_profile": "Profil zástupného znaku",
+    "distribution": "Distribution",
+    "development": "Development",
+    "explicit": "Explicit",
+    "wildcard": "Wildcard",
     "sign": "Značka",
     "custom_bundle_id": "Vlastní Bundle ID",
     "custom_name": "Vlastní jméno",
@@ -339,7 +339,7 @@
     "dark_mode": "Tmavý režim",
     "biometrics": "Biometrie",
     "favourites": "Oblíbené",
-    "import_certificate": "Importovat certifikát",
+    "export": "Export",
     "your_certificates": "Vaše certifikáty",
     "no_internet": "No Internet Connection",
     "request": "Request",
@@ -351,5 +351,6 @@
     "continue": "Continue",
     "backup": "Backup",
     "certificate": "Certificate",
-    "mobileprovision": "Mobileprovision"
+    "mobileprovision": "Mobileprovision",
+    "reset": "Reset"
 }
