@@ -118,10 +118,10 @@
     "upload": "上传",
     "uploading": "上传中",
     "or": "或",
-    "distr_cert": "发行证书",
-    "dev_cert": "开发证书",
-    "expl_profile": "明确的个人资料",
-    "wild_profile": "通配符配置文件",
+    "distribution": "Distribution",
+    "development": "Development",
+    "explicit": "Explicit",
+    "wildcard": "Wildcard",
     "sign": "签名",
     "custom_bundle_id": "自定义 Bundle ID",
     "custom_name": "自定义名称",
@@ -339,7 +339,7 @@
     "dark_mode": "暗色模式",
     "biometrics": "生物计",
     "favourites": "收藏夹",
-    "import_certificate": "导入证书",
+    "export": "Export",
     "your_certificates": "您的证书",
     "no_internet": "No Internet Connection",
     "request": "Request",
@@ -351,5 +351,6 @@
     "continue": "Continue",
     "backup": "Backup",
     "certificate": "Certificate",
-    "mobileprovision": "Mobileprovision"
+    "mobileprovision": "Mobileprovision",
+    "reset": "Reset"
 }
