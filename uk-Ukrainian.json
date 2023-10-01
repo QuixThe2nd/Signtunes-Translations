@@ -118,10 +118,10 @@
     "upload": "Вивантажити",
     "uploading": "Вивантаження",
     "or": "або",
-    "distr_cert": "Сертифікат розподілу",
-    "dev_cert": "Сертифікат розробника",
-    "expl_profile": "Зовнішній профіль",
-    "wild_profile": "Профіль шаблона",
+    "distribution": "Distribution",
+    "development": "Development",
+    "explicit": "Explicit",
+    "wildcard": "Wildcard",
     "sign": "Підпис",
     "custom_bundle_id": "Користувацький ідентифікатор пакета",
     "custom_name": "Власне ім'я",
@@ -339,7 +339,7 @@
     "dark_mode": "Темний режим",
     "biometrics": "Біометрія",
     "favourites": "Закладки",
-    "import_certificate": "Імпортувати сертифікат",
+    "export": "Export",
     "your_certificates": "Ваші сертифікати",
     "no_internet": "No Internet Connection",
     "request": "Request",
@@ -351,5 +351,6 @@
     "continue": "Continue",
     "backup": "Backup",
     "certificate": "Certificate",
-    "mobileprovision": "Mobileprovision"
+    "mobileprovision": "Mobileprovision",
+    "reset": "Reset"
 }
