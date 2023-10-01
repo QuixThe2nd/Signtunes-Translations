@@ -118,10 +118,10 @@
     "upload": "Uploaden",
     "uploading": "Uploaden",
     "or": "of",
-    "distr_cert": "Distributie Certificaat",
-    "dev_cert": "Ontwikkeling Certificaat",
-    "expl_profile": "Expliciet Profiel",
-    "wild_profile": "Wildcard Profiel",
+    "distribution": "Distribution",
+    "development": "Development",
+    "explicit": "Explicit",
+    "wildcard": "Wildcard",
     "sign": "Installeren",
     "custom_bundle_id": "Aangepaste Bundel ID",
     "custom_name": "Aangepaste Naam",
@@ -339,7 +339,7 @@
     "dark_mode": "Donkere modus",
     "biometrics": "Biometrie",
     "favourites": "Favorieten",
-    "import_certificate": "Certificaat importeren",
+    "export": "Export",
     "your_certificates": "Uw certificaten",
     "no_internet": "No Internet Connection",
     "request": "Request",
@@ -351,5 +351,6 @@
     "continue": "Continue",
     "backup": "Backup",
     "certificate": "Certificate",
-    "mobileprovision": "Mobileprovision"
+    "mobileprovision": "Mobileprovision",
+    "reset": "Reset"
 }
