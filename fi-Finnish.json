@@ -118,10 +118,10 @@
     "upload": "Lähetä",
     "uploading": "Lähetetään",
     "or": "tai",
-    "distr_cert": "Jakeluvarmenne",
-    "dev_cert": "Kehitys Sertifikaatti",
-    "expl_profile": "Täsmällinen Profiili",
-    "wild_profile": "Jokerimerkin Profiili",
+    "distribution": "Distribution",
+    "development": "Development",
+    "explicit": "Explicit",
+    "wildcard": "Wildcard",
     "sign": "Allekirjoita",
     "custom_bundle_id": "Mukautettu Paketti Tunnus",
     "custom_name": "Mukautettu Nimi",
@@ -339,7 +339,7 @@
     "dark_mode": "Tumma Tila",
     "biometrics": "Biometriikka",
     "favourites": "Suosikit",
-    "import_certificate": "Tuo Varmenne",
+    "export": "Export",
     "your_certificates": "Omat Varmenteet",
     "no_internet": "No Internet Connection",
     "request": "Request",
@@ -351,5 +351,6 @@
     "continue": "Continue",
     "backup": "Backup",
     "certificate": "Certificate",
-    "mobileprovision": "Mobileprovision"
+    "mobileprovision": "Mobileprovision",
+    "reset": "Reset"
 }
