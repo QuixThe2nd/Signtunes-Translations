@@ -118,10 +118,10 @@
     "upload": "Upload",
     "uploading": "Uploader",
     "or": "eller",
-    "distr_cert": "Distributionscertifikat",
-    "dev_cert": "Udviklings Certifikat",
-    "expl_profile": "Eksplicit Profil",
-    "wild_profile": "Wildcard Profil",
+    "distribution": "Distribution",
+    "development": "Development",
+    "explicit": "Explicit",
+    "wildcard": "Wildcard",
     "sign": "Underskriv",
     "custom_bundle_id": "Tilpasset Bundt-ID",
     "custom_name": "Brugerdefineret Navn",
@@ -339,7 +339,7 @@
     "dark_mode": "Mørk Tilstand",
     "biometrics": "Biometri",
     "favourites": "Favoritter",
-    "import_certificate": "Importér Certifikat",
+    "export": "Export",
     "your_certificates": "Dine Certifikater",
     "no_internet": "No Internet Connection",
     "request": "Request",
@@ -351,5 +351,6 @@
     "continue": "Continue",
     "backup": "Backup",
     "certificate": "Certificate",
-    "mobileprovision": "Mobileprovision"
+    "mobileprovision": "Mobileprovision",
+    "reset": "Reset"
 }
