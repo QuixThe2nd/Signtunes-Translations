@@ -118,10 +118,10 @@
     "upload": "Выгрузить",
     "uploading": "Загружается",
     "or": "или",
-    "distr_cert": "Сертификат о распространении",
-    "dev_cert": "Сертификат разработки",
-    "expl_profile": "Ясный профиль",
-    "wild_profile": "Профиль шаблона",
+    "distribution": "Distribution",
+    "development": "Development",
+    "explicit": "Explicit",
+    "wildcard": "Wildcard",
     "sign": "Знак",
     "custom_bundle_id": "Пользовательский ID пакета",
     "custom_name": "Имя пользователя",
@@ -339,7 +339,7 @@
     "dark_mode": "Темный режим",
     "biometrics": "Биометрические данные",
     "favourites": "Избранное",
-    "import_certificate": "Импортировать сертификат",
+    "export": "Export",
     "your_certificates": "Ваши сертификаты",
     "no_internet": "No Internet Connection",
     "request": "Request",
@@ -351,5 +351,6 @@
     "continue": "Continue",
     "backup": "Backup",
     "certificate": "Certificate",
-    "mobileprovision": "Mobileprovision"
+    "mobileprovision": "Mobileprovision",
+    "reset": "Reset"
 }
