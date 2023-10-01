@@ -118,10 +118,10 @@
     "upload": "Ανέβασμα",
     "uploading": "Μεταφόρτωση",
     "or": "ή",
-    "distr_cert": "Πιστοποιητικό Διανομής",
-    "dev_cert": "Πιστοποιητικό Ανάπτυξης",
-    "expl_profile": "Ακριβές Προφίλ",
-    "wild_profile": "Προφίλ Μπαλαντέρ",
+    "distribution": "Distribution",
+    "development": "Development",
+    "explicit": "Explicit",
+    "wildcard": "Wildcard",
     "sign": "Εκκίνηση Εγγραφής IPA",
     "custom_bundle_id": "Προσαρμοσμένο Bundle ID",
     "custom_name": "Προσαρμοσμένο Όνομα",
@@ -339,7 +339,7 @@
     "dark_mode": "Σκοτεινή Λειτουργία",
     "biometrics": "Βιομετρικά",
     "favourites": "Αγαπημένα",
-    "import_certificate": "Εισαγωγή Πιστοποιητικού",
+    "export": "Export",
     "your_certificates": "Τα Πιστοποιητικά Σας",
     "no_internet": "No Internet Connection",
     "request": "Request",
@@ -351,5 +351,6 @@
     "continue": "Continue",
     "backup": "Backup",
     "certificate": "Certificate",
-    "mobileprovision": "Mobileprovision"
+    "mobileprovision": "Mobileprovision",
+    "reset": "Reset"
 }
