@@ -118,10 +118,10 @@
     "upload": "Tải lên",
     "uploading": "Uploading",
     "or": "hoặc",
-    "distr_cert": "Chứng chỉ phân phối",
-    "dev_cert": "Chứng chỉ phát triển",
-    "expl_profile": "Hồ sơ chính chủ",
-    "wild_profile": "Hồ sơ đại diện",
+    "distribution": "Distribution",
+    "development": "Development",
+    "explicit": "Explicit",
+    "wildcard": "Wildcard",
     "sign": "Ký",
     "custom_bundle_id": "Tuỳ chỉnh ID gói",
     "custom_name": "Tuỳ chỉnh tên",
@@ -339,7 +339,7 @@
     "dark_mode": "Dark Mode",
     "biometrics": "Biometrics",
     "favourites": "Favourites",
-    "import_certificate": "Import Certificate",
+    "export": "Export",
     "your_certificates": "Your Certificates",
     "no_internet": "No Internet Connection",
     "request": "Request",
@@ -351,5 +351,6 @@
     "continue": "Continue",
     "backup": "Backup",
     "certificate": "Certificate",
-    "mobileprovision": "Mobileprovision"
+    "mobileprovision": "Mobileprovision",
+    "reset": "Reset"
 }
