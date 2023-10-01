@@ -118,10 +118,10 @@
     "upload": "Upload",
     "uploading": "تحميل",
     "or": "أو",
-    "distr_cert": "شهادة التوزيع",
-    "dev_cert": "شهادة مطور",
-    "expl_profile": "الملف الشخصي الصريح",
-    "wild_profile": "ملف تعريف البطاقة البرية",
+    "distribution": "Distribution",
+    "development": "Development",
+    "explicit": "Explicit",
+    "wildcard": "Wildcard",
     "sign": "توقيع",
     "custom_bundle_id": "معرف الحزمة المخصصة",
     "custom_name": "اسم مخصص",
@@ -339,7 +339,7 @@
     "dark_mode": "الوضع المظلم",
     "biometrics": "القياسات الحيوية",
     "favourites": "المفضلة",
-    "import_certificate": "استيراد الشهادة",
+    "export": "Export",
     "your_certificates": "شهاداتك",
     "no_internet": "No Internet Connection",
     "request": "Request",
@@ -351,5 +351,6 @@
     "continue": "Continue",
     "backup": "Backup",
     "certificate": "Certificate",
-    "mobileprovision": "Mobileprovision"
+    "mobileprovision": "Mobileprovision",
+    "reset": "Reset"
 }
