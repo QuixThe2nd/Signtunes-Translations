@@ -118,10 +118,10 @@
     "upload": "Last opp",
     "uploading": "Opplasting",
     "or": "eller",
-    "distr_cert": "Distribusjonssertifikat",
-    "dev_cert": "Utviklingssertifikat (Automatic Translation)",
-    "expl_profile": "Eksplisitt profil",
-    "wild_profile": "Jokertegn profil",
+    "distribution": "Distribution",
+    "development": "Development",
+    "explicit": "Explicit",
+    "wildcard": "Wildcard",
     "sign": "Signer",
     "custom_bundle_id": "Egendefinert pakke-ID",
     "custom_name": "Egendefinert navn",
@@ -339,7 +339,7 @@
     "dark_mode": "Mørk Modus",
     "biometrics": "Biometri",
     "favourites": "Favoritter",
-    "import_certificate": "Importer sertifikat",
+    "export": "Export",
     "your_certificates": "Sertifikater dine",
     "no_internet": "No Internet Connection",
     "request": "Request",
@@ -351,5 +351,6 @@
     "continue": "Continue",
     "backup": "Backup",
     "certificate": "Certificate",
-    "mobileprovision": "Mobileprovision"
+    "mobileprovision": "Mobileprovision",
+    "reset": "Reset"
 }
