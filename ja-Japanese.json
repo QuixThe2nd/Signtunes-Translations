@@ -118,10 +118,10 @@
     "upload": "アップロード",
     "uploading": "アップロード中",
     "or": "または",
-    "distr_cert": "配布証明書",
-    "dev_cert": "開発証明書",
-    "expl_profile": "明示的なプロファイル",
-    "wild_profile": "ワイルドカードのプロフィール",
+    "distribution": "Distribution",
+    "development": "Development",
+    "explicit": "Explicit",
+    "wildcard": "Wildcard",
     "sign": "サイン",
     "custom_bundle_id": "カスタム バンドル ID",
     "custom_name": "カスタム名",
@@ -339,7 +339,7 @@
     "dark_mode": "ダークモード",
     "biometrics": "生体認証",
     "favourites": "お気に入り",
-    "import_certificate": "証明書のインポート",
+    "export": "Export",
     "your_certificates": "あなたの証明書",
     "no_internet": "No Internet Connection",
     "request": "Request",
@@ -351,5 +351,6 @@
     "continue": "Continue",
     "backup": "Backup",
     "certificate": "Certificate",
-    "mobileprovision": "Mobileprovision"
+    "mobileprovision": "Mobileprovision",
+    "reset": "Reset"
 }
