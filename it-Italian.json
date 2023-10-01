@@ -118,10 +118,10 @@
     "upload": "Carica",
     "uploading": "Caricamento",
     "or": "o",
-    "distr_cert": "Certificato Di Distribuzione",
-    "dev_cert": "Certificato Di Sviluppo",
-    "expl_profile": "Profilo Esplicito",
-    "wild_profile": "Profilo Wildcard",
+    "distribution": "Distribution",
+    "development": "Development",
+    "explicit": "Explicit",
+    "wildcard": "Wildcard",
     "sign": "Firma",
     "custom_bundle_id": "Id Pacchetto Personalizzato",
     "custom_name": "Nome Personalizzato",
@@ -339,7 +339,7 @@
     "dark_mode": "Modalità Scura",
     "biometrics": "Biometria",
     "favourites": "Preferiti",
-    "import_certificate": "Importa Certificato",
+    "export": "Export",
     "your_certificates": "I Tuoi Certificati",
     "no_internet": "No Internet Connection",
     "request": "Request",
@@ -351,5 +351,6 @@
     "continue": "Continue",
     "backup": "Backup",
     "certificate": "Certificate",
-    "mobileprovision": "Mobileprovision"
+    "mobileprovision": "Mobileprovision",
+    "reset": "Reset"
 }
