@@ -352,5 +352,6 @@
     "backup": "バックアップ",
     "certificate": "証明書",
     "mobileprovision": "Mobileprovision",
-    "reset": "Reset"
+    "reset": "Reset",
+    "notifications": "Notifications"
 }
