@@ -352,5 +352,6 @@
     "backup": "Αντίγραφα Ασφαλείας",
     "certificate": "Πιστοποιητικό",
     "mobileprovision": "Mobileprovision",
-    "reset": "Reset"
+    "reset": "Reset",
+    "notifications": "Notifications"
 }
