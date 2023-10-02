@@ -352,5 +352,6 @@
     "backup": "Backup",
     "certificate": "Certificat",
     "mobileprovision": "Mobileprovision",
-    "reset": "Reset"
+    "reset": "Reset",
+    "notifications": "Notifications"
 }
