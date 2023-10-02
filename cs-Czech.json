@@ -352,5 +352,6 @@
     "backup": "Záloha",
     "certificate": "Osvědčení",
     "mobileprovision": "Mobileprovision",
-    "reset": "Reset"
+    "reset": "Reset",
+    "notifications": "Notifications"
 }
