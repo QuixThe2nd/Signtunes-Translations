@@ -352,5 +352,6 @@
     "backup": "Varmuuskopio",
     "certificate": "Varmenne",
     "mobileprovision": "Mobileprovision",
-    "reset": "Reset"
+    "reset": "Reset",
+    "notifications": "Notifications"
 }
