@@ -352,5 +352,6 @@
     "backup": "备份",
     "certificate": "证书",
     "mobileprovision": "Mobileprovision",
-    "reset": "Reset"
+    "reset": "Reset",
+    "notifications": "Notifications"
 }
