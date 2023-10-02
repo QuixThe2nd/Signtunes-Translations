@@ -352,5 +352,6 @@
     "backup": "Резервное копирование",
     "certificate": "Сертификат",
     "mobileprovision": "Mobileprovision",
-    "reset": "Reset"
+    "reset": "Reset",
+    "notifications": "Notifications"
 }
