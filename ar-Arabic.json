@@ -353,5 +353,6 @@
     "certificate": "شهادة",
     "mobileprovision": "Mobileprovision",
     "reset": "Reset",
-    "notifications": "Notifications"
+    "notifications": "Notifications",
+    "signing_servers": "Signing Servers"
 }
