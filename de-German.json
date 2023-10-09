@@ -353,6 +353,6 @@
     "certificate": "Zertifikat",
     "mobileprovision": "Mobileprovision",
     "reset": "Reset",
-    "notifications": "Notifications",
-    "signing_servers": "Signing Servers"
+    "notifications": "Benachrichtigungen",
+    "signing_servers": "Signierserver"
 }
