@@ -353,6 +353,6 @@
     "certificate": "Varmenne",
     "mobileprovision": "Mobileprovision",
     "reset": "Reset",
-    "notifications": "Notifications",
-    "signing_servers": "Signing Servers"
+    "notifications": "Ilmoitukset",
+    "signing_servers": "Allekirjoitetaan Palvelimia"
 }
