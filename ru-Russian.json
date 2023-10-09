@@ -353,6 +353,6 @@
     "certificate": "Сертификат",
     "mobileprovision": "Mobileprovision",
     "reset": "Reset",
-    "notifications": "Notifications",
-    "signing_servers": "Signing Servers"
+    "notifications": "Уведомления",
+    "signing_servers": "Подписание серверов"
 }
