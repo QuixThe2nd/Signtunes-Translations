@@ -353,6 +353,6 @@
     "certificate": "証明書",
     "mobileprovision": "Mobileprovision",
     "reset": "Reset",
-    "notifications": "Notifications",
-    "signing_servers": "Signing Servers"
+    "notifications": "通知",
+    "signing_servers": "サーバーの署名"
 }
