@@ -353,6 +353,6 @@
     "certificate": "Certifikat",
     "mobileprovision": "Mobileprovision",
     "reset": "Reset",
-    "notifications": "Notifications",
-    "signing_servers": "Signing Servers"
+    "notifications": "Aviseringar",
+    "signing_servers": "Signerar servrar"
 }
