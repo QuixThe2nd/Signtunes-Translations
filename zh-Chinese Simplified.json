@@ -176,7 +176,8 @@
     "starfiles_maximum_ios": "星级文件最大 iOS",
     "age_rating": "年龄评分",
     "downloads": "下载",
-    "latest_version": "您处于最新版本",
+    "latest_version": "Latest Version",
+    "current_version": "Current Version",
     "genres": "Genres",
     "upload_time": "上传时间",
     "minimum_ios": "最小iOS",
@@ -332,6 +333,7 @@
     "error": "错误",
     "something_went_wrong": "出了错。",
     "customisation": "自定义",
+    "latest_version_text": "You are on the latest version",
     "force_update": "强制更新",
     "nothing_to_see_here": "这里没有看到的内容",
     "system_default": "系统默认",
@@ -354,5 +356,8 @@
     "mobileprovision": "Mobileprovision",
     "reset": "Reset",
     "notifications": "通知",
-    "signing_servers": "签名服务器"
+    "signing_servers": "签名服务器",
+    "donate": "Donate",
+    "updates": "Updates",
+    "no_results": "No Results"
 }
