@@ -176,7 +176,8 @@
     "starfiles_maximum_ios": "Максимальное количество файлов для iOS",
     "age_rating": "Возраст рейтинга",
     "downloads": "Загрузки",
-    "latest_version": "Вы используете последнюю версию",
+    "latest_version": "Latest Version",
+    "current_version": "Current Version",
     "genres": "Genres",
     "upload_time": "Время выгрузки",
     "minimum_ios": "Минимум iOS",
@@ -332,6 +333,7 @@
     "error": "Ошибка",
     "something_went_wrong": "Что-то пошло не так",
     "customisation": "Настройка",
+    "latest_version_text": "You are on the latest version",
     "force_update": "Сделать обновление",
     "nothing_to_see_here": "Здесь нечего видеть",
     "system_default": "Система по умолчанию",
@@ -354,5 +356,8 @@
     "mobileprovision": "Mobileprovision",
     "reset": "Reset",
     "notifications": "Уведомления",
-    "signing_servers": "Подписание серверов"
+    "signing_servers": "Подписание серверов",
+    "donate": "Donate",
+    "updates": "Updates",
+    "no_results": "No Results"
 }
