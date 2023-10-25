@@ -176,7 +176,8 @@
     "starfiles_maximum_ios": "Starfiles Maximal iOS",
     "age_rating": "Ålder Betyg",
     "downloads": "Nedladdningar",
-    "latest_version": "Du är på den senaste versionen",
+    "latest_version": "Latest Version",
+    "current_version": "Current Version",
     "genres": "Genres",
     "upload_time": "Ladda upp tid",
     "minimum_ios": "Minsta iOS",
@@ -332,6 +333,7 @@
     "error": "Fel",
     "something_went_wrong": "Något gick fel",
     "customisation": "Anpassning",
+    "latest_version_text": "You are on the latest version",
     "force_update": "Tvinga uppdatering",
     "nothing_to_see_here": "Inget att se här",
     "system_default": "Systemets standard",
@@ -354,5 +356,8 @@
     "mobileprovision": "Mobileprovision",
     "reset": "Reset",
     "notifications": "Aviseringar",
-    "signing_servers": "Signerar servrar"
+    "signing_servers": "Signerar servrar",
+    "donate": "Donate",
+    "updates": "Updates",
+    "no_results": "No Results"
 }
