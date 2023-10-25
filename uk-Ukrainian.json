@@ -359,5 +359,11 @@
     "signing_servers": "Сервери для підписання",
     "donate": "Donate",
     "updates": "Updates",
-    "no_results": "No Results"
+    "no_results": "No Results",
+    "cancel": "Cancel",
+    "modded_apps": "Modded Apps",
+    "cracked_apps": "Cracked Apps",
+    "starfiles_verified": "Starfiles Verified",
+    "third_party_apps": "Third Party Apps",
+    "created_by_starfiles": "Created by Starfiles"
 }
