@@ -176,7 +176,8 @@
     "starfiles_maximum_ios": "Starfiles Maximálny iOS",
     "age_rating": "Vekové Hodnotenie",
     "downloads": "Stiahnutia",
-    "latest_version": "You are on the latest version",
+    "latest_version": "Latest Version",
+    "current_version": "Current Version",
     "genres": "Žánre",
     "upload_time": "Čas nahrávania",
     "minimum_ios": "Minimálny iOS",
@@ -332,6 +333,7 @@
     "error": "Error",
     "something_went_wrong": "Something went wrong",
     "customisation": "Customisation",
+    "latest_version_text": "You are on the latest version",
     "force_update": "Force Update",
     "nothing_to_see_here": "Nothing to see here",
     "system_default": "System Default",
@@ -354,5 +356,8 @@
     "mobileprovision": "Mobileprovision",
     "reset": "Reset",
     "notifications": "Notifications",
-    "signing_servers": "Signing Servers"
+    "signing_servers": "Signing Servers",
+    "donate": "Donate",
+    "updates": "Updates",
+    "no_results": "No Results"
 }
