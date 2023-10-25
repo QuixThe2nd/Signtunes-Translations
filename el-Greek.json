@@ -176,7 +176,8 @@
     "starfiles_maximum_ios": "Starfiles Μέγιστο iOS",
     "age_rating": "Βαθμολογία Ηλικίας",
     "downloads": "Λήψεις",
-    "latest_version": "Είστε στην τελευταία έκδοση",
+    "latest_version": "Latest Version",
+    "current_version": "Current Version",
     "genres": "Genres",
     "upload_time": "Χρόνος Αποστολής",
     "minimum_ios": "Ελάχιστο iOS",
@@ -332,6 +333,7 @@
     "error": "Σφάλμα",
     "something_went_wrong": "Κάτι πήγε στραβά",
     "customisation": "Προσαρμογή",
+    "latest_version_text": "You are on the latest version",
     "force_update": "Αναγκαστική Ενημέρωση",
     "nothing_to_see_here": "Τίποτα για να δείτε εδώ",
     "system_default": "Προεπιλογή Συστήματος",
@@ -354,5 +356,8 @@
     "mobileprovision": "Mobileprovision",
     "reset": "Reset",
     "notifications": "Ειδοποιήσεις",
-    "signing_servers": "Διακομιστές Υπογραφής"
+    "signing_servers": "Διακομιστές Υπογραφής",
+    "donate": "Donate",
+    "updates": "Updates",
+    "no_results": "No Results"
 }
