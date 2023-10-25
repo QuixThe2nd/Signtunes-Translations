@@ -176,7 +176,8 @@
     "starfiles_maximum_ios": "Maximální iOS souborů",
     "age_rating": "Věkové hodnocení",
     "downloads": "Stahování",
-    "latest_version": "Jste na nejnovější verzi",
+    "latest_version": "Latest Version",
+    "current_version": "Current Version",
     "genres": "Genres",
     "upload_time": "Čas nahrávání",
     "minimum_ios": "Minimální iOS",
@@ -332,6 +333,7 @@
     "error": "Chyba",
     "something_went_wrong": "Něco se pokazilo",
     "customisation": "Přizpůsobení",
+    "latest_version_text": "You are on the latest version",
     "force_update": "Vynutit aktualizaci",
     "nothing_to_see_here": "Nic zde k zobrazení",
     "system_default": "Výchozí nastavení systému",
@@ -354,5 +356,8 @@
     "mobileprovision": "Mobileprovision",
     "reset": "Reset",
     "notifications": "Oznámení",
-    "signing_servers": "Podepisování serverů"
+    "signing_servers": "Podepisování serverů",
+    "donate": "Donate",
+    "updates": "Updates",
+    "no_results": "No Results"
 }
