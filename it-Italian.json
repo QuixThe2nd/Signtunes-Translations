@@ -176,7 +176,8 @@
     "starfiles_maximum_ios": "Starfiles Massimo iOS",
     "age_rating": "Valutazione Dell'Età",
     "downloads": "Download",
-    "latest_version": "Sei all'ultima versione",
+    "latest_version": "Latest Version",
+    "current_version": "Current Version",
     "genres": "Genres",
     "upload_time": "Tempo Di Caricamento",
     "minimum_ios": "Minimo iOS",
@@ -332,6 +333,7 @@
     "error": "Errore",
     "something_went_wrong": "Qualcosa è andato storto",
     "customisation": "Personalizzazione",
+    "latest_version_text": "You are on the latest version",
     "force_update": "Forza Aggiornamento",
     "nothing_to_see_here": "Niente da vedere qui",
     "system_default": "Predefinito Di Sistema",
@@ -354,5 +356,8 @@
     "mobileprovision": "Mobileprovision",
     "reset": "Reset",
     "notifications": "Notifiche",
-    "signing_servers": "Server Di Firma"
+    "signing_servers": "Server Di Firma",
+    "donate": "Donate",
+    "updates": "Updates",
+    "no_results": "No Results"
 }
