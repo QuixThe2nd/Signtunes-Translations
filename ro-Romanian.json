@@ -176,7 +176,8 @@
     "starfiles_maximum_ios": "Număr maxim de fișiere iOS",
     "age_rating": "Rating de vârstă",
     "downloads": "Descărcări",
-    "latest_version": "Sunteți pe cea mai recentă versiune",
+    "latest_version": "Latest Version",
+    "current_version": "Current Version",
     "genres": "Genres",
     "upload_time": "Timp Incarcare",
     "minimum_ios": "Minim iOS",
@@ -332,6 +333,7 @@
     "error": "Eroare",
     "something_went_wrong": "Ceva nu a funcționat",
     "customisation": "Personalizare",
+    "latest_version_text": "You are on the latest version",
     "force_update": "Actualizare forțată",
     "nothing_to_see_here": "Nimic de văzut aici",
     "system_default": "Implicit sistem",
@@ -354,5 +356,8 @@
     "mobileprovision": "Mobileprovision",
     "reset": "Reset",
     "notifications": "Notificări",
-    "signing_servers": "Semnare Servere"
+    "signing_servers": "Semnare Servere",
+    "donate": "Donate",
+    "updates": "Updates",
+    "no_results": "No Results"
 }
