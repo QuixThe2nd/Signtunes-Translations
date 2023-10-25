@@ -360,5 +360,6 @@
     "signing_servers": "Signing Servers",
     "donate": "Donate",
     "updates": "Updates",
-    "no_results": "No Results"
+    "no_results": "No Results",
+    "cancel": "Cancel"
 }
