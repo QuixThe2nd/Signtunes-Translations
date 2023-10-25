@@ -176,7 +176,8 @@
     "starfiles_maximum_ios": "Starfiles Maximum iOS",
     "age_rating": "Leeftijd beoordeling",
     "downloads": "downloads",
-    "latest_version": "U bent op de laatste versie",
+    "latest_version": "Latest Version",
+    "current_version": "Current Version",
     "genres": "Genres",
     "upload_time": "Upload tijd",
     "minimum_ios": "Minimale iOS",
@@ -332,6 +333,7 @@
     "error": "Foutmelding",
     "something_went_wrong": "Er ging iets mis",
     "customisation": "Aanpassingen",
+    "latest_version_text": "You are on the latest version",
     "force_update": "Update forceren",
     "nothing_to_see_here": "Niets te zien hier",
     "system_default": "Standaard systeeminstelling",
@@ -354,5 +356,8 @@
     "mobileprovision": "Mobileprovision",
     "reset": "Reset",
     "notifications": "Notificaties",
-    "signing_servers": "Servers ondertekenen"
+    "signing_servers": "Servers ondertekenen",
+    "donate": "Donate",
+    "updates": "Updates",
+    "no_results": "No Results"
 }
