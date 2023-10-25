@@ -176,7 +176,8 @@
     "starfiles_maximum_ios": "Starfiles Maximum iOS",
     "age_rating": "Xếp hạng độ tuổi",
     "downloads": "Tải xuống",
-    "latest_version": "Bạn đang sử dụng phiên bản mới nhất",
+    "latest_version": "Latest Version",
+    "current_version": "Current Version",
     "genres": "Loại",
     "upload_time": "Thời gian tải lên",
     "minimum_ios": "iOS tối thiểu",
@@ -332,6 +333,7 @@
     "error": "Lỗi",
     "something_went_wrong": "Đã xảy ra sự cố",
     "customisation": "Tuỳ biến",
+    "latest_version_text": "You are on the latest version",
     "force_update": "Cập nhật ngay",
     "nothing_to_see_here": "Nothing to see here",
     "system_default": "System Default",
@@ -354,5 +356,8 @@
     "mobileprovision": "Mobileprovision",
     "reset": "Reset",
     "notifications": "Notifications",
-    "signing_servers": "Signing Servers"
+    "signing_servers": "Signing Servers",
+    "donate": "Donate",
+    "updates": "Updates",
+    "no_results": "No Results"
 }
