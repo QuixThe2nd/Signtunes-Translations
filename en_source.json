@@ -177,6 +177,7 @@
     "age_rating": "Age Rating",
     "downloads": "Downloads",
     "latest_version": "Latest Version",
+    "current_version": "Current Version",
     "genres": "Genres",
     "upload_time": "Upload Time",
     "minimum_ios": "Minimum iOS",
@@ -332,7 +333,7 @@
     "error": "Error",
     "something_went_wrong": "Something went wrong",
     "customisation": "Customisation",
-    "latest_version": "You are on the latest version",
+    "latest_version_text": "You are on the latest version",
     "force_update": "Force Update",
     "nothing_to_see_here": "Nothing to see here",
     "system_default": "System Default",
@@ -356,5 +357,8 @@
     "mobileprovision": "Mobileprovision",
     "reset": "Reset",
     "notifications": "Notifications",
-    "signing_servers": "Signing Servers"
+    "signing_servers": "Signing Servers",
+    "donate": "Donate",
+    "updates": "Updates",
+    "no_results": "No Results"
 }
