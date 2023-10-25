@@ -176,7 +176,8 @@
     "starfiles_maximum_ios": "Archivos estelar máximo iOS",
     "age_rating": "Calificación de edad",
     "downloads": "Descargas",
-    "latest_version": "Estás en la última versión",
+    "latest_version": "Latest Version",
+    "current_version": "Current Version",
     "genres": "Genres",
     "upload_time": "Tiempo de subida",
     "minimum_ios": "Mínimo iOS",
@@ -332,6 +333,7 @@
     "error": "Error",
     "something_went_wrong": "Algo salió mal",
     "customisation": "Personalización",
+    "latest_version_text": "You are on the latest version",
     "force_update": "Forzar actualización",
     "nothing_to_see_here": "Nada que ver aquí",
     "system_default": "Sistema por defecto",
@@ -354,5 +356,8 @@
     "mobileprovision": "Mobileprovision",
     "reset": "Reset",
     "notifications": "Notificaciones",
-    "signing_servers": "Servidores de firma"
+    "signing_servers": "Servidores de firma",
+    "donate": "Donate",
+    "updates": "Updates",
+    "no_results": "No Results"
 }
