@@ -366,16 +366,12 @@
     "starfiles_verified": "Starfiles verifiziert",
     "third_party_apps": "Apps von Drittanbietern",
     "created_by_starfiles": "Von Starfiles erstellt",
-    "certificates_alert": "When adding a certificate, it will be uploaded to your signing server",
+    "certificates_alert": "Certificates are shared with your selected signing server",
     "my_custom_repo": "My custom repo",
     "advanced": "Advanced",
     "sign_options": "Sign Options",
     "show_sign_options": "Show sign options",
     "show_download_button": "Show download button",
-    "reload_required": "Reload Required",
-    "reload_info": "Reload required for languages to change",
-    "appdb_not_found": "AppDB certificate not found, try re-adding it in settings",
     "certificate_not_found": "Certificate not found.",
-    "no_device_selected": "No device selected",
-    "would_you_like_to_select": "Would you like to select a device?"
+    "no_device_selected": "No device selected"
 }
