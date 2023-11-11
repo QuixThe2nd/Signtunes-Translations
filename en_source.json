@@ -374,5 +374,6 @@
     "show_download_button": "Show download button",
     "certificate_not_found": "Certificate not found.",
     "no_device_selected": "No device selected",
-    "enterprise_certificates": "Enterprise Certificates"
+    "enterprise_certificates": "Enterprise Certificates",
+    "publish_all_uploads": "Publish all uploads"
 }
