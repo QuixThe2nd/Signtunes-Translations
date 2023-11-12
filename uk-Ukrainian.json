@@ -376,5 +376,6 @@
     "no_device_selected": "No device selected",
     "enterprise_certificates": "Enterprise Certificates",
     "publish_all_uploads": "Publish all uploads",
-    "rate_app_thanks": "Thanks for rating!"
+    "rate_app_thanks": "Thanks for rating!",
+    "custom_icon": "Custom Icon"
 }
