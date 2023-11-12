@@ -377,5 +377,6 @@
     "enterprise_certificates": "Enterprise Certificates",
     "publish_all_uploads": "Xuất bản tất cả tệp tải lên",
     "rate_app_thanks": "Cảm ơn bạn đã đánh giá!",
-    "custom_icon": "Custom Icon"
+    "custom_icon": "Custom Icon",
+    "publish_tweak_uploads": "Publish all Tweaks"
 }
