@@ -376,5 +376,6 @@
     "no_device_selected": "Nici un dispozitiv selectat",
     "enterprise_certificates": "Certificat Enterprise",
     "publish_all_uploads": "Publish all uploads",
-    "rate_app_thanks": "Thanks for rating!"
+    "rate_app_thanks": "Thanks for rating!",
+    "custom_icon": "Custom Icon"
 }
