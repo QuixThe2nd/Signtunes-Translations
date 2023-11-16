@@ -378,5 +378,6 @@
     "publish_all_uploads": "Publish all uploads",
     "rate_app_thanks": "Thanks for rating!",
     "custom_icon": "Custom Icon",
-    "publish_tweak_uploads": "Publish all Tweaks"
+    "publish_tweak_uploads": "Publish all Tweaks",
+    "app_db_devices": "AppDB Devices"
 }
