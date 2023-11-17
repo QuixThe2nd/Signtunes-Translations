@@ -379,5 +379,7 @@
     "rate_app_thanks": "Cảm ơn bạn đã đánh giá!",
     "custom_icon": "Biểu tượng tùy chỉnh",
     "publish_tweak_uploads": "Xuất bản tất cả tùy biến tải lên",
-    "app_db_devices": "AppDB Devices"
+    "app_db_devices": "AppDB Devices",
+    "request_sent": "Your request has been sent",
+    "available_shortly": "will be available shortly."
 }
