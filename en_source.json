@@ -383,5 +383,7 @@
     "request_sent": "Your request has been sent",
     "available_shortly": "will be available shortly.",
     "save_parameters": "Save parameters",
-    "save_parameters_info": "Would you like to save these parameters for this app?"
+    "save_parameters_info": "Would you like to save these parameters for this app?",
+    "yes": "Yes",
+    "no": "No"
 }
