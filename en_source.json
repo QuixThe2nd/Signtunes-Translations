@@ -381,5 +381,7 @@
     "publish_tweak_uploads": "Publish all Tweaks",
     "app_db_devices": "AppDB Devices",
     "request_sent": "Your request has been sent",
-    "available_shortly": "will be available shortly."
+    "available_shortly": "will be available shortly.",
+    "save_parameters": "Save parameters",
+    "save_parameters_info": "Would you like to save these parameters for this app?"
 }
