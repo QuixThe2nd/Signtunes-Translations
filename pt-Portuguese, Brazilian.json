@@ -379,5 +379,7 @@
     "rate_app_thanks": "Thanks for rating!",
     "custom_icon": "Custom Icon",
     "publish_tweak_uploads": "Publish all Tweaks",
-    "app_db_devices": "AppDB Devices"
+    "app_db_devices": "AppDB Devices",
+    "request_sent": "Your request has been sent",
+    "available_shortly": "will be available shortly."
 }
