@@ -385,5 +385,7 @@
     "save_parameters": "Save parameters",
     "save_parameters_info": "Would you like to save these parameters for this app?",
     "yes": "Yes",
-    "no": "No"
+    "no": "No",
+    "saved": "Saved",
+    "saved_parameters": "The app's parameters was saved."
 }
