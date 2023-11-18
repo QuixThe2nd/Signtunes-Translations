@@ -387,5 +387,6 @@
     "yes": "Yes",
     "no": "No",
     "saved": "Saved",
-    "saved_parameters": "The app's parameters was saved."
+    "saved_parameters": "The app's parameters was saved.",
+    "ask_to_save": "Ask to save custom sign options"
 }
