@@ -391,5 +391,6 @@
     "ask_to_save": "Ask to save custom sign options",
     "dev_account_linked": "You already have a developer account linked.",
     "warning": "Warning",
-    "appdb_not_linked": "You do not have an AppDB account linked"
+    "appdb_not_linked": "You do not have an AppDB account linked",
+    "link_appdb_info": "Tap here to link your signtunes certificate with appDB"
 }
