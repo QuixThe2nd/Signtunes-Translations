@@ -394,5 +394,7 @@
     "appdb_not_linked": "You do not have an AppDB account linked",
     "link_appdb_info": "Tap here to link your signtunes certificate with appDB",
     "block_ads_1": "Block Ads (1)",
-    "block_ads_2": "Block Ads (2)"
+    "block_ads_2": "Block Ads (2)",
+    "confirm": "Confirm",
+    "back": "Back"
 }
