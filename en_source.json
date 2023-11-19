@@ -396,5 +396,6 @@
     "block_ads_1": "Block Ads (1)",
     "block_ads_2": "Block Ads (2)",
     "confirm": "Confirm",
-    "back": "Back"
+    "back": "Back",
+    "unsupported_signing_server_params": "This signing server is not supported or does not accept signing parameters."
 }
