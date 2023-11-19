@@ -390,5 +390,6 @@
     "saved_parameters": "The app's parameters was saved.",
     "ask_to_save": "Ask to save custom sign options",
     "dev_account_linked": "You already have a developer account linked.",
-    "warning": "Warning"
+    "warning": "Warning",
+    "appdb_not_linked": "You do not have an AppDB account linked"
 }
