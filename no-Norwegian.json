@@ -423,5 +423,6 @@
     "publish_tweak": "Publish Tweak",
     "publish_tweak_info": "Would you like to make this publish this tweak? This will allow anyone to download it.",
     "default_bundleid_alert": "You have the default bundle ID enabled. Would you like to disable it?",
-    "no_notifactions_permission": "We do not have permission to send you notifications. You can enable notifications in the settings app."
+    "no_notifactions_permission": "We do not have permission to send you notifications. You can enable notifications in the settings app.",
+    "expires_in": "Expires in"
 }
