@@ -425,5 +425,6 @@
     "default_bundleid_alert": "You have the default bundle ID enabled. Would you like to disable it?",
     "no_notifactions_permission": "We do not have permission to send you notifications. You can enable notifications in the settings app.",
     "expires_in": "Expires in",
-    "no_enterprise": "There are no enterprise certificates available at the moment."
+    "no_enterprise": "There are no enterprise certificates available at the moment.",
+    "get_recommendations": "Get recommendations"
 }
