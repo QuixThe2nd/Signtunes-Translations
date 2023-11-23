@@ -426,9 +426,11 @@
     "expires_in": "Expires in",
     "no_enterprise": "There are no enterprise certificates available at the moment.",
     "get_recommendations": "Get recommendations",
-    "enterprise_configure_success": "Your device has been configured successfully.",
     "rate_app_thanks": "Thanks for rating the app!",
     "rate_app": "Rate app:",
     "rate_app_info": "Is this app working properly?",
-    "chunk_upload_failed": "Chunk upload failed"
+    "chunk_upload_failed": "Chunk upload failed",
+    "upload_valid_ipa": "Please upload a valid .ipa file",
+    "make_file_public": "Make file public?",
+    "make_file_public_info": "Would you like to make this file public? This will allow anyone to download it."
 }
