@@ -376,7 +376,6 @@
     "no_device_selected": "No device selected",
     "enterprise_certificates": "Enterprise Certificates",
     "publish_all_uploads": "Publish all uploads",
-    "rate_app_thanks": "Thanks for rating!",
     "custom_icon": "Custom Icon",
     "publish_tweak_uploads": "Publish all Tweaks",
     "app_db_devices": "AppDB Devices",
@@ -427,5 +426,9 @@
     "expires_in": "Expires in",
     "no_enterprise": "There are no enterprise certificates available at the moment.",
     "get_recommendations": "Get recommendations",
-    "enterprise_configure_success": "Your device has been configured successfully."
+    "enterprise_configure_success": "Your device has been configured successfully.",
+    "rate_app_thanks": "Thanks for rating the app!",
+    "rate_app": "Rate app:",
+    "rate_app_info": "Is this app working properly?",
+    "chunk_upload_failed": "Chunk upload failed"
 }
