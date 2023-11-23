@@ -426,5 +426,6 @@
     "no_notifactions_permission": "We do not have permission to send you notifications. You can enable notifications in the settings app.",
     "expires_in": "Expires in",
     "no_enterprise": "There are no enterprise certificates available at the moment.",
-    "get_recommendations": "Get recommendations"
+    "get_recommendations": "Get recommendations",
+    "enterprise_configure_success": "Your device has been configured successfully."
 }
