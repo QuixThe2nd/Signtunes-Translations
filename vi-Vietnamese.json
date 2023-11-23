@@ -376,7 +376,6 @@
     "no_device_selected": "Không có thiết bị được lựa chọn",
     "enterprise_certificates": "Chứng chỉ doanh nghiệp",
     "publish_all_uploads": "Xuất bản tất cả tệp tải lên",
-    "rate_app_thanks": "Cảm ơn bạn đã đánh giá!",
     "custom_icon": "Biểu tượng tùy chỉnh",
     "publish_tweak_uploads": "Xuất bản tất cả tùy biến tải lên",
     "app_db_devices": "AppDB Devices",
@@ -405,7 +404,7 @@
     "app_available_soon": "The requested app will be avaliable soon",
     "requested": "Requested",
     "do_not_trust": "This app may contain malicious code, do not trust it.",
-    "enterprise_configure_success": "Your device has been configured successfully.",
+    "enterprise_configure_success": "You have sucessfully configured the enterprise certificate",
     "enterprise_configure_error": "There was an error configuring the enterprise certificate",
     "success": "Success",
     "uploading_failed": "Uploading failed",
@@ -426,5 +425,12 @@
     "no_notifactions_permission": "We do not have permission to send you notifications. You can enable notifications in the settings app.",
     "expires_in": "Expires in",
     "no_enterprise": "There are no enterprise certificates available at the moment.",
-    "get_recommendations": "Get recommendations"
+    "get_recommendations": "Get recommendations",
+    "rate_app_thanks": "Thanks for rating the app!",
+    "rate_app": "Rate app:",
+    "rate_app_info": "Is this app working properly?",
+    "chunk_upload_failed": "Chunk upload failed",
+    "upload_valid_ipa": "Please upload a valid .ipa file",
+    "make_file_public": "Make file public?",
+    "make_file_public_info": "Would you like to make this file public? This will allow anyone to download it."
 }
