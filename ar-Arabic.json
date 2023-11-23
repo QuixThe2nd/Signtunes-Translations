@@ -405,7 +405,7 @@
     "app_available_soon": "The requested app will be avaliable soon",
     "requested": "Requested",
     "do_not_trust": "This app may contain malicious code, do not trust it.",
-    "enterprise_configure_success": "You have sucessfully configured the enterprise certificate",
+    "enterprise_configure_success": "Your device has been configured successfully.",
     "enterprise_configure_error": "There was an error configuring the enterprise certificate",
     "success": "Success",
     "uploading_failed": "Uploading failed",
