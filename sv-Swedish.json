@@ -433,5 +433,10 @@
     "upload_valid_ipa": "Please upload a valid .ipa file",
     "make_file_public": "Make file public?",
     "make_file_public_info": "Would you like to make this file public? This will allow anyone to download it.",
-    "custom_repo": "Custom Repos"
+    "custom_repo": "Custom Repos",
+    "add_custom_repo": "Add custom repo",
+    "add_custom_repo_desc": "Enter the name of the repo you want to add",
+    "delete_repo": "Delete repo",
+    "delete_repo_desc": "Are you sure you want to delete this repo?",
+    "repo_already_exists": "A repo with this name already exists"
 }
