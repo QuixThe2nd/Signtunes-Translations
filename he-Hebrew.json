@@ -432,5 +432,6 @@
     "chunk_upload_failed": "Chunk upload failed",
     "upload_valid_ipa": "Please upload a valid .ipa file",
     "make_file_public": "Make file public?",
-    "make_file_public_info": "Would you like to make this file public? This will allow anyone to download it."
+    "make_file_public_info": "Would you like to make this file public? This will allow anyone to download it.",
+    "custom_repo": "Custom Repos"
 }
