@@ -439,5 +439,7 @@
     "delete_repo": "Delete repo",
     "delete_repo_desc": "Are you sure you want to delete this repo?",
     "repo_already_exists": "A repo with this name already exists",
-    "official_source": "Official Source"
+    "official_source": "Official Source",
+    "options": "Options",
+    "add_to_repo": "Add to repo",
 }
