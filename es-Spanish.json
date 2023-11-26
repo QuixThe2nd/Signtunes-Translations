@@ -441,5 +441,9 @@
     "repo_already_exists": "A repo with this name already exists",
     "official_source": "Official Source",
     "options": "Options",
-    "add_to_repo": "Add to repo"
+    "add_to_repo": "Add to repo",
+    "select_repo": "Select a repo",
+    "app_already_in_repo": "This app is already in this repo",
+    "add_app_to_repo": "Add app to repo",
+    "app_added_to_repo": "App added to repo"
 }
