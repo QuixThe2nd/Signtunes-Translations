@@ -445,5 +445,6 @@
     "select_repo": "Select a repo",
     "app_already_in_repo": "This app is already in this repo",
     "add_app_to_repo": "Add app to repo",
-    "app_added_to_repo": "App added to repo"
+    "app_added_to_repo": "App added to repo",
+    "match_app_color": "Match app color"
 }
