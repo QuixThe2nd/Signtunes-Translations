@@ -448,5 +448,6 @@
     "app_added_to_repo": "App added to repo",
     "match_app_color": "Match app color",
     "uploading_certificates": "Uploading certificates",
-    "downloading_certificates": "Downloading certificates"
+    "downloading_certificates": "Downloading certificates",
+    "transaction_info": "Transaction Info"
 }
