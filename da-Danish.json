@@ -403,7 +403,7 @@
     "app_requested": "App Requested",
     "app_available_soon": "The requested app will be avaliable soon",
     "requested": "Requested",
-    "do_not_trust": "This app may contain malicious code, do not trust it.",
+    "do_not_trust": "This is a finance app. It may be malicious and steal your money. Do not trust this app.",
     "enterprise_configure_success": "You have sucessfully configured the enterprise certificate",
     "enterprise_configure_error": "There was an error configuring the enterprise certificate",
     "success": "Success",
