@@ -413,7 +413,7 @@
     "started_signing": "Started signing",
     "add_repo": "Add Repo",
     "add_repo_info": "Are you sure you want to add this repo? Adding external repos may be unsafe.",
-    "development_certificate": "Development Certificate",
+    "development_certificate": "Chứng chỉ phát triển",
     "default_bundleid_alert": "You have the default bundle ID enabled. Would you like to disable it?",
     "no_notifactions_permission": "Please enable notifications in the Settings app.",
     "expires_in": "Expires in",
