@@ -439,5 +439,7 @@
     "change_settings_later": "You can change these settings later.",
     "reset_message": "Are you sure you want to reset?",
     "rate_us": "Rate us",
-    "rate_us_info": "Sharing feedback helps us improve."
+    "rate_us_info": "Sharing feedback helps us improve.",
+    "reload_required": "Reload Required",
+    "reload_info": "Please reload the app for the changes to take effect."
 }
