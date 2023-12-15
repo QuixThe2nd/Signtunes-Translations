@@ -436,5 +436,8 @@
     "app_added_to_repo": "App added to repo",
     "match_app_color": "Match app colour",
     "transaction_info": "Transaction Info",
-    "change_settings_later": "You can change these settings later."
+    "change_settings_later": "You can change these settings later.",
+    "reset_message": "Are you sure you want to reset?",
+    "rate_us": "Rate us",
+    "rate_us_info": "Sharing feedback helps us improve."
 }
