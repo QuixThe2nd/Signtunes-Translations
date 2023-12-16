@@ -436,5 +436,11 @@
     "app_added_to_repo": "Aplikacja dodana do repozytorium",
     "match_app_color": "Dopasuj kolor aplikacji",
     "transaction_info": "Informacje o transakcji",
-    "change_settings_later": "Możesz zmienić te ustawienia później."
+    "change_settings_later": "Możesz zmienić te ustawienia później.",
+    "reset_message": "Are you sure you want to reset?",
+    "rate_us": "Rate us",
+    "rate_us_info": "Sharing feedback helps us improve.",
+    "reload_required": "Reload Required",
+    "reload_info": "Please reload the app for the changes to take effect.",
+    "choose_crypto": "Choose Crypto"
 }
