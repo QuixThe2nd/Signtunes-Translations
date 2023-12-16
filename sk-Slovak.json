@@ -442,5 +442,6 @@
     "rate_us_info": "Sharing feedback helps us improve.",
     "reload_required": "Reload Required",
     "reload_info": "Tap here to reload.",
-    "choose_crypto": "Choose Crypto"
+    "choose_crypto": "Choose Crypto",
+    "use_toast": "Use Toasts"
 }
