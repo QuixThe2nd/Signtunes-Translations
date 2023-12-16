@@ -436,5 +436,11 @@
     "app_added_to_repo": "Додаток додано до репозиторію",
     "match_app_color": "Колір додатка співпадає",
     "transaction_info": "Інформація про транзакцію",
-    "change_settings_later": "Ви можете змінити ці налаштування пізніше."
+    "change_settings_later": "Ви можете змінити ці налаштування пізніше.",
+    "reset_message": "Are you sure you want to reset?",
+    "rate_us": "Rate us",
+    "rate_us_info": "Sharing feedback helps us improve.",
+    "reload_required": "Reload Required",
+    "reload_info": "Please reload the app for the changes to take effect.",
+    "choose_crypto": "Choose Crypto"
 }
