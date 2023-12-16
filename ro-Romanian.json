@@ -436,5 +436,11 @@
     "app_added_to_repo": "Aplicație adăugată pentru a fi repo",
     "match_app_color": "Potrivește culoarea aplicației",
     "transaction_info": "Informații despre tranzacție",
-    "change_settings_later": "Puteți schimba aceste setări mai târziu."
+    "change_settings_later": "Puteți schimba aceste setări mai târziu.",
+    "reset_message": "Are you sure you want to reset?",
+    "rate_us": "Rate us",
+    "rate_us_info": "Sharing feedback helps us improve.",
+    "reload_required": "Reload Required",
+    "reload_info": "Please reload the app for the changes to take effect.",
+    "choose_crypto": "Choose Crypto"
 }
