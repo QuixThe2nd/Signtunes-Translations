@@ -437,10 +437,10 @@
     "match_app_color": "匹配应用颜色",
     "transaction_info": "交易信息",
     "change_settings_later": "您可以稍后更改这些设置。",
-    "reset_message": "Are you sure you want to reset?",
-    "rate_us": "Rate us",
-    "rate_us_info": "Sharing feedback helps us improve.",
-    "reload_required": "Reload Required",
-    "reload_info": "Please reload the app for the changes to take effect.",
+    "reset_message": "你确定要重置吗？",
+    "rate_us": "为我们评分",
+    "rate_us_info": "分享反馈有助于我们改进。",
+    "reload_required": "需要重载",
+    "reload_info": "Tap here to reload.",
     "choose_crypto": "Choose Crypto"
 }
