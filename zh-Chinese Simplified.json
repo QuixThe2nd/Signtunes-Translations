@@ -436,5 +436,11 @@
     "app_added_to_repo": "应用已添加到repo",
     "match_app_color": "匹配应用颜色",
     "transaction_info": "交易信息",
-    "change_settings_later": "您可以稍后更改这些设置。"
+    "change_settings_later": "您可以稍后更改这些设置。",
+    "reset_message": "Are you sure you want to reset?",
+    "rate_us": "Rate us",
+    "rate_us_info": "Sharing feedback helps us improve.",
+    "reload_required": "Reload Required",
+    "reload_info": "Please reload the app for the changes to take effect.",
+    "choose_crypto": "Choose Crypto"
 }
