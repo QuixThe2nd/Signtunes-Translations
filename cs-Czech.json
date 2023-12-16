@@ -436,5 +436,11 @@
     "app_added_to_repo": "Aplikace přidána do repozitáře",
     "match_app_color": "Odpovídat barvu aplikace",
     "transaction_info": "Informace o transakci",
-    "change_settings_later": "Toto nastavení můžete později změnit."
+    "change_settings_later": "Toto nastavení můžete později změnit.",
+    "reset_message": "Are you sure you want to reset?",
+    "rate_us": "Rate us",
+    "rate_us_info": "Sharing feedback helps us improve.",
+    "reload_required": "Reload Required",
+    "reload_info": "Please reload the app for the changes to take effect.",
+    "choose_crypto": "Choose Crypto"
 }
