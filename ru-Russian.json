@@ -436,5 +436,11 @@
     "app_added_to_repo": "Приложение добавлено в репозиторий",
     "match_app_color": "Выбор цвета приложения",
     "transaction_info": "Информация о транзакции",
-    "change_settings_later": "Вы можете изменить эти настройки позже."
+    "change_settings_later": "Вы можете изменить эти настройки позже.",
+    "reset_message": "Are you sure you want to reset?",
+    "rate_us": "Rate us",
+    "rate_us_info": "Sharing feedback helps us improve.",
+    "reload_required": "Reload Required",
+    "reload_info": "Please reload the app for the changes to take effect.",
+    "choose_crypto": "Choose Crypto"
 }
