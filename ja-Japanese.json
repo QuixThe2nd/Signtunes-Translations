@@ -436,5 +436,11 @@
     "app_added_to_repo": "アプリをリポジトリに追加しました",
     "match_app_color": "アプリの色を一致させる",
     "transaction_info": "取引情報",
-    "change_settings_later": "これらの設定は後で変更できます。"
+    "change_settings_later": "これらの設定は後で変更できます。",
+    "reset_message": "Are you sure you want to reset?",
+    "rate_us": "Rate us",
+    "rate_us_info": "Sharing feedback helps us improve.",
+    "reload_required": "Reload Required",
+    "reload_info": "Please reload the app for the changes to take effect.",
+    "choose_crypto": "Choose Crypto"
 }
