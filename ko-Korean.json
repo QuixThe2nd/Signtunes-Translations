@@ -170,12 +170,12 @@
     "rating": "Rating",
     "size": "Size",
     "features": "Features",
-    "views": "Views",
+    "views": "조회수",
     "view": "View",
     "bundle_id": "Bundle ID",
     "starfiles_maximum_ios": "Starfiles Maximum iOS",
     "age_rating": "Age Rating",
-    "downloads": "Downloads",
+    "downloads": "다운로드",
     "latest_version": "Latest Version",
     "current_version": "Current Version",
     "genres": "Genres",
@@ -186,7 +186,7 @@
     "release_date": "Release Date",
     "version_release_date": "Version Release Date",
     "starfiles_minimum_ios": "Starfiles Minimum iOS",
-    "whats_new": "What's New?",
+    "whats_new": "새로운 기능",
     "screenshots": "Screenshots",
     "app_info": "App Info",
     "what_apps_can_install": "What apps can I install?",
@@ -443,5 +443,5 @@
     "reload_required": "다시 불러오기 필요함",
     "reload_info": "여기를 눌러 다시 불러오세요.",
     "choose_crypto": "크립토 선택하기",
-    "use_toast": "Use Toasts"
+    "use_toasts": "Use Toasts"
 }
