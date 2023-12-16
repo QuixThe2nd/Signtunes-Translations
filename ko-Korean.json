@@ -443,5 +443,6 @@
     "reload_required": "다시 불러오기 필요함",
     "reload_info": "여기를 눌러 다시 불러오세요.",
     "choose_crypto": "크립토 선택하기",
-    "use_toasts": "Use Toasts"
+    "use_toasts": "Use Toasts",
+    "update": "Update"
 }
