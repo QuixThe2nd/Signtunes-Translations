@@ -444,5 +444,6 @@
     "reload_info": "Tap here to reload.",
     "choose_crypto": "Choose Crypto",
     "use_toasts": "Use Toasts",
-    "update": "Update"
+    "update": "Update",
+    "cryto_discount_info": "20% discount with Crypto."
 }
