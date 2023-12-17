@@ -354,7 +354,7 @@
     "backup": "备份",
     "certificate": "证书",
     "mobileprovision": "Mobileprovision",
-    "reset": "Reset",
+    "reset": "重 置",
     "notifications": "通知",
     "signing_servers": "签名服务器",
     "donate": "捐助",
@@ -444,5 +444,6 @@
     "reload_info": "点击此处重新加载。",
     "choose_crypto": "选择加密货币",
     "use_toasts": "使用弹出提示",
-    "update": "更新"
+    "update": "更新",
+    "cryto_discount_info": "20% discount with Crypto."
 }
