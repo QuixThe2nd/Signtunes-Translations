@@ -441,8 +441,8 @@
     "rate_us": "为我们评分",
     "rate_us_info": "分享反馈有助于我们改进。",
     "reload_required": "需要重载",
-    "reload_info": "Tap here to reload.",
-    "choose_crypto": "Choose Crypto",
+    "reload_info": "点击此处重新加载。",
+    "choose_crypto": "选择加密货币",
     "use_toasts": "使用弹出提示",
-    "update": "Update"
+    "update": "更新"
 }
