@@ -345,7 +345,7 @@
     "your_certificates": "あなたの証明書",
     "no_internet": "インターネット接続がありません",
     "request": "リクエスト",
-    "request update": "更新をリクエスト",
+    "request_update": "Request Update",
     "more_by": "もっと詳しく",
     "auto_sync": "自動同期",
     "manual_sync": "手動同期",
@@ -448,5 +448,10 @@
     "crypto_discount_info": "20% discount with Crypto.",
     "add_app": "Add App",
     "configuration": "Configuration",
-    "custom_certificates": "Custom Certificates"
+    "custom_certificates": "Custom Certificates",
+    "Unlimited": "Unlimited",
+    "tweaks": "Tweaks",
+    "Contact": "Contact",
+    "sync_success": "Sync Success",
+    "paste_exported_string": "Paste the exported string here"
 }
