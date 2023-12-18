@@ -345,7 +345,7 @@
     "your_certificates": "Omat Varmenteet",
     "no_internet": "Ei Internet-yhteyttä",
     "request": "Pyyntö",
-    "request update": "Pyydä Päivitystä",
+    "request_update": "Request Update",
     "more_by": "Enemmän mennessä",
     "auto_sync": "Automaattinen Synkronointi",
     "manual_sync": "Manuaalinen Synkronointi",
@@ -448,5 +448,10 @@
     "crypto_discount_info": "20% discount with Crypto.",
     "add_app": "Add App",
     "configuration": "Configuration",
-    "custom_certificates": "Custom Certificates"
+    "custom_certificates": "Custom Certificates",
+    "Unlimited": "Unlimited",
+    "tweaks": "Tweaks",
+    "Contact": "Contact",
+    "sync_success": "Sync Success",
+    "paste_exported_string": "Paste the exported string here"
 }
