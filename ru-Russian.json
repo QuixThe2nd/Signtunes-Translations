@@ -345,7 +345,7 @@
     "your_certificates": "Ваши сертификаты",
     "no_internet": "Нет подключения к Интернету",
     "request": "Запросить",
-    "request update": "Запрос обновления",
+    "request_update": "Request Update",
     "more_by": "Ещё на",
     "auto_sync": "Автосинхронизация",
     "manual_sync": "Ручная синхронизация",
@@ -448,5 +448,10 @@
     "crypto_discount_info": "20% discount with Crypto.",
     "add_app": "Add App",
     "configuration": "Configuration",
-    "custom_certificates": "Custom Certificates"
+    "custom_certificates": "Custom Certificates",
+    "Unlimited": "Unlimited",
+    "tweaks": "Tweaks",
+    "Contact": "Contact",
+    "sync_success": "Sync Success",
+    "paste_exported_string": "Paste the exported string here"
 }
