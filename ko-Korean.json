@@ -445,5 +445,8 @@
     "choose_crypto": "크립토 선택하기",
     "use_toasts": "Use Toasts",
     "update": "Update",
-    "cryto_discount_info": "20% discount with Crypto."
+    "crypto_discount_info": "20% discount with Crypto.",
+    "add_app": "Add App",
+    "configuration": "Configuration",
+    "custom_certificates": "Custom Certificates"
 }
