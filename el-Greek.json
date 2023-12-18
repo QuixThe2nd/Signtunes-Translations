@@ -345,7 +345,7 @@
     "your_certificates": "Τα Πιστοποιητικά Σας",
     "no_internet": "Χωρίς Σύνδεση Στο Διαδίκτυο",
     "request": "Αίτημα",
-    "request update": "Αίτηση Ενημέρωσης",
+    "request_update": "Request Update",
     "more_by": "Περισσότερα από",
     "auto_sync": "Αυτόματος Συγχρονισμός",
     "manual_sync": "Χειροκίνητος Συγχρονισμός",
@@ -448,5 +448,10 @@
     "crypto_discount_info": "20% discount with Crypto.",
     "add_app": "Add App",
     "configuration": "Configuration",
-    "custom_certificates": "Custom Certificates"
+    "custom_certificates": "Custom Certificates",
+    "Unlimited": "Unlimited",
+    "tweaks": "Tweaks",
+    "Contact": "Contact",
+    "sync_success": "Sync Success",
+    "paste_exported_string": "Paste the exported string here"
 }
