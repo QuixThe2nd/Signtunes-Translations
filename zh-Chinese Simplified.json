@@ -445,5 +445,8 @@
     "choose_crypto": "选择加密货币",
     "use_toasts": "使用弹出提示",
     "update": "更新",
-    "cryto_discount_info": "20% discount with Crypto."
+    "crypto_discount_info": "20% discount with Crypto.",
+    "add_app": "Add App",
+    "configuration": "Configuration",
+    "custom_certificates": "Custom Certificates"
 }
