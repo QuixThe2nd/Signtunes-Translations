@@ -345,7 +345,7 @@
     "your_certificates": "Dine Certifikater",
     "no_internet": "Ingen Internetforbindelse",
     "request": "Anmodning",
-    "request update": "Anmod Om Opdatering",
+    "request_update": "Request Update",
     "more_by": "Mere af",
     "auto_sync": "Automatisk Synkronisering",
     "manual_sync": "Manuel Synkronisering",
@@ -448,5 +448,10 @@
     "crypto_discount_info": "20% discount with Crypto.",
     "add_app": "Add App",
     "configuration": "Configuration",
-    "custom_certificates": "Custom Certificates"
+    "custom_certificates": "Custom Certificates",
+    "Unlimited": "Unlimited",
+    "tweaks": "Tweaks",
+    "Contact": "Contact",
+    "sync_success": "Sync Success",
+    "paste_exported_string": "Paste the exported string here"
 }
