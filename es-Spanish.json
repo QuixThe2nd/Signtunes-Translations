@@ -345,7 +345,7 @@
     "your_certificates": "Tus certificados",
     "no_internet": "No hay conexión a Internet",
     "request": "Solicitud",
-    "request update": "Solicitar actualización",
+    "request_update": "Request Update",
     "more_by": "Más por",
     "auto_sync": "Auto sincronización",
     "manual_sync": "Sincronización manual",
@@ -448,5 +448,10 @@
     "crypto_discount_info": "20% discount with Crypto.",
     "add_app": "Add App",
     "configuration": "Configuration",
-    "custom_certificates": "Custom Certificates"
+    "custom_certificates": "Custom Certificates",
+    "Unlimited": "Unlimited",
+    "tweaks": "Tweaks",
+    "Contact": "Contact",
+    "sync_success": "Sync Success",
+    "paste_exported_string": "Paste the exported string here"
 }
