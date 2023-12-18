@@ -450,5 +450,8 @@
     "configuration": "Configuration",
     "custom_certificates": "Custom Certificates",
     "Unlimited": "Unlimited",
-    "tweaks": "Tweaks"
+    "tweaks": "Tweaks",
+    "Contact": "Contact",
+    "sync_success": "Sync Success",
+    "paste_exported_string": "Paste the exported string here"
 }
