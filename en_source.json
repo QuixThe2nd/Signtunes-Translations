@@ -449,5 +449,6 @@
     "add_app": "Add App",
     "configuration": "Configuration",
     "custom_certificates": "Custom Certificates",
-    "Unlimited": "Unlimited"
+    "Unlimited": "Unlimited",
+    "tweaks": "Tweaks"
 }
