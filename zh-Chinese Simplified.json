@@ -345,7 +345,7 @@
     "your_certificates": "您的证书",
     "no_internet": "没有网络连接",
     "request": "请求",
-    "request update": "请求更新",
+    "request_update": "Request Update",
     "more_by": "更多由",
     "auto_sync": "自动同步",
     "manual_sync": "手动同步",
@@ -445,8 +445,13 @@
     "choose_crypto": "选择加密货币",
     "use_toasts": "使用弹出提示",
     "update": "更新",
-    "crypto_discount_info": "20% discount with Crypto.",
-    "add_app": "Add App",
-    "configuration": "Configuration",
-    "custom_certificates": "Custom Certificates"
+    "crypto_discount_info": "Crypto折扣20%。",
+    "add_app": "添加应用",
+    "configuration": "设定",
+    "custom_certificates": "自定义证书",
+    "Unlimited": "Unlimited",
+    "tweaks": "Tweaks",
+    "Contact": "Contact",
+    "sync_success": "Sync Success",
+    "paste_exported_string": "Paste the exported string here"
 }
