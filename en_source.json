@@ -456,5 +456,7 @@
     "paste_exported_string": "Paste the exported string here",
     "compiling": "Compiling",
     "compressing": "Compressing",
-    "offical_source": "Offical Source"
+    "offical_source": "Offical Source",
+    "import_settings": "Import Settings",
+    "import_settings_info": "Tap import below to import your settings from another device."
 }
