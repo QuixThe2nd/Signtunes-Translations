@@ -453,5 +453,7 @@
     "tweaks": "Tweaks",
     "Contact": "Contact",
     "sync_success": "Sync Success",
-    "paste_exported_string": "Paste the exported string here"
+    "paste_exported_string": "Paste the exported string here",
+    "compiling": "Compiling",
+    "compressing": "Compressing"
 }
