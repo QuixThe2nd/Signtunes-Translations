@@ -458,5 +458,6 @@
     "compressing": "Compressing",
     "offical_source": "Offical Source",
     "import_settings": "Import Settings",
-    "import_settings_info": "Tap import below to import your settings from another device."
+    "import_settings_info": "Tap import below to import your settings from another device.",
+    "partner_starfiles": "If you would like your service to show here, tap here."
 }
