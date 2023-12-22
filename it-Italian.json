@@ -459,5 +459,9 @@
     "offical_source": "Offical Source",
     "import_settings": "Import Settings",
     "import_settings_info": "Tap import below to import your settings from another device.",
-    "partner_starfiles": "If you would like your service to show here, tap here."
+    "partner_starfiles": "If you would like your service to show here, tap here.",
+    "whitelist_starfiles": "Whitelist Starfiles",
+    "whitelist_starfiles_info": "Learn how to whitelist Starfiles.",
+    "use_mirror": "Use Mirror Server",
+    "use_mirror_info": "Use a mirror server to access starfiles."
 }
