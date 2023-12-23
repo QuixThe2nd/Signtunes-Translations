@@ -465,5 +465,6 @@
     "whitelist_us": "Whitelist requests",
     "whitelist_us_info": "Learn how to whitelist requests.",
     "use_mirror": "Use Mirror Server",
-    "use_mirror_info": "Use a mirror server to access requests."
+    "use_mirror_info": "Use a mirror server to access requests.",
+    "try_again": "Try Again"
 }
