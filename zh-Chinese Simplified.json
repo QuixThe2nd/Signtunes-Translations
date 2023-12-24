@@ -466,5 +466,13 @@
     "whitelist_us_info": "学习如何将请求加入白名单。",
     "use_mirror": "使用镜像服务器。",
     "use_mirror_info": "使用镜像服务器访问请求。",
-    "try_again": "Try Again"
+    "try_again": "再试一次",
+    "payment_successful": "Payment Successful",
+    "check_mail": "Thanks for your purchase! Please check your email for instructions.",
+    "name": "Name",
+    "enter_name": "Enter name",
+    "password": "Password",
+    "enter_password": "Enter password",
+    "optional": "Optional",
+    "already_have_cert": "You already have a certificate with that name!"
 }
