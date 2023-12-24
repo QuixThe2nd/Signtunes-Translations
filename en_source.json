@@ -468,5 +468,11 @@
     "use_mirror_info": "Use a mirror server to access requests.",
     "try_again": "Try Again",
     "payment_successful": "Payment Successful",
-    "check_mail": "Thanks for your purchase! Please check your email for instructions."
+    "check_mail": "Thanks for your purchase! Please check your email for instructions.",
+    "name": "Name",
+    "enter_name": "Enter name",
+    "password": "Password",
+    "enter_password": "Enter password",
+    "optional": "Optional",
+    "already_have_cert": "You already have a certificate with that name!"
 }
