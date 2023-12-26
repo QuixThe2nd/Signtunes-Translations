@@ -467,12 +467,12 @@
     "use_mirror": "使用镜像服务器。",
     "use_mirror_info": "使用镜像服务器访问请求。",
     "try_again": "再试一次",
-    "payment_successful": "Payment Successful",
-    "check_mail": "Thanks for your purchase! Please check your email for instructions.",
-    "name": "Name",
-    "enter_name": "Enter name",
-    "password": "Password",
-    "enter_password": "Enter password",
-    "optional": "Optional",
-    "already_have_cert": "You already have a certificate with that name!"
+    "payment_successful": "购买成功",
+    "check_mail": "感谢您的购买！请检查您的电子邮件以了解说明。",
+    "name": "名称",
+    "enter_name": "输入名称",
+    "password": "密码",
+    "enter_password": "输入密码",
+    "optional": "选填",
+    "already_have_cert": "您已经有一个具有该名称的证书！"
 }
