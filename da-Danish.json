@@ -474,5 +474,6 @@
     "password": "Password",
     "enter_password": "Enter password",
     "optional": "Optional",
-    "already_have_cert": "You already have a certificate with that name!"
+    "already_have_cert": "You already have a certificate with that name!",
+    "unsupported_signing_server": "This option is not supported by your signing server."
 }
