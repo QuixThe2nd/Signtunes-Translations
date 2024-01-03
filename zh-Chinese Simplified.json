@@ -475,5 +475,6 @@
     "enter_password": "输入密码",
     "optional": "选填",
     "already_have_cert": "您已经有一个具有该名称的证书！",
-    "unsupported_signing_server": "This option is not supported by your signing server."
+    "unsupported_signing_server": "This option is not supported by your signing server.",
+    "use_signing_server": "Use signing server"
 }
