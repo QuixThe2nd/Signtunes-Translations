@@ -476,5 +476,8 @@
     "optional": "Optional",
     "already_have_cert": "You already have a certificate with that name!",
     "unsupported_signing_server": "This option is not supported by your signing server.",
-    "use_signing_server": "Use signing server"
+    "use_signing_server": "Use signing server",
+    "app": "App",
+    "cert_already_linked": "Certificate already linked",
+    "cert_already_linked_desc": "You already linked a certificate. Would you like to replace it?"
 }
