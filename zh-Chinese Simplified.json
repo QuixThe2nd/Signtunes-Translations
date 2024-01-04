@@ -476,5 +476,8 @@
     "optional": "选填",
     "already_have_cert": "您已经有一个具有该名称的证书！",
     "unsupported_signing_server": "This option is not supported by your signing server.",
-    "use_signing_server": "Use signing server"
+    "use_signing_server": "Use signing server",
+    "app": "App",
+    "cert_already_linked": "Certificate already linked",
+    "cert_already_linked_desc": "You already linked a certificate. Would you like to replace it?"
 }
