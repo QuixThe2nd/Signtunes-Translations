@@ -479,5 +479,10 @@
     "use_signing_server": "Use signing server",
     "app": "Uygulama",
     "cert_already_linked": "Certificate already linked",
-    "cert_already_linked_desc": "You already linked a certificate. Would you like to replace it?"
+    "cert_already_linked_desc": "You already linked a certificate. Would you like to replace it?",
+    "credits": "Credits",
+    "project_lead": "Project Lead",
+    "lead_developer": "Lead Developer",
+    "developer": "Developer",
+    "translator": "Translator"
 }
