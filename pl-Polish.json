@@ -480,11 +480,5 @@
     "app": "App",
     "cert_already_linked": "Certificate already linked",
     "cert_already_linked_desc": "You already linked a certificate. Would you like to replace it?",
-    "credits": "Credits",
-    "project_lead": "Project Lead",
-    "lead_developer": "Lead Developer",
-    "developer": "Developer",
-    "translator": "Translator",
-    "maintaining_infra": "Maintaining Infrastructure",
-    "designer": "Designer"
+    "credits": "Credits"
 }
