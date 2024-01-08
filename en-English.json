@@ -484,5 +484,7 @@
     "project_lead": "Project Lead",
     "lead_developer": "Lead Developer",
     "developer": "Developer",
-    "translator": "Translator"
+    "translator": "Translator",
+    "maintaining_infra": "Maintaining Infrastructure",
+    "designer": "Designer"
 }
