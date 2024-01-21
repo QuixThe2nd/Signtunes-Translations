@@ -491,5 +491,6 @@
     "save": "Save",
     "network_logs": "Network Logs",
     "auto_select": "Auto Select",
-    "no_selected_device": "No selected device"
+    "no_selected_device": "No selected device",
+    "select_signing_server": "Please select a signing Server"
 }
