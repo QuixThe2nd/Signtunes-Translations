@@ -492,5 +492,11 @@
     "network_logs": "Network Logs",
     "auto_select": "Auto Select",
     "no_selected_device": "No selected device",
-    "select_signing_server": "Please select a signing Server"
+    "select_signing_server": "Please select a signing Server",
+    "checkout_with_crypto": "Check out with Crypto",
+    "checkout_with_card": "Checkout with Card",
+    "requesting": "Requesting",
+    "no_versions_available": "No versions available",
+    "please_enter_mail": "Please enter your email address",
+    "no_notifications_permission": "We don't have permissions to send you notifactions. Please enable in the Settings app."
 }
