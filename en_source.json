@@ -497,5 +497,6 @@
     "checkout_with_card": "Checkout with Card",
     "requesting": "Requesting",
     "no_versions_available": "No versions available",
-    "please_enter_mail": "Please enter your email address"
+    "please_enter_mail": "Please enter your email address",
+    "no_notifications_permission": "We don't have permissions to send you notifactions. Please enable in the Settings app."
 }
