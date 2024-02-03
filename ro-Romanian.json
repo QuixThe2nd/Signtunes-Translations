@@ -506,5 +506,6 @@
     "exported_to_clipboard": "Exported to clipboard",
     "automatic": "Automatic",
     "selects_best_signer": "Selects the best signer for you",
-    "url_scheme_only": "URL Scheme Only"
+    "url_scheme_only": "URL Scheme Only",
+    "confirm_restore": "Do you want to restore your backup?"
 }
