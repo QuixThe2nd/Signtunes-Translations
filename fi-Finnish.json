@@ -503,5 +503,8 @@
     "no_notifications_permission": "We don't have permissions to send you notifactions. Please enable in the Settings app.",
     "use_stream": "Use Stream",
     "no_updates": "No updates",
-    "exported_to_clipboard": "Exported to clipboard"
+    "exported_to_clipboard": "Exported to clipboard",
+    "automatic": "Automatic",
+    "selects_best_signer": "Selects the best signer for you",
+    "url_scheme_only": "URL Scheme Only"
 }
