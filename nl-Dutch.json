@@ -507,5 +507,8 @@
     "automatic": "Automatic",
     "selects_best_signer": "Selects the best signer for you",
     "url_scheme_only": "URL Scheme Only",
-    "confirm_restore": "Do you want to restore your backup?"
+    "confirm_restore": "Do you want to restore your backup?",
+    "no_udid_message": "You don't have any UDID linked.",
+    "not_enrolled": "Not Enrolled",
+    "not_enrolled_desc": "Your device is not enrolled."
 }
