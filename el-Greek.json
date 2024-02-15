@@ -510,5 +510,7 @@
     "confirm_restore": "Do you want to restore your backup?",
     "no_udid_message": "You don't have any UDID linked.",
     "not_enrolled": "Not Enrolled",
-    "not_enrolled_desc": "Your device is not enrolled."
+    "not_enrolled_desc": "Your device is not enrolled.",
+    "reserved_cert": "This certificate is reserved.",
+    "select_best_cert": "Selects best certificate"
 }
