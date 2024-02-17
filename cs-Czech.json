@@ -415,7 +415,7 @@
     "add_repo_info": "Opravdu chcete přidat tento repozitář? Přidání externích repozitářů může být nebezpečné.",
     "development_certificate": "Certifikát pro vývoj",
     "default_bundleid_alert": "Máte zapnuté výchozí bundle ID. Chcete jej zakázat?",
-    "no_notifications_permission": "We don't have permissions to send you notifications. Please enable in the Settings app.",
+    "no_notifications_permission": "Please enable notifications in the Settings app.",
     "expires_in": "Vyprší za",
     "no_enterprise": "Nejsou k dispozici žádné certifikáty pro podnikání.",
     "get_recommendations": "Získat doporučení",
