@@ -415,7 +415,7 @@
     "add_repo_info": "Er du sikker på, at du vil tilføje denne repo? Tilføjelse af eksterne repos kan være farligt.",
     "development_certificate": "Udviklings Certifikat",
     "default_bundleid_alert": "Du har standard bundle ID aktiveret. Vil du deaktivere den?",
-    "no_notifications_permission": "We don't have permissions to send you notifications. Please enable in the Settings app.",
+    "no_notifications_permission": "Please enable notifications in the Settings app.",
     "expires_in": "Udløber om",
     "no_enterprise": "Der er ingen tilgængelige virksomhedscertifikater.",
     "get_recommendations": "Få anbefalinger",
