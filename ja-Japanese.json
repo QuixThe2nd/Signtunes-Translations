@@ -415,7 +415,7 @@
     "add_repo_info": "このリポジトリを追加してもよろしいですか？外部リポジトリを追加することは安全でない可能性があります。",
     "development_certificate": "開発証明書",
     "default_bundleid_alert": "バンドルIDがデフォルトで有効になっています。無効にしますか？",
-    "no_notifications_permission": "We don't have permissions to send you notifications. Please enable in the Settings app.",
+    "no_notifications_permission": "Please enable notifications in the Settings app.",
     "expires_in": "有効期限:",
     "no_enterprise": "利用可能な企業証明書はありません。",
     "get_recommendations": "おすすめを取得",
