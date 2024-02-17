@@ -415,7 +415,7 @@
     "add_repo_info": "Czy na pewno chcesz dodać to repozytorium? Dodawanie zewnętrznych repozytoriów może być niebezpieczne.",
     "development_certificate": "Certyfikat programisty",
     "default_bundleid_alert": "Domyślny identyfikator pakietu jest włączony. Czy chcesz go wyłączyć?",
-    "no_notifications_permission": "We don't have permissions to send you notifications. Please enable in the Settings app.",
+    "no_notifications_permission": "Please enable notifications in the Settings app.",
     "expires_in": "Wygasa za",
     "no_enterprise": "Brak dostępnych certyfikatów przedsiębiorstwa.",
     "get_recommendations": "Uzyskaj rekomendacje",
