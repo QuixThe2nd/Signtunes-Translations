@@ -415,7 +415,7 @@
     "add_repo_info": "Oletko varma, että haluat lisätä tämän repo? Ulkoisten repojen lisääminen voi olla turvatonta.",
     "development_certificate": "Kehitys Sertifikaatti",
     "default_bundleid_alert": "Sinulla on oletuspakettitunnus käytössä. Haluatko poistaa sen käytöstä?",
-    "no_notifications_permission": "We don't have permissions to send you notifications. Please enable in the Settings app.",
+    "no_notifications_permission": "Please enable notifications in the Settings app.",
     "expires_in": "Vanhenee",
     "no_enterprise": "Yritystodistuksia ei ole saatavilla.",
     "get_recommendations": "Hanki suosituksia",
