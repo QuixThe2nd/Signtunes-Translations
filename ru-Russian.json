@@ -415,7 +415,7 @@
     "add_repo_info": "Вы уверены, что хотите добавить этот репозиторий? Добавление внешних репозиториев может быть небезопасным.",
     "development_certificate": "Сертификат разработки",
     "default_bundleid_alert": "У вас включен идентификатор набора по умолчанию. Хотите отключить его?",
-    "no_notifications_permission": "We don't have permissions to send you notifications. Please enable in the Settings app.",
+    "no_notifications_permission": "Please enable notifications in the Settings app.",
     "expires_in": "Истекает через",
     "no_enterprise": "Нет сертификатов предприятия.",
     "get_recommendations": "Получить рекомендации",
