@@ -415,7 +415,7 @@
     "add_repo_info": "Ești sigur că vrei să adaugi această repo? Adăugarea de repo-uri externe poate fi nesigură.",
     "development_certificate": "Certificat de dezvoltare",
     "default_bundleid_alert": "Aveți activată ID-ul implicit al pachetului. Doriți să îl dezactivați?",
-    "no_notifications_permission": "We don't have permissions to send you notifications. Please enable in the Settings app.",
+    "no_notifications_permission": "Please enable notifications in the Settings app.",
     "expires_in": "Expiră în",
     "no_enterprise": "Nu există certificate de întreprindere disponibile.",
     "get_recommendations": "Obțineți recomandări",
