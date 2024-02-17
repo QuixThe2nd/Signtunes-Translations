@@ -415,7 +415,7 @@
     "add_repo_info": "Tem certeza que deseja adicionar este repositório? Adicionar repositórios externos pode não ser seguro.",
     "development_certificate": "Certificado de desenvolvimento",
     "default_bundleid_alert": "Você tem a ID padrão do pacote ativada. Gostaria de desativá-la?",
-    "no_notifications_permission": "We don't have permissions to send you notifications. Please enable in the Settings app.",
+    "no_notifications_permission": "Please enable notifications in the Settings app.",
     "expires_in": "Expira em",
     "no_enterprise": "Não há certificados de empresa disponíveis.",
     "get_recommendations": "Obter recomendações",
