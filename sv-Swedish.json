@@ -415,7 +415,7 @@
     "add_repo_info": "Är du säker på att du vill lägga till detta repo? Att lägga till externa repos kan vara osäkra.",
     "development_certificate": "Utvecklingscertifikat",
     "default_bundleid_alert": "Du har standard bunt ID aktiverat. Vill du inaktivera det?",
-    "no_notifications_permission": "We don't have permissions to send you notifications. Please enable in the Settings app.",
+    "no_notifications_permission": "Please enable notifications in the Settings app.",
     "expires_in": "Förfaller om",
     "no_enterprise": "Det finns inga företagscertifikat tillgängliga.",
     "get_recommendations": "Få rekommendationer",
