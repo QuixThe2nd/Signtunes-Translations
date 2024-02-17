@@ -415,7 +415,7 @@
     "add_repo_info": "您确定要添加此仓库吗？添加外部仓库可能不安全。",
     "development_certificate": "开发证书",
     "default_bundleid_alert": "您已启用默认捆包ID。您想要禁用它吗？",
-    "no_notifications_permission": "We don't have permissions to send you notifications. Please enable in the Settings app.",
+    "no_notifications_permission": "Please enable notifications in the Settings app.",
     "expires_in": "过期时间",
     "no_enterprise": "没有可用的企业证书。",
     "get_recommendations": "获取建议",
