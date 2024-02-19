@@ -515,5 +515,6 @@
     "fetching_certificate": "Fetching certificate",
     "retore": "Restore",
     "in_progress": "In Progress",
-    "unable_to_cancel": "You are unable to cancel this request."
+    "unable_to_cancel": "You are unable to cancel this request.",
+    "processing": "Processing"
 }
