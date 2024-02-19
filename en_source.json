@@ -514,5 +514,6 @@
     "select_best_cert": "Selects best certificate",
     "fetching_certificate": "Fetching certificate",
     "retore": "Restore",
-    "in_progress": "In Progress"
+    "in_progress": "In Progress",
+    "unable_to_cancel": "You are unable to cancel this request."
 }
