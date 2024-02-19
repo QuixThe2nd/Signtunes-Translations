@@ -516,5 +516,6 @@
     "restore": "Restore",
     "in_progress": "In Progress",
     "unable_to_cancel": "You are unable to cancel this request.",
-    "processing": "Processing"
+    "processing": "Processing",
+    "loading_failed": "Loading failed"
 }
