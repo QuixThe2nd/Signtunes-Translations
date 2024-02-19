@@ -513,7 +513,8 @@
     "reserved_cert": "This certificate is reserved.",
     "select_best_cert": "Selects best certificate",
     "fetching_certificate": "Fetching certificate",
-    "retore": "Restore",
+    "restore": "Restore",
     "in_progress": "In Progress",
-    "unable_to_cancel": "You are unable to cancel this request."
+    "unable_to_cancel": "You are unable to cancel this request.",
+    "processing": "Processing"
 }
