@@ -512,5 +512,7 @@
     "not_enrolled_desc": "Your device is not enrolled.",
     "reserved_cert": "This certificate is reserved.",
     "select_best_cert": "Selects best certificate",
-    "fetching_certificate": "Fetching certificate"
+    "fetching_certificate": "Fetching certificate",
+    "retore": "Restore",
+    "in_progress": "In Progress"
 }
