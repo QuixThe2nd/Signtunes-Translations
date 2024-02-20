@@ -320,7 +320,7 @@
     "Minute": "دقيقة",
     "Minutes": "دقائق",
     "update_available": "تحديث متوفر",
-    "update_available_text": "يتوفر إصدار جديد من التوقيعات",
+    "update_available_text": "A new version is available",
     "downloading": "تنزيل",
     "add": "إضافة",
     "languages": "اللغات",
@@ -517,5 +517,6 @@
     "in_progress": "In Progress",
     "unable_to_cancel": "You are unable to cancel this request.",
     "processing": "Processing",
-    "loading_failed": "Loading failed"
+    "loading_failed": "Loading failed",
+    "update_notes": "Update Notes"
 }
