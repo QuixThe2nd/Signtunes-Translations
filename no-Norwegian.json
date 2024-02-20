@@ -320,7 +320,7 @@
     "Minute": "Minutt",
     "Minutes": "Minutter",
     "update_available": "Oppdatering tilgjengelig",
-    "update_available_text": "En ny versjon av Signtunes er tilgjengelig",
+    "update_available_text": "A new version is available",
     "downloading": "Laster ned",
     "add": "Legg til",
     "languages": "Språk",
@@ -517,5 +517,6 @@
     "in_progress": "In Progress",
     "unable_to_cancel": "You are unable to cancel this request.",
     "processing": "Processing",
-    "loading_failed": "Loading failed"
+    "loading_failed": "Loading failed",
+    "update_notes": "Update Notes"
 }
