@@ -320,7 +320,7 @@
     "Minute": "Minute",
     "Minutes": "Minutes",
     "update_available": "Mise à jour disponible",
-    "update_available_text": "Une nouvelle version de Signtunes est disponible",
+    "update_available_text": "A new version is available",
     "downloading": "Téléchargement en cours",
     "add": "Ajouter",
     "languages": "Langues",
@@ -517,5 +517,6 @@
     "in_progress": "In Progress",
     "unable_to_cancel": "You are unable to cancel this request.",
     "processing": "Processing",
-    "loading_failed": "Loading failed"
+    "loading_failed": "Loading failed",
+    "update_notes": "Update Notes"
 }
