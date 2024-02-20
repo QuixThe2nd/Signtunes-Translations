@@ -320,7 +320,7 @@
     "Minute": "分钟",
     "Minutes": "分钟",
     "update_available": "可用更新",
-    "update_available_text": "有新版本的 Signtunes 可用",
+    "update_available_text": "A new version is available",
     "downloading": "正在下载",
     "add": "添加",
     "languages": "语文",
@@ -517,5 +517,6 @@
     "in_progress": "In Progress",
     "unable_to_cancel": "You are unable to cancel this request.",
     "processing": "Processing",
-    "loading_failed": "Loading failed"
+    "loading_failed": "Loading failed",
+    "update_notes": "Update Notes"
 }
