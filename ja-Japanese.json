@@ -320,7 +320,7 @@
     "Minute": "分",
     "Minutes": "分",
     "update_available": "アップデートがあります",
-    "update_available_text": "署名曲の新しいバージョンが利用可能です",
+    "update_available_text": "A new version is available",
     "downloading": "ダウンロード中",
     "add": "追加",
     "languages": "言語",
@@ -517,5 +517,6 @@
     "in_progress": "In Progress",
     "unable_to_cancel": "You are unable to cancel this request.",
     "processing": "Processing",
-    "loading_failed": "Loading failed"
+    "loading_failed": "Loading failed",
+    "update_notes": "Update Notes"
 }
