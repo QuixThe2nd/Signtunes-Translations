@@ -517,5 +517,6 @@
     "in_progress": "In Progress",
     "unable_to_cancel": "You are unable to cancel this request.",
     "processing": "Processing",
-    "loading_failed": "Loading failed"
+    "loading_failed": "Loading failed",
+    "update_notes": "Update Notes"
 }
