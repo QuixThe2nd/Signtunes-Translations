@@ -320,7 +320,7 @@
     "Minute": "Minut",
     "Minutes": "Zápis z jednání",
     "update_available": "Dostupná aktualizace",
-    "update_available_text": "Je k dispozici nová verze podpisů",
+    "update_available_text": "A new version is available",
     "downloading": "Stahování",
     "add": "Přidat",
     "languages": "Jazyky",
@@ -517,5 +517,6 @@
     "in_progress": "In Progress",
     "unable_to_cancel": "You are unable to cancel this request.",
     "processing": "Processing",
-    "loading_failed": "Loading failed"
+    "loading_failed": "Loading failed",
+    "update_notes": "Update Notes"
 }
