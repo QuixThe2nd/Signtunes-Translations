@@ -320,7 +320,7 @@
     "Minute": "minuto",
     "Minutes": "minutos",
     "update_available": "Atualização disponível",
-    "update_available_text": "Uma nova versão de Assinaturas está disponível",
+    "update_available_text": "A new version is available",
     "downloading": "Baixando",
     "add": "Adicionar",
     "languages": "Idiomas",
@@ -517,5 +517,6 @@
     "in_progress": "In Progress",
     "unable_to_cancel": "You are unable to cancel this request.",
     "processing": "Processing",
-    "loading_failed": "Loading failed"
+    "loading_failed": "Loading failed",
+    "update_notes": "Update Notes"
 }
