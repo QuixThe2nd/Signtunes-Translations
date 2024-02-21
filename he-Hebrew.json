@@ -518,5 +518,6 @@
     "unable_to_cancel": "You are unable to cancel this request.",
     "processing": "Processing",
     "loading_failed": "Loading failed",
-    "update_notes": "Update Notes"
+    "update_notes": "Update Notes",
+    "no_certificate": "No certificate"
 }
