@@ -520,5 +520,6 @@
     "loading_failed": "Loading failed",
     "update_notes": "Update Notes",
     "no_certificate": "No certificate",
-    "add_certificate": "Add Certificate"
+    "add_certificate": "Add Certificate",
+    "show_sign_options_info": "Show advanced options before signing"
 }
