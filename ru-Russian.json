@@ -522,5 +522,6 @@
     "no_certificate": "No certificate",
     "add_certificate": "Add Certificate",
     "show_sign_options_info": "Show advanced options before signing",
-    "get": "Get"
+    "get": "Get",
+    "cancel_update": "Cancel Update? We will never remind you again."
 }
