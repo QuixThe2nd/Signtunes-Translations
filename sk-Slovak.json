@@ -465,7 +465,7 @@
     "whitelist_us": "Whitelist requests",
     "whitelist_us_info": "Learn how to whitelist requests.",
     "use_mirror": "Use Mirror Server",
-    "use_mirror_info": "Use a mirror server to access requests.",
+    "use_mirror_info": "We already tried using a fallback server. It has been blocked by your ISP",
     "try_again": "Try Again",
     "payment_successful": "Payment Successful",
     "check_mail": "Thanks for your purchase! Please check your email for instructions.",
