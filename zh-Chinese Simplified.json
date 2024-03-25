@@ -465,7 +465,7 @@
     "whitelist_us": "加入白名单的请求。",
     "whitelist_us_info": "学习如何将请求加入白名单。",
     "use_mirror": "使用镜像服务器。",
-    "use_mirror_info": "使用镜像服务器访问请求。",
+    "use_mirror_info": "We already tried using a fallback server. It has been blocked by your ISP",
     "try_again": "再试一次",
     "payment_successful": "购买成功",
     "check_mail": "感谢您的购买！请检查您的电子邮件以了解说明。",
