@@ -369,7 +369,7 @@
     "certificates_alert": "Τα πιστοποιητικά μοιράζονται με τον επιλεγμένο διακομιστή υπογραφής",
     "advanced": "Προχωρημένα",
     "sign_options": "Επιλογές Υπογραφής",
-    "show_sign_options": "Εμφάνιση επιλογών πινακίδας",
+    "show_sign_options": "Show install options",
     "show_download_button": "Εμφάνιση κουμπιού λήψης",
     "certificate_not_found": "Το πιστοποιητικό δεν βρέθηκε.",
     "no_device_selected": "Δεν επιλέχθηκε συσκευή",
@@ -521,9 +521,10 @@
     "update_notes": "Update Notes",
     "no_certificate": "No certificate",
     "add_certificate": "Add Certificate",
-    "show_sign_options_info": "Show advanced options before signing",
+    "show_sign_options_info": "Show advanced options before installing",
     "get": "Get",
     "cancel_update": "Cancel Update? We will never remind you again.",
     "using_fallback_server": "Using fallback server",
-    "using_fallback_server_info": "We are using a fallback server to bypass your ISP's block. Please press here to resolve this issue."
+    "using_fallback_server_info": "We are using a fallback server to bypass your ISP's block. Please press here to resolve this issue.",
+    "no_udid": "No UDID"
 }
