@@ -369,7 +369,7 @@
     "certificates_alert": "Certificatele sunt partajate cu serverul de semnare selectat",
     "advanced": "Setări avansate",
     "sign_options": "Opțiuni semnare",
-    "show_sign_options": "Afișare opțiuni semnare",
+    "show_sign_options": "Show install options",
     "show_download_button": "Arată butonul de descărcare",
     "certificate_not_found": "Certificatul nu a fost găsit.",
     "no_device_selected": "Nici un dispozitiv selectat",
@@ -521,9 +521,10 @@
     "update_notes": "Update Notes",
     "no_certificate": "No certificate",
     "add_certificate": "Add Certificate",
-    "show_sign_options_info": "Show advanced options before signing",
+    "show_sign_options_info": "Show advanced options before installing",
     "get": "Get",
     "cancel_update": "Cancel Update? We will never remind you again.",
     "using_fallback_server": "Using fallback server",
-    "using_fallback_server_info": "We are using a fallback server to bypass your ISP's block. Please press here to resolve this issue."
+    "using_fallback_server_info": "We are using a fallback server to bypass your ISP's block. Please press here to resolve this issue.",
+    "no_udid": "No UDID"
 }
