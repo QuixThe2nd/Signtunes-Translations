@@ -369,7 +369,7 @@
     "certificates_alert": "証明書は選択した署名サーバーと共有されます",
     "advanced": "高度な設定",
     "sign_options": "署名オプション",
-    "show_sign_options": "看板オプションを表示",
+    "show_sign_options": "Show install options",
     "show_download_button": "ダウンロードボタンを表示",
     "certificate_not_found": "証明書が見つかりません。",
     "no_device_selected": "デバイスが選択されていません",
@@ -521,9 +521,10 @@
     "update_notes": "Update Notes",
     "no_certificate": "No certificate",
     "add_certificate": "Add Certificate",
-    "show_sign_options_info": "Show advanced options before signing",
+    "show_sign_options_info": "Show advanced options before installing",
     "get": "Get",
     "cancel_update": "Cancel Update? We will never remind you again.",
     "using_fallback_server": "Using fallback server",
-    "using_fallback_server_info": "We are using a fallback server to bypass your ISP's block. Please press here to resolve this issue."
+    "using_fallback_server_info": "We are using a fallback server to bypass your ISP's block. Please press here to resolve this issue.",
+    "no_udid": "No UDID"
 }
