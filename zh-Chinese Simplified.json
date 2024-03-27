@@ -461,7 +461,7 @@
     "import_settings_info": "点击下方的“导入”以从另一台设备导入您的设置。",
     "partner_starfiles": "如果您想在此处显示您的服务，请点击这里。",
     "communication_error": "通信错误。",
-    "communication_error_info": "看起来您的互联网服务提供商正在阻止对我们服务器的请求. ",
+    "communication_error_info": "It appears your ISP is blocking requests to our servers. ",
     "whitelist_us": "加入白名单的请求。",
     "whitelist_us_info": "学习如何将请求加入白名单。",
     "use_mirror": "使用镜像服务器。",
