@@ -528,5 +528,11 @@
     "using_fallback_server_info": "We are using a fallback server to bypass your ISP's block. Please press here to resolve this issue.",
     "no_udid": "No UDID",
     "trollstore_warning": "Trollstore requires you to go into the apps settings and enable URL Scheme to work.",
-    "all_servers_failed": "All servers failed to install."
+    "all_servers_failed": "All servers failed to install.",
+    "Explicit Profile": "Explicit Profile",
+    "AR Apps": "AR Apps",
+    "Free & Paid": "Free & Paid",
+    "Jailbreak tools": "Jailbreak tools",
+    "File Sharing": "File Sharing",
+    "Adult Games": "Adult Games"
 }
