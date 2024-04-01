@@ -527,5 +527,6 @@
     "using_fallback_server": "Using fallback server",
     "using_fallback_server_info": "We are using a fallback server to bypass your ISP's block. Please press here to resolve this issue.",
     "no_udid": "No UDID",
-    "trollstore_warning": "Trollstore requires you to go into the apps settings and enable URL Scheme to work."
+    "trollstore_warning": "Trollstore requires you to go into the apps settings and enable URL Scheme to work.",
+    "all_servers_failed": "All servers failed to install."
 }
