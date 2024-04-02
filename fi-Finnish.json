@@ -534,5 +534,6 @@
     "Free & Paid": "Free & Paid",
     "Jailbreak tools": "Jailbreak tools",
     "File Sharing": "File Sharing",
-    "Adult Games": "Adult Games"
+    "Adult Games": "Adult Games",
+    "whitelist_instructions": "To whitelist us, you can either use a DNS (like NextDNS) or use a VPN. Alternatively, you can call your ISP and ask them to unblock our servers. (*.starfiles.co)"
 }
