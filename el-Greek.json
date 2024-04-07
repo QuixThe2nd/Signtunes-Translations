@@ -400,7 +400,7 @@
     "app_available_soon": "Η αιτούμενη εφαρμογή θα είναι διαθέσιμη σύντομα",
     "requested": "Ζητήθηκε",
     "do_not_trust": "Αυτή είναι μια εφαρμογή χρηματοδότησης. Μπορεί να είναι κακόβουλο και να κλέψει τα χρήματά σας. Μην εμπιστεύεστε αυτήν την εφαρμογή.",
-    "enterprise_configure_error": "Παρουσιάστηκε σφάλμα κατά τη ρύθμιση παραμέτρων του πιστοποιητικού επιχείρησης",
+    "enterprise_configure_error": "There was an error configuring the certificate",
     "success": "Επιτυχία",
     "uploading_failed": "Η μεταφόρτωση απέτυχε",
     "no_devices": "Καμία συσκευή",
