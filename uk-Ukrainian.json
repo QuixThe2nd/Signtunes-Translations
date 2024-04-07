@@ -400,7 +400,7 @@
     "app_available_soon": "Запитаний додаток буде доступний найближчим часом",
     "requested": "Запитано",
     "do_not_trust": "Це - фінансовий додаток. Це може бути шкідливим і вкрасти ваші гроші. Не довіряйте цьому додатку.",
-    "enterprise_configure_error": "При налаштуванні сертифіката підприємства сталася помилка",
+    "enterprise_configure_error": "There was an error configuring the certificate",
     "success": "Успіх",
     "uploading_failed": "Помилка завантаження",
     "no_devices": "Жодного пристрою немає",
