@@ -400,7 +400,7 @@
     "app_available_soon": "التطبيق المطلوب سيكون متاحا قريبا",
     "requested": "مطلوب",
     "do_not_trust": "هذا تطبيق مالي. قد يكون خبيثا وسرقة أموالك. لا تثق بهذا التطبيق.",
-    "enterprise_configure_error": "حدث خطأ أثناء تكوين شهادة المؤسسة",
+    "enterprise_configure_error": "There was an error configuring the certificate",
     "success": "نجاح",
     "uploading_failed": "فشل التحميل",
     "no_devices": "لا توجد أجهزة",
