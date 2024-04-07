@@ -400,7 +400,7 @@
     "app_available_soon": "O aplicativo solicitado estará disponível em breve",
     "requested": "Solicitado",
     "do_not_trust": "Este é um aplicativo de finanças. Pode ser malicioso e roubar o seu dinheiro. Não confie neste aplicativo.",
-    "enterprise_configure_error": "Houve um erro ao configurar o certificado da empresa",
+    "enterprise_configure_error": "There was an error configuring the certificate",
     "success": "Sucesso",
     "uploading_failed": "Falha ao enviar",
     "no_devices": "Nenhum dispositivo",
