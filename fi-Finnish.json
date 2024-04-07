@@ -400,7 +400,7 @@
     "app_available_soon": "Pyydetty sovellus on käytettävissä pian",
     "requested": "Pyydetty",
     "do_not_trust": "Tämä on rahoitussovellus. Se voi olla pahansuopaa ja varastaa rahaa. Älä luota tähän sovellukseen.",
-    "enterprise_configure_error": "Yrityksen varmenteen määrittämisessä tapahtui virhe",
+    "enterprise_configure_error": "There was an error configuring the certificate",
     "success": "Onnistui",
     "uploading_failed": "Lataaminen epäonnistui",
     "no_devices": "Ei laitteita",
