@@ -400,7 +400,7 @@
     "app_available_soon": "L'application demandée sera bientôt disponible",
     "requested": "Demandé",
     "do_not_trust": "Il s'agit d'une application de financement. Elle peut être malveillante et voler votre argent. Ne faites pas confiance à cette application.",
-    "enterprise_configure_error": "Une erreur s'est produite lors de la configuration du certificat d'entreprise",
+    "enterprise_configure_error": "There was an error configuring the certificate",
     "success": "Succès",
     "uploading_failed": "L'envoi a échoué",
     "no_devices": "Aucun appareil",
