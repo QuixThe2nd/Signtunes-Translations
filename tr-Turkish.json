@@ -400,7 +400,7 @@
     "app_available_soon": "The requested app will be available soon",
     "requested": "Requested",
     "do_not_trust": "This is a finance app. It may be malicious and steal your money. Do not trust this app.",
-    "enterprise_configure_error": "There was an error configuring the enterprise certificate",
+    "enterprise_configure_error": "There was an error configuring the certificate",
     "success": "Success",
     "uploading_failed": "Uploading failed",
     "no_devices": "No devices",
