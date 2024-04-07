@@ -400,7 +400,7 @@
     "app_available_soon": "Požadovaná aplikace bude brzy k dispozici",
     "requested": "Požadováno",
     "do_not_trust": "Toto je finanční aplikace, která může být škodlivá a ukradnout Vaše peníze. Nedůvěřujte této aplikaci.",
-    "enterprise_configure_error": "Došlo k chybě při konfiguraci firemního certifikátu",
+    "enterprise_configure_error": "There was an error configuring the certificate",
     "success": "Úspěšně",
     "uploading_failed": "Nahrávání se nezdařilo",
     "no_devices": "Žádná zařízení",
