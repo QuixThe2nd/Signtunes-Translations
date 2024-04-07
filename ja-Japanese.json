@@ -400,7 +400,7 @@
     "app_available_soon": "リクエストされたアプリはまもなく利用可能になります",
     "requested": "要求済み",
     "do_not_trust": "これはファイナンスアプリです。悪意がある可能性があり、お金を盗みます。このアプリを信頼しないでください。",
-    "enterprise_configure_error": "企業証明書の設定中にエラーが発生しました",
+    "enterprise_configure_error": "There was an error configuring the certificate",
     "success": "成功",
     "uploading_failed": "アップロードに失敗しました",
     "no_devices": "デバイスがありません",
