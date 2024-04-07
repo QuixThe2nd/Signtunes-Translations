@@ -400,7 +400,7 @@
     "app_available_soon": "Die angeforderte App wird bald verfügbar sein",
     "requested": "Angefragt",
     "do_not_trust": "Dies ist eine Finanz-App. Sie kann böswillig sein und Ihr Geld stehlen. Vertrauen Sie dieser App nicht.",
-    "enterprise_configure_error": "Beim Konfigurieren des Enterprise Zertifikats ist ein Fehler aufgetreten",
+    "enterprise_configure_error": "There was an error configuring the certificate",
     "success": "Erfolg",
     "uploading_failed": "Hochladen fehlgeschlagen",
     "no_devices": "Keine Geräte",
