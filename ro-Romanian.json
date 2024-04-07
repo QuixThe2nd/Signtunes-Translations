@@ -400,7 +400,7 @@
     "app_available_soon": "Aplicația solicitată va fi disponibilă în curând",
     "requested": "Solicitat",
     "do_not_trust": "Aceasta este o aplicație de finanțare. Poate fi răuvoitoare și vă fură banii. Nu aveți încredere în această aplicație.",
-    "enterprise_configure_error": "A apărut o eroare la configurarea certificatului de întreprindere",
+    "enterprise_configure_error": "There was an error configuring the certificate",
     "success": "Succes",
     "uploading_failed": "Încărcarea a eșuat",
     "no_devices": "Niciun dispozitiv",
