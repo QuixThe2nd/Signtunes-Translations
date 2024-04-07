@@ -400,7 +400,7 @@
     "app_available_soon": "Den begärda appen kommer snart att finnas tillgänglig",
     "requested": "Begärt",
     "do_not_trust": "Detta är en finansapp. Det kan vara skadliga och stjäla dina pengar. Lita inte på den här appen.",
-    "enterprise_configure_error": "Det gick inte att konfigurera företagets certifikat",
+    "enterprise_configure_error": "There was an error configuring the certificate",
     "success": "Klart",
     "uploading_failed": "Uppladdning misslyckades",
     "no_devices": "Inga enheter",
