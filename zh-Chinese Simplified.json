@@ -400,7 +400,7 @@
     "app_available_soon": "请求的应用将很快可用",
     "requested": "已请求",
     "do_not_trust": "这是一个金融应用程序。它可能是恶意和偷盗您的钱。请不要信任这个应用程序。",
-    "enterprise_configure_error": "配置企业证书时出错",
+    "enterprise_configure_error": "There was an error configuring the certificate",
     "success": "成功",
     "uploading_failed": "上传失败",
     "no_devices": "没有设备",
