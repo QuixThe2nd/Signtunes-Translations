@@ -400,7 +400,7 @@
     "app_available_soon": "Den forespurgte app vil snart være tilgængelig",
     "requested": "Anmodet",
     "do_not_trust": "Dette er en finans app. Det kan være ondsindet og stjæle dine penge. Stol ikke på denne app.",
-    "enterprise_configure_error": "Der opstod en fejl under konfiguration af virksomhedens certifikat",
+    "enterprise_configure_error": "There was an error configuring the certificate",
     "success": "Succes",
     "uploading_failed": "Upload mislykkedes",
     "no_devices": "Ingen enheder",
