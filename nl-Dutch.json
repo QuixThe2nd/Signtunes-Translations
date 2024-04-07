@@ -400,7 +400,7 @@
     "app_available_soon": "De gevraagde app zal binnenkort beschikbaar zijn",
     "requested": "Aangevraagd",
     "do_not_trust": "Dit is een financieringsapp. Het kan kwaadaardig zijn en uw geld stelen. Vertrouw deze app niet.",
-    "enterprise_configure_error": "Er is een fout opgetreden bij het configureren van het bedrijfscertificaat",
+    "enterprise_configure_error": "There was an error configuring the certificate",
     "success": "Geslaagd",
     "uploading_failed": "Uploaden mislukt",
     "no_devices": "Geen apparaten",
