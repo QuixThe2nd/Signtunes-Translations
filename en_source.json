@@ -535,5 +535,9 @@
     "Jailbreak tools": "Jailbreak tools",
     "File Sharing": "File Sharing",
     "Adult Games": "Adult Games",
-    "whitelist_instructions": "To whitelist us, you can either use a DNS (like NextDNS) or use a VPN. Alternatively, you can call your ISP and ask them to unblock our servers. (*.starfiles.co)"
+    "whitelist_instructions": "To whitelist us, you can either use a DNS (like NextDNS) or use a VPN. Alternatively, you can call your ISP and ask them to unblock our servers. (*.starfiles.co)",
+    "Hack Non JB": "Hack Non JB",
+    "Distribution  Certificate": "Distribution  Certificate",
+    "Custom Signer Server API Spec": "Custom Signer Server API Spec",
+    "Limited to 3 apps without vulnerability": "Limited to 3 apps without vulnerability"
 }
