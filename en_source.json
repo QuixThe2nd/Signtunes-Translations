@@ -539,5 +539,6 @@
     "Hack Non JB": "Hack Non JB",
     "Distribution  Certificate": "Distribution  Certificate",
     "Custom Signer Server API Spec": "Custom Signer Server API Spec",
-    "Limited to 3 apps without vulnerability": "Limited to 3 apps without vulnerability"
+    "Limited to 3 apps without vulnerability": "Limited to 3 apps without vulnerability",
+    "invalid_ipa": "Invalid IPA"
 }
