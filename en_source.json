@@ -540,5 +540,8 @@
     "Distribution  Certificate": "Distribution  Certificate",
     "Custom Signer Server API Spec": "Custom Signer Server API Spec",
     "Limited to 3 apps without vulnerability": "Limited to 3 apps without vulnerability",
-    "invalid_ipa": "Invalid IPA"
+    "invalid_ipa": "Invalid IPA",
+    "signing_params_reset": "Signing Params Reset",
+    "reset_signing_params": "Are you sure you want to reset your signing parameters?",
+    "reset_signing_params_desc": "This will reset all your signing parameters to default."
 }
