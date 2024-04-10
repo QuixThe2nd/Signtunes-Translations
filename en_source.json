@@ -543,5 +543,6 @@
     "invalid_ipa": "Invalid IPA",
     "signing_params_reset": "Signing Params Reset",
     "reset_signing_params": "Are you sure you want to reset your signing parameters?",
-    "reset_signing_params_desc": "This will reset all your signing parameters to default."
+    "reset_signing_params_desc": "This will reset all your signing parameters to default.",
+    "ok": "OK"
 }
