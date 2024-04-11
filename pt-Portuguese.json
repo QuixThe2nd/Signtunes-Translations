@@ -545,5 +545,6 @@
     "reset_signing_params": "Are you sure you want to reset your signing parameters?",
     "reset_signing_params_desc": "This will reset all your signing parameters to default.",
     "ok": "OK",
-    "An error occurred while downloading the file": "An error occurred while downloading the file"
+    "An error occurred while downloading the file": "An error occurred while downloading the file",
+    "checking_certificates": "Checking Certificates"
 }
