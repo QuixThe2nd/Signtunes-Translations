@@ -546,5 +546,17 @@
     "reset_signing_params_desc": "This will reset all your signing parameters to default.",
     "ok": "OK",
     "An error occurred while downloading the file": "An error occurred while downloading the file",
-    "checking_certificates": "Checking Certificates"
+    "checking_certificates": "Checking Certificates",
+    "you_are_being_signed": "You are being signed",
+    "no_appdb_token": "No AppDB token",
+    "error_occured": "An error occurred",
+    "device_configuration": "Device Configuration",
+    "up_to_date": "Up to date",
+    "failed_to_download": "Failed to download",
+    "sync_failed": "Sync failed",
+    "did_you_mean": "Did you mean",
+    "decrypt": "Decrypt",
+    "no_certificates": "No certificates",
+    "rate_us_prompt": "If you enjoy using Servo, please take a moment to rate it. Thanks for your support!",
+    "sync": "Sync"
 }
