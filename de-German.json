@@ -558,5 +558,6 @@
     "decrypt": "Decrypt",
     "no_certificates": "No certificates",
     "rate_us_prompt": "If you enjoy using Servo, please take a moment to rate it. Thanks for your support!",
-    "sync": "Sync"
+    "sync": "Sync",
+    "all_set": "You're all set! You will be processed shortly."
 }
